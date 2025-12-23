@@ -63,7 +63,7 @@ Try asking:
 - "Show me companies with high YoY growth"
 - "What are the key trends in FY25?"
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rag star/
