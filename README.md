@@ -227,7 +227,7 @@ Delete `chroma_db/` folder and restart app to regenerate the vector database.
 
 ##  Performance
 
-- **Query Response**: 1-3 seconds (Groq is fast!)
+- **Query Response**: 1-3 seconds 
 - **Knowledge Base Gen**: ~5 seconds for 49 documents
 - **Vector Ingestion**: ~10 seconds for full corpus
 - **Embedding Model**: Runs on CPU, very efficient
