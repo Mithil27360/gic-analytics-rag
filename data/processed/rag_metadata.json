@@ -1,0 +1,414 @@
+[
+  {
+    "doc_type": "company_summary",
+    "company": "Acko General Insurance Ltd",
+    "sector": "Private Sector",
+    "total_premium": 1407.55,
+    "top_segment": "health",
+    "top_segment_premium": 690.26,
+    "doc_id": "company_acko_general_insurance_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Bajaj General Insurance Limited ",
+    "sector": "Private Sector",
+    "total_premium": 13464.480000000001,
+    "top_segment": "health",
+    "top_segment_premium": 4362.67,
+    "doc_id": "company_bajaj_general_insurance_limited_"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Cholamandalam MS General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 4422.679999999999,
+    "top_segment": "motor_total",
+    "top_segment_premium": 3096.74,
+    "doc_id": "company_cholamandalam_ms_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Generali Central Insurance Company Limited",
+    "sector": "Private Sector",
+    "total_premium": 3010.41,
+    "top_segment": "motor_total",
+    "top_segment_premium": 1097.21,
+    "doc_id": "company_generali_central_insurance_company_limited"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Go Digit General Insurance Ltd",
+    "sector": "Private Sector",
+    "total_premium": 5885.85,
+    "top_segment": "motor_total",
+    "top_segment_premium": 3868.62,
+    "doc_id": "company_go_digit_general_insurance_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "HDFC Ergo General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 8615.74,
+    "top_segment": "health",
+    "top_segment_premium": 3377.15,
+    "doc_id": "company_hdfc_ergo_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "ICICI Lombard General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 16907.38,
+    "top_segment": "motor_total",
+    "top_segment_premium": 6255.95,
+    "doc_id": "company_icici_lombard_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "IFFCO-Tokio General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 5195.76,
+    "top_segment": "motor_total",
+    "top_segment_premium": 2289.84,
+    "doc_id": "company_iffco-tokio_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Liberty \u00a0General Insurance Co. Ltd",
+    "sector": "Private Sector",
+    "total_premium": 1629.79,
+    "top_segment": "motor_total",
+    "top_segment_premium": 1130.14,
+    "doc_id": "company_liberty_\u00a0general_insurance_co._ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Magma General Insurance Limited",
+    "sector": "Private Sector",
+    "total_premium": 1973.4999999999998,
+    "top_segment": "motor_total",
+    "top_segment_premium": 1120.11,
+    "doc_id": "company_magma_general_insurance_limited"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "National Insurance Co Ltd",
+    "sector": "Public Sector (PSU)",
+    "total_premium": 11127.41,
+    "top_segment": "health",
+    "top_segment_premium": 5614.49,
+    "doc_id": "company_national_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Raheja QBE General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 119.00999999999999,
+    "top_segment": "motor_total",
+    "top_segment_premium": 58.16,
+    "doc_id": "company_raheja_qbe_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Reliance General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 7974.160000000001,
+    "top_segment": "motor_total",
+    "top_segment_premium": 2713.76,
+    "doc_id": "company_reliance_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Royal Sundaram General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 2534.79,
+    "top_segment": "motor_total",
+    "top_segment_premium": 1513.53,
+    "doc_id": "company_royal_sundaram_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "SBI General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 8376.779999999999,
+    "top_segment": "motor_total",
+    "top_segment_premium": 2824.94,
+    "doc_id": "company_sbi_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Shriram General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 2479.3399999999997,
+    "top_segment": "motor_total",
+    "top_segment_premium": 2268.14,
+    "doc_id": "company_shriram_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Tata AIG General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 11675.479999999998,
+    "top_segment": "motor_total",
+    "top_segment_premium": 5323.65,
+    "doc_id": "company_tata_aig_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "The New India Assurance Co Ltd",
+    "sector": "Public Sector (PSU)",
+    "total_premium": 25653.34,
+    "top_segment": "health",
+    "top_segment_premium": 13413.36,
+    "doc_id": "company_the_new_india_assurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "The Oriental Insurance Co Ltd",
+    "sector": "Public Sector (PSU)",
+    "total_premium": 12782.67,
+    "top_segment": "health",
+    "top_segment_premium": 5182.63,
+    "doc_id": "company_the_oriental_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "United India Insurance Co Ltd",
+    "sector": "Public Sector (PSU)",
+    "total_premium": 12525.36,
+    "top_segment": "motor_total",
+    "top_segment_premium": 5376.49,
+    "doc_id": "company_united_india_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Universal Sompo General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 3392.8199999999997,
+    "top_segment": "motor_total",
+    "top_segment_premium": 1833.83,
+    "doc_id": "company_universal_sompo_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Zuno General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 618.0699999999999,
+    "top_segment": "motor_total",
+    "top_segment_premium": 320.2,
+    "doc_id": "company_zuno_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Zurich Kotak Mahindra General Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 1215.3799999999999,
+    "top_segment": "motor_total",
+    "top_segment_premium": 529.04,
+    "doc_id": "company_zurich_kotak_mahindra_general_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Navi General Insurance Co. Ltd",
+    "sector": "Private Sector",
+    "total_premium": 61.53,
+    "top_segment": "health",
+    "top_segment_premium": 58.04,
+    "doc_id": "company_navi_general_insurance_co._ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Kshema General insurance",
+    "sector": "Private Sector",
+    "total_premium": 521.0,
+    "top_segment": "misc",
+    "top_segment_premium": 520.97,
+    "doc_id": "company_kshema_general_insurance"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": " Niva bupa health insurance company limited",
+    "sector": "Private Sector",
+    "total_premium": 4162.74,
+    "top_segment": "health",
+    "top_segment_premium": 4107.51,
+    "doc_id": "company__niva_bupa_health_insurance_company_limited"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Aditya Birla Health Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 3256.77,
+    "top_segment": "health",
+    "top_segment_premium": 3090.94,
+    "doc_id": "company_aditya_birla_health_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Care Health Insurance Ltd",
+    "sector": "Private Sector",
+    "total_premium": 5192.9400000000005,
+    "top_segment": "health",
+    "top_segment_premium": 5066.14,
+    "doc_id": "company_care_health_insurance_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Galaxy Health Insurance Company Ltd",
+    "sector": "Private Sector",
+    "total_premium": 50.51,
+    "top_segment": "health",
+    "top_segment_premium": 47.8,
+    "doc_id": "company_galaxy_health_insurance_company_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "ManipalCigna Health Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 1177.49,
+    "top_segment": "health",
+    "top_segment_premium": 1151.93,
+    "doc_id": "company_manipalcigna_health_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Narayana Health Insurance Ltd",
+    "sector": "Private Sector",
+    "total_premium": 10.35,
+    "top_segment": "health",
+    "top_segment_premium": 10.35,
+    "doc_id": "company_narayana_health_insurance_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Star Health & Allied Insurance Co Ltd",
+    "sector": "Private Sector",
+    "total_premium": 9466.28,
+    "top_segment": "health",
+    "top_segment_premium": 9376.09,
+    "doc_id": "company_star_health_&_allied_insurance_co_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "Agriculture Insurance Co Of India Ltd",
+    "sector": "Private Sector",
+    "total_premium": 7016.1,
+    "top_segment": "misc",
+    "top_segment_premium": 7016.1,
+    "doc_id": "company_agriculture_insurance_co_of_india_ltd"
+  },
+  {
+    "doc_type": "company_summary",
+    "company": "ECGC Ltd",
+    "sector": "Private Sector",
+    "total_premium": 777.34,
+    "top_segment": "misc",
+    "top_segment_premium": 777.34,
+    "doc_id": "company_ecgc_ltd"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "health",
+    "total_premium": 76564.07,
+    "yoy_growth": 7.025151111172627,
+    "doc_id": "segment_health"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "motor_total",
+    "total_premium": 58992.83,
+    "yoy_growth": 8.405537439829912,
+    "doc_id": "segment_motor_total"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "misc",
+    "total_premium": 20421.84,
+    "yoy_growth": -16.9516773070368,
+    "doc_id": "segment_misc"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "fire",
+    "total_premium": 19237.429999999997,
+    "yoy_growth": 19.558432357181903,
+    "doc_id": "segment_fire"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "personal_accident",
+    "total_premium": 7504.74,
+    "yoy_growth": 31.665108151589443,
+    "doc_id": "segment_personal_accident"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "engineering",
+    "total_premium": 3963.9000000000005,
+    "yoy_growth": 13.120480346104912,
+    "doc_id": "segment_engineering"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "liability",
+    "total_premium": 3812.98,
+    "yoy_growth": 6.165600271749711,
+    "doc_id": "segment_liability"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "marine_total",
+    "total_premium": 3565.7300000000005,
+    "yoy_growth": 4.44985382943447,
+    "doc_id": "segment_marine_total"
+  },
+  {
+    "doc_type": "segment_summary",
+    "segment": "aviation",
+    "total_premium": 617.2800000000001,
+    "yoy_growth": -1.6631619193270788,
+    "doc_id": "segment_aviation"
+  },
+  {
+    "doc_type": "company_rankings",
+    "doc_id": "company_rankings_fy25"
+  },
+  {
+    "doc_type": "health_rankings",
+    "doc_id": "health_segment_rankings_fy25"
+  },
+  {
+    "doc_type": "segment_comparison",
+    "doc_id": "segment_comparison_fy25"
+  },
+  {
+    "doc_type": "risk_classification",
+    "risk_type": "High-Crop-Risk",
+    "doc_id": "risk_high_crop_risk"
+  },
+  {
+    "doc_type": "risk_classification",
+    "risk_type": "Group-Heavy-Health",
+    "doc_id": "risk_group_heavy_health"
+  },
+  {
+    "doc_type": "risk_classification",
+    "risk_type": "Retail-First-Health",
+    "doc_id": "risk_retail_first_health"
+  },
+  {
+    "doc_type": "risk_classification",
+    "risk_type": "High-Concentration",
+    "doc_id": "risk_high_concentration"
+  },
+  {
+    "doc_type": "industry_overview",
+    "total_premium": 194680.8,
+    "yoy_growth": 6.1076276180429,
+    "doc_id": "industry_overview_fy25"
+  },
+  {
+    "doc_type": "growth_insights",
+    "peak_month": "APR",
+    "doc_id": "growth_patterns_fy25"
+  }
+]

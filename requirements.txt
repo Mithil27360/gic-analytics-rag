@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+groq
+chromadb
+sentence-transformers
+rank-bm25
+python-dotenv
+openpyxl

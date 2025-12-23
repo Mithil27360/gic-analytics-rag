@@ -1,0 +1,44 @@
+# Security - Never commit API keys or secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# ChromaDB vector database (regenerated on deployment)
+chroma_db/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

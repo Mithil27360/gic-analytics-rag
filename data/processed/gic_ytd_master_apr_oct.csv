@@ -1,0 +1,2920 @@
+company,financial_year,ytd_upto_month,segment,premium_ytd
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,fire,773.92
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,fire,689.31
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,fire,123.31
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,fire,120.52
+Future Generali India Insurance Co Ltd,FY25,APR,fire,158.56
+Future Generali India Insurance Co Ltd,FY24,APR,fire,122.61
+Go Digit General Insurance Ltd,FY25,APR,fire,213.49
+Go Digit General Insurance Ltd,FY24,APR,fire,148.12
+HDFC Ergo General Insurance Co Ltd,FY25,APR,fire,524.92
+HDFC Ergo General Insurance Co Ltd,FY24,APR,fire,512.01
+ICICI Lombard General Insurance Co Ltd,FY25,APR,fire,928.01
+ICICI Lombard General Insurance Co Ltd,FY24,APR,fire,812.94
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,fire,227.87
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,fire,188.98
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,fire,7.02
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,fire,13.41
+Liberty  General Insurance Co. Ltd,FY25,APR,fire,12.65
+Liberty  General Insurance Co. Ltd,FY24,APR,fire,11.05
+Magma General Insurance Limited,FY25,APR,fire,63.4
+Magma General Insurance Limited,FY24,APR,fire,57.43
+National Insurance Co Ltd,FY25,APR,fire,287.95
+National Insurance Co Ltd,FY24,APR,fire,212.98
+Raheja QBE General Insurance Co Ltd,FY25,APR,fire,1.18
+Raheja QBE General Insurance Co Ltd,FY24,APR,fire,1.52
+Reliance General Insurance Co Ltd,FY25,APR,fire,537.83
+Reliance General Insurance Co Ltd,FY24,APR,fire,474.14
+Royal Sundaram General Insurance Co Ltd,FY25,APR,fire,90.8
+Royal Sundaram General Insurance Co Ltd,FY24,APR,fire,79.68
+SBI General Insurance Co Ltd,FY25,APR,fire,320.76
+SBI General Insurance Co Ltd,FY24,APR,fire,246.17
+Shriram General Insurance Co Ltd,FY25,APR,fire,13.9
+Shriram General Insurance Co Ltd,FY24,APR,fire,10.85
+Tata AIG General Insurance Co Ltd,FY25,APR,fire,444.17
+Tata AIG General Insurance Co Ltd,FY24,APR,fire,533.29
+The New India Assurance Co Ltd,FY25,APR,fire,1058.45
+The New India Assurance Co Ltd,FY24,APR,fire,791.67
+The Oriental Insurance Co Ltd,FY25,APR,fire,339.94
+The Oriental Insurance Co Ltd,FY24,APR,fire,290.95
+United India Insurance Co Ltd,FY25,APR,fire,253.44
+United India Insurance Co Ltd,FY24,APR,fire,206.24
+Universal Sompo General Insurance Co Ltd,FY25,APR,fire,113.11
+Universal Sompo General Insurance Co Ltd,FY24,APR,fire,73.66
+Zuno General Insurance Co Ltd,FY25,APR,fire,13.83
+Zuno General Insurance Co Ltd,FY24,APR,fire,13.44
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,marine_total,72.96
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,marine_total,59.15
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,marine_total,30.75
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,marine_total,25.45
+Future Generali India Insurance Co Ltd,FY25,APR,marine_total,20.31
+Future Generali India Insurance Co Ltd,FY24,APR,marine_total,19.06
+Go Digit General Insurance Ltd,FY25,APR,marine_total,21.91
+Go Digit General Insurance Ltd,FY24,APR,marine_total,19.31
+HDFC Ergo General Insurance Co Ltd,FY25,APR,marine_total,33.25
+HDFC Ergo General Insurance Co Ltd,FY24,APR,marine_total,36.41
+ICICI Lombard General Insurance Co Ltd,FY25,APR,marine_total,176.41
+ICICI Lombard General Insurance Co Ltd,FY24,APR,marine_total,191.23
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,marine_total,42.28
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,marine_total,30.07
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,marine_total,2.16
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,marine_total,2.11
+Liberty  General Insurance Co. Ltd,FY25,APR,marine_total,3.83
+Liberty  General Insurance Co. Ltd,FY24,APR,marine_total,3.24
+Magma General Insurance Limited,FY25,APR,marine_total,3.58
+Magma General Insurance Limited,FY24,APR,marine_total,4.4
+National Insurance Co Ltd,FY25,APR,marine_total,19.13
+National Insurance Co Ltd,FY24,APR,marine_total,32.11
+Reliance General Insurance Co Ltd,FY25,APR,marine_total,35.11
+Reliance General Insurance Co Ltd,FY24,APR,marine_total,38.83
+Royal Sundaram General Insurance Co Ltd,FY25,APR,marine_total,10.26
+Royal Sundaram General Insurance Co Ltd,FY24,APR,marine_total,10.21
+SBI General Insurance Co Ltd,FY25,APR,marine_total,18.62
+SBI General Insurance Co Ltd,FY24,APR,marine_total,15.95
+Shriram General Insurance Co Ltd,FY25,APR,marine_total,0.29
+Shriram General Insurance Co Ltd,FY24,APR,marine_total,0.15
+Tata AIG General Insurance Co Ltd,FY25,APR,marine_total,120.09
+Tata AIG General Insurance Co Ltd,FY24,APR,marine_total,109.46
+The New India Assurance Co Ltd,FY25,APR,marine_total,146.4
+The New India Assurance Co Ltd,FY24,APR,marine_total,120.09
+The Oriental Insurance Co Ltd,FY25,APR,marine_total,68.23
+The Oriental Insurance Co Ltd,FY24,APR,marine_total,64.23
+United India Insurance Co Ltd,FY25,APR,marine_total,35.36
+United India Insurance Co Ltd,FY24,APR,marine_total,35.45
+Universal Sompo General Insurance Co Ltd,FY25,APR,marine_total,9.6
+Universal Sompo General Insurance Co Ltd,FY24,APR,marine_total,8.07
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,engineering,51.8
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,engineering,56.32
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,engineering,5.16
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,engineering,4.98
+Future Generali India Insurance Co Ltd,FY25,APR,engineering,8.81
+Future Generali India Insurance Co Ltd,FY24,APR,engineering,6.52
+Go Digit General Insurance Ltd,FY25,APR,engineering,13.89
+Go Digit General Insurance Ltd,FY24,APR,engineering,7.0
+HDFC Ergo General Insurance Co Ltd,FY25,APR,engineering,53.58
+HDFC Ergo General Insurance Co Ltd,FY24,APR,engineering,33.74
+ICICI Lombard General Insurance Co Ltd,FY25,APR,engineering,133.71
+ICICI Lombard General Insurance Co Ltd,FY24,APR,engineering,124.7
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,engineering,23.64
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,engineering,22.5
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,engineering,2.73
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,engineering,1.06
+Liberty  General Insurance Co. Ltd,FY25,APR,engineering,3.84
+Liberty  General Insurance Co. Ltd,FY24,APR,engineering,3.1
+Magma General Insurance Limited,FY25,APR,engineering,4.05
+Magma General Insurance Limited,FY24,APR,engineering,0.87
+National Insurance Co Ltd,FY25,APR,engineering,51.65
+National Insurance Co Ltd,FY24,APR,engineering,43.89
+Raheja QBE General Insurance Co Ltd,FY25,APR,engineering,0.09
+Raheja QBE General Insurance Co Ltd,FY24,APR,engineering,0.15
+Reliance General Insurance Co Ltd,FY25,APR,engineering,98.79
+Reliance General Insurance Co Ltd,FY24,APR,engineering,81.71
+Royal Sundaram General Insurance Co Ltd,FY25,APR,engineering,5.82
+Royal Sundaram General Insurance Co Ltd,FY24,APR,engineering,7.56
+SBI General Insurance Co Ltd,FY25,APR,engineering,14.08
+SBI General Insurance Co Ltd,FY24,APR,engineering,12.8
+Shriram General Insurance Co Ltd,FY25,APR,engineering,2.29
+Shriram General Insurance Co Ltd,FY24,APR,engineering,1.87
+Tata AIG General Insurance Co Ltd,FY25,APR,engineering,27.25
+Tata AIG General Insurance Co Ltd,FY24,APR,engineering,21.1
+The New India Assurance Co Ltd,FY25,APR,engineering,97.66
+The New India Assurance Co Ltd,FY24,APR,engineering,67.71
+The Oriental Insurance Co Ltd,FY25,APR,engineering,42.04
+The Oriental Insurance Co Ltd,FY24,APR,engineering,45.71
+United India Insurance Co Ltd,FY25,APR,engineering,46.34
+United India Insurance Co Ltd,FY24,APR,engineering,42.82
+Universal Sompo General Insurance Co Ltd,FY25,APR,engineering,1.77
+Universal Sompo General Insurance Co Ltd,FY24,APR,engineering,1.7
+Zuno General Insurance Co Ltd,FY25,APR,engineering,0.16
+Zuno General Insurance Co Ltd,FY24,APR,engineering,0.77
+Acko General Insurance Ltd,FY25,APR,motor_total,76.86
+Acko General Insurance Ltd,FY24,APR,motor_total,66.9
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,motor_total,546.71
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,motor_total,543.62
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,motor_total,404.49
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,motor_total,381.83
+Future Generali India Insurance Co Ltd,FY25,APR,motor_total,151.8
+Future Generali India Insurance Co Ltd,FY24,APR,motor_total,167.56
+Go Digit General Insurance Ltd,FY25,APR,motor_total,496.64
+Go Digit General Insurance Ltd,FY24,APR,motor_total,393.27
+HDFC Ergo General Insurance Co Ltd,FY25,APR,motor_total,193.08
+HDFC Ergo General Insurance Co Ltd,FY24,APR,motor_total,319.97
+ICICI Lombard General Insurance Co Ltd,FY25,APR,motor_total,845.99
+ICICI Lombard General Insurance Co Ltd,FY24,APR,motor_total,778.79
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,motor_total,321.81
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,motor_total,294.25
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,motor_total,82.1
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,motor_total,74.12
+Liberty  General Insurance Co. Ltd,FY25,APR,motor_total,127.48
+Liberty  General Insurance Co. Ltd,FY24,APR,motor_total,124.87
+Magma General Insurance Limited,FY25,APR,motor_total,166.89
+Magma General Insurance Limited,FY24,APR,motor_total,168.47
+National Insurance Co Ltd,FY25,APR,motor_total,435.32
+National Insurance Co Ltd,FY24,APR,motor_total,357.78
+Navi General Insurance Co. Ltd,FY25,APR,motor_total,0.11
+Navi General Insurance Co. Ltd,FY24,APR,motor_total,0.12
+Raheja QBE General Insurance Co Ltd,FY25,APR,motor_total,3.24
+Raheja QBE General Insurance Co Ltd,FY24,APR,motor_total,26.63
+Reliance General Insurance Co Ltd,FY25,APR,motor_total,313.4
+Reliance General Insurance Co Ltd,FY24,APR,motor_total,342.74
+Royal Sundaram General Insurance Co Ltd,FY25,APR,motor_total,178.8
+Royal Sundaram General Insurance Co Ltd,FY24,APR,motor_total,183.79
+SBI General Insurance Co Ltd,FY25,APR,motor_total,387.74
+SBI General Insurance Co Ltd,FY24,APR,motor_total,315.57
+Shriram General Insurance Co Ltd,FY25,APR,motor_total,258.62
+Shriram General Insurance Co Ltd,FY24,APR,motor_total,195.61
+Tata AIG General Insurance Co Ltd,FY25,APR,motor_total,685.3
+Tata AIG General Insurance Co Ltd,FY24,APR,motor_total,574.38
+The New India Assurance Co Ltd,FY25,APR,motor_total,827.82
+The New India Assurance Co Ltd,FY24,APR,motor_total,691.4
+The Oriental Insurance Co Ltd,FY25,APR,motor_total,381.65
+The Oriental Insurance Co Ltd,FY24,APR,motor_total,328.37
+United India Insurance Co Ltd,FY25,APR,motor_total,772.76
+United India Insurance Co Ltd,FY24,APR,motor_total,562.74
+Universal Sompo General Insurance Co Ltd,FY25,APR,motor_total,168.43
+Universal Sompo General Insurance Co Ltd,FY24,APR,motor_total,152.48
+Zuno General Insurance Co Ltd,FY25,APR,motor_total,42.07
+Zuno General Insurance Co Ltd,FY24,APR,motor_total,36.8
+Acko General Insurance Ltd,FY25,APR,health,89.99
+Acko General Insurance Ltd,FY24,APR,health,95.36
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,health,645.91
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,health,715.7
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,health,122.64
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,health,138.31
+Future Generali India Insurance Co Ltd,FY25,APR,health,263.49
+Future Generali India Insurance Co Ltd,FY24,APR,health,321.83
+Go Digit General Insurance Ltd,FY25,APR,health,184.75
+Go Digit General Insurance Ltd,FY24,APR,health,233.63
+HDFC Ergo General Insurance Co Ltd,FY25,APR,health,612.1
+HDFC Ergo General Insurance Co Ltd,FY24,APR,health,552.22
+ICICI Lombard General Insurance Co Ltd,FY25,APR,health,1179.08
+ICICI Lombard General Insurance Co Ltd,FY24,APR,health,1109.57
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,health,65.02
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,health,62.13
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,health,130.8
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,health,46.94
+Liberty  General Insurance Co. Ltd,FY25,APR,health,74.69
+Liberty  General Insurance Co. Ltd,FY24,APR,health,34.05
+Magma General Insurance Limited,FY25,APR,health,118.17
+Magma General Insurance Limited,FY24,APR,health,110.12
+National Insurance Co Ltd,FY25,APR,health,620.73
+National Insurance Co Ltd,FY24,APR,health,555.28
+Navi General Insurance Co. Ltd,FY25,APR,health,22.59
+Navi General Insurance Co. Ltd,FY24,APR,health,3.97
+Raheja QBE General Insurance Co Ltd,FY25,APR,health,0.32
+Raheja QBE General Insurance Co Ltd,FY24,APR,health,0.91
+Reliance General Insurance Co Ltd,FY25,APR,health,391.6
+Reliance General Insurance Co Ltd,FY24,APR,health,372.2
+Royal Sundaram General Insurance Co Ltd,FY25,APR,health,221.41
+Royal Sundaram General Insurance Co Ltd,FY24,APR,health,131.41
+SBI General Insurance Co Ltd,FY25,APR,health,444.95
+SBI General Insurance Co Ltd,FY24,APR,health,227.15
+Shriram General Insurance Co Ltd,FY25,APR,health,0.54
+Shriram General Insurance Co Ltd,FY24,APR,health,0.18
+Tata AIG General Insurance Co Ltd,FY25,APR,health,418.0
+Tata AIG General Insurance Co Ltd,FY24,APR,health,231.9
+The New India Assurance Co Ltd,FY25,APR,health,3411.7
+The New India Assurance Co Ltd,FY24,APR,health,3216.88
+The Oriental Insurance Co Ltd,FY25,APR,health,1020.35
+The Oriental Insurance Co Ltd,FY24,APR,health,630.57
+United India Insurance Co Ltd,FY25,APR,health,837.94
+United India Insurance Co Ltd,FY24,APR,health,1060.53
+Universal Sompo General Insurance Co Ltd,FY25,APR,health,137.63
+Universal Sompo General Insurance Co Ltd,FY24,APR,health,61.62
+Zuno General Insurance Co Ltd,FY25,APR,health,26.18
+Zuno General Insurance Co Ltd,FY24,APR,health,35.83
+ Niva bupa health insurance company limited,FY25,APR,health,475.51
+ Niva bupa health insurance company limited,FY24,APR,health,434.7
+Aditya Birla Health Insurance Co Ltd,FY25,APR,health,430.13
+Aditya Birla Health Insurance Co Ltd,FY24,APR,health,339.91
+Care Health Insurance Ltd,FY25,APR,health,710.6
+Care Health Insurance Ltd,FY24,APR,health,651.73
+Galaxy Health Insurance Company Ltd,FY25,APR,health,3.06
+ManipalCigna Health Insurance Co Ltd,FY25,APR,health,180.61
+ManipalCigna Health Insurance Co Ltd,FY24,APR,health,158.67
+Narayana Health Insurance Ltd,FY25,APR,health,0.4
+Star Health & Allied Insurance Co Ltd,FY25,APR,health,1050.53
+Star Health & Allied Insurance Co Ltd,FY24,APR,health,1003.01
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,aviation,2.93
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,aviation,2.1
+Go Digit General Insurance Ltd,FY25,APR,aviation,0.28
+HDFC Ergo General Insurance Co Ltd,FY25,APR,aviation,1.63
+HDFC Ergo General Insurance Co Ltd,FY24,APR,aviation,0.88
+ICICI Lombard General Insurance Co Ltd,FY25,APR,aviation,19.62
+ICICI Lombard General Insurance Co Ltd,FY24,APR,aviation,26.31
+National Insurance Co Ltd,FY25,APR,aviation,5.64
+National Insurance Co Ltd,FY24,APR,aviation,6.91
+Reliance General Insurance Co Ltd,FY24,APR,aviation,11.35
+SBI General Insurance Co Ltd,FY25,APR,aviation,0.04
+Tata AIG General Insurance Co Ltd,FY25,APR,aviation,24.64
+Tata AIG General Insurance Co Ltd,FY24,APR,aviation,24.67
+The New India Assurance Co Ltd,FY25,APR,aviation,54.4
+The New India Assurance Co Ltd,FY24,APR,aviation,27.74
+The Oriental Insurance Co Ltd,FY24,APR,aviation,6.43
+United India Insurance Co Ltd,FY25,APR,aviation,2.2
+United India Insurance Co Ltd,FY24,APR,aviation,1.73
+Acko General Insurance Ltd,FY25,APR,liability,2.36
+Acko General Insurance Ltd,FY24,APR,liability,5.48
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,liability,164.02
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,liability,121.6
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,liability,3.85
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,liability,3.86
+Future Generali India Insurance Co Ltd,FY25,APR,liability,9.28
+Future Generali India Insurance Co Ltd,FY24,APR,liability,6.3
+Go Digit General Insurance Ltd,FY25,APR,liability,27.22
+Go Digit General Insurance Ltd,FY24,APR,liability,16.9
+HDFC Ergo General Insurance Co Ltd,FY25,APR,liability,131.39
+HDFC Ergo General Insurance Co Ltd,FY24,APR,liability,145.37
+ICICI Lombard General Insurance Co Ltd,FY25,APR,liability,165.02
+ICICI Lombard General Insurance Co Ltd,FY24,APR,liability,161.72
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,liability,25.8
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,liability,27.68
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,liability,0.37
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,liability,0.14
+Liberty  General Insurance Co. Ltd,FY25,APR,liability,6.25
+Liberty  General Insurance Co. Ltd,FY24,APR,liability,1.07
+Magma General Insurance Limited,FY25,APR,liability,9.96
+Magma General Insurance Limited,FY24,APR,liability,8.75
+National Insurance Co Ltd,FY25,APR,liability,23.08
+National Insurance Co Ltd,FY24,APR,liability,29.18
+Raheja QBE General Insurance Co Ltd,FY25,APR,liability,11.47
+Raheja QBE General Insurance Co Ltd,FY24,APR,liability,5.18
+Reliance General Insurance Co Ltd,FY25,APR,liability,24.94
+Reliance General Insurance Co Ltd,FY24,APR,liability,16.12
+Royal Sundaram General Insurance Co Ltd,FY25,APR,liability,2.23
+Royal Sundaram General Insurance Co Ltd,FY24,APR,liability,1.63
+SBI General Insurance Co Ltd,FY25,APR,liability,14.98
+SBI General Insurance Co Ltd,FY24,APR,liability,8.32
+Shriram General Insurance Co Ltd,FY25,APR,liability,1.02
+Shriram General Insurance Co Ltd,FY24,APR,liability,0.86
+Tata AIG General Insurance Co Ltd,FY25,APR,liability,204.83
+Tata AIG General Insurance Co Ltd,FY24,APR,liability,190.11
+The New India Assurance Co Ltd,FY25,APR,liability,48.65
+The New India Assurance Co Ltd,FY24,APR,liability,35.04
+The Oriental Insurance Co Ltd,FY25,APR,liability,12.81
+The Oriental Insurance Co Ltd,FY24,APR,liability,13.99
+United India Insurance Co Ltd,FY25,APR,liability,20.1
+United India Insurance Co Ltd,FY24,APR,liability,19.61
+Universal Sompo General Insurance Co Ltd,FY25,APR,liability,7.17
+Universal Sompo General Insurance Co Ltd,FY24,APR,liability,3.03
+Zuno General Insurance Co Ltd,FY24,APR,liability,0.01
+Acko General Insurance Ltd,FY25,APR,personal_accident,1.48
+Acko General Insurance Ltd,FY24,APR,personal_accident,1.17
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,personal_accident,21.07
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,personal_accident,26.59
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,personal_accident,14.94
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,personal_accident,32.43
+Future Generali India Insurance Co Ltd,FY25,APR,personal_accident,6.6
+Future Generali India Insurance Co Ltd,FY24,APR,personal_accident,12.13
+Go Digit General Insurance Ltd,FY25,APR,personal_accident,10.84
+Go Digit General Insurance Ltd,FY24,APR,personal_accident,20.09
+HDFC Ergo General Insurance Co Ltd,FY25,APR,personal_accident,27.43
+HDFC Ergo General Insurance Co Ltd,FY24,APR,personal_accident,43.57
+ICICI Lombard General Insurance Co Ltd,FY25,APR,personal_accident,60.91
+ICICI Lombard General Insurance Co Ltd,FY24,APR,personal_accident,75.91
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,personal_accident,11.41
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,personal_accident,13.29
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,personal_accident,5.68
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,personal_accident,4.79
+Liberty  General Insurance Co. Ltd,FY25,APR,personal_accident,2.63
+Liberty  General Insurance Co. Ltd,FY24,APR,personal_accident,2.31
+Magma General Insurance Limited,FY25,APR,personal_accident,12.3
+Magma General Insurance Limited,FY24,APR,personal_accident,4.18
+National Insurance Co Ltd,FY25,APR,personal_accident,15.58
+National Insurance Co Ltd,FY24,APR,personal_accident,17.73
+Navi General Insurance Co. Ltd,FY25,APR,personal_accident,0.03
+Raheja QBE General Insurance Co Ltd,FY25,APR,personal_accident,0.15
+Raheja QBE General Insurance Co Ltd,FY24,APR,personal_accident,0.05
+Reliance General Insurance Co Ltd,FY25,APR,personal_accident,41.54
+Reliance General Insurance Co Ltd,FY24,APR,personal_accident,31.57
+Royal Sundaram General Insurance Co Ltd,FY25,APR,personal_accident,7.64
+Royal Sundaram General Insurance Co Ltd,FY24,APR,personal_accident,8.47
+SBI General Insurance Co Ltd,FY25,APR,personal_accident,76.11
+SBI General Insurance Co Ltd,FY24,APR,personal_accident,52.21
+Shriram General Insurance Co Ltd,FY25,APR,personal_accident,10.14
+Shriram General Insurance Co Ltd,FY24,APR,personal_accident,8.47
+Tata AIG General Insurance Co Ltd,FY25,APR,personal_accident,15.33
+Tata AIG General Insurance Co Ltd,FY24,APR,personal_accident,13.64
+The New India Assurance Co Ltd,FY25,APR,personal_accident,65.39
+The New India Assurance Co Ltd,FY24,APR,personal_accident,49.02
+The Oriental Insurance Co Ltd,FY25,APR,personal_accident,720.35
+The Oriental Insurance Co Ltd,FY24,APR,personal_accident,303.37
+United India Insurance Co Ltd,FY25,APR,personal_accident,48.95
+United India Insurance Co Ltd,FY24,APR,personal_accident,37.3
+Universal Sompo General Insurance Co Ltd,FY25,APR,personal_accident,29.29
+Universal Sompo General Insurance Co Ltd,FY24,APR,personal_accident,30.14
+Zuno General Insurance Co Ltd,FY25,APR,personal_accident,1.71
+Zuno General Insurance Co Ltd,FY24,APR,personal_accident,3.56
+ Niva bupa health insurance company limited,FY25,APR,personal_accident,7.56
+ Niva bupa health insurance company limited,FY24,APR,personal_accident,9.5
+Aditya Birla Health Insurance Co Ltd,FY25,APR,personal_accident,8.24
+Aditya Birla Health Insurance Co Ltd,FY24,APR,personal_accident,17.69
+Care Health Insurance Ltd,FY25,APR,personal_accident,15.59
+Care Health Insurance Ltd,FY24,APR,personal_accident,14.64
+Galaxy Health Insurance Company Ltd,FY25,APR,personal_accident,0.32
+ManipalCigna Health Insurance Co Ltd,FY25,APR,personal_accident,3.17
+ManipalCigna Health Insurance Co Ltd,FY24,APR,personal_accident,2.55
+Star Health & Allied Insurance Co Ltd,FY25,APR,personal_accident,9.61
+Star Health & Allied Insurance Co Ltd,FY24,APR,personal_accident,10.13
+Acko General Insurance Ltd,FY25,APR,misc,6.72
+Acko General Insurance Ltd,FY24,APR,misc,4.66
+Bajaj Allianz General Insurance Co Ltd,FY25,APR,misc,123.5
+Bajaj Allianz General Insurance Co Ltd,FY24,APR,misc,174.18
+Cholamandalam MS General Insurance Co Ltd,FY25,APR,misc,3.44
+Cholamandalam MS General Insurance Co Ltd,FY24,APR,misc,15.65
+Future Generali India Insurance Co Ltd,FY25,APR,misc,22.2
+Future Generali India Insurance Co Ltd,FY24,APR,misc,34.83
+Go Digit General Insurance Ltd,FY25,APR,misc,31.63
+Go Digit General Insurance Ltd,FY24,APR,misc,52.06
+HDFC Ergo General Insurance Co Ltd,FY25,APR,misc,42.55
+HDFC Ergo General Insurance Co Ltd,FY24,APR,misc,83.27
+ICICI Lombard General Insurance Co Ltd,FY25,APR,misc,83.47
+ICICI Lombard General Insurance Co Ltd,FY24,APR,misc,84.84
+IFFCO-Tokio General Insurance Co Ltd,FY25,APR,misc,65.68
+IFFCO-Tokio General Insurance Co Ltd,FY24,APR,misc,55.87
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,APR,misc,2.8
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,APR,misc,3.85
+Kshema General insurance,FY25,APR,misc,306.48
+Kshema General insurance,FY24,APR,misc,0.27
+Liberty  General Insurance Co. Ltd,FY25,APR,misc,9.77
+Liberty  General Insurance Co. Ltd,FY24,APR,misc,6.99
+Magma General Insurance Limited,FY25,APR,misc,1.69
+Magma General Insurance Limited,FY24,APR,misc,1.25
+National Insurance Co Ltd,FY25,APR,misc,74.47
+National Insurance Co Ltd,FY24,APR,misc,126.65
+Raheja QBE General Insurance Co Ltd,FY25,APR,misc,0.02
+Reliance General Insurance Co Ltd,FY25,APR,misc,36.04
+Reliance General Insurance Co Ltd,FY24,APR,misc,31.0
+Royal Sundaram General Insurance Co Ltd,FY25,APR,misc,3.32
+Royal Sundaram General Insurance Co Ltd,FY24,APR,misc,3.16
+SBI General Insurance Co Ltd,FY25,APR,misc,13.28
+SBI General Insurance Co Ltd,FY24,APR,misc,26.3
+Shriram General Insurance Co Ltd,FY25,APR,misc,3.59
+Shriram General Insurance Co Ltd,FY24,APR,misc,1.25
+Tata AIG General Insurance Co Ltd,FY25,APR,misc,120.77
+Tata AIG General Insurance Co Ltd,FY24,APR,misc,41.63
+The New India Assurance Co Ltd,FY25,APR,misc,316.15
+The New India Assurance Co Ltd,FY24,APR,misc,259.48
+The Oriental Insurance Co Ltd,FY25,APR,misc,45.47
+United India Insurance Co Ltd,FY25,APR,misc,76.02
+United India Insurance Co Ltd,FY24,APR,misc,57.05
+Universal Sompo General Insurance Co Ltd,FY25,APR,misc,5.83
+Universal Sompo General Insurance Co Ltd,FY24,APR,misc,81.49
+Zuno General Insurance Co Ltd,FY25,APR,misc,2.13
+Zuno General Insurance Co Ltd,FY24,APR,misc,0.06
+Star Health & Allied Insurance Co Ltd,FY24,APR,misc,0.04
+Agriculture Insurance Co Of India Ltd,FY25,APR,misc,5.78
+Agriculture Insurance Co Of India Ltd,FY24,APR,misc,31.04
+ECGC Ltd,FY25,APR,misc,87.66
+ECGC Ltd,FY24,APR,misc,86.14
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,fire,1008.91
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,fire,883.03
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,fire,179.84
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,fire,195.43
+Future Generali India Insurance Co Ltd,FY25,MAY,fire,235.39
+Future Generali India Insurance Co Ltd,FY24,MAY,fire,180.06
+Go Digit General Insurance Ltd,FY25,MAY,fire,291.4
+Go Digit General Insurance Ltd,FY24,MAY,fire,190.51
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,fire,665.55
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,fire,652.76
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,fire,1191.83
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,fire,1071.88
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,fire,331.01
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,fire,267.86
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,fire,29.45
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,fire,21.38
+Liberty  General Insurance Co. Ltd,FY25,MAY,fire,18.71
+Liberty  General Insurance Co. Ltd,FY24,MAY,fire,17.35
+Magma General Insurance Limited,FY25,MAY,fire,81.52
+Magma General Insurance Limited,FY24,MAY,fire,68.89
+National Insurance Co Ltd,FY25,MAY,fire,422.74
+National Insurance Co Ltd,FY24,MAY,fire,317.79
+Raheja QBE General Insurance Co Ltd,FY25,MAY,fire,3.38
+Raheja QBE General Insurance Co Ltd,FY24,MAY,fire,3.16
+Reliance General Insurance Co Ltd,FY25,MAY,fire,608.96
+Reliance General Insurance Co Ltd,FY24,MAY,fire,541.1
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,fire,141.09
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,fire,115.47
+SBI General Insurance Co Ltd,FY25,MAY,fire,463.34
+SBI General Insurance Co Ltd,FY24,MAY,fire,415.13
+Shriram General Insurance Co Ltd,FY25,MAY,fire,25.24
+Shriram General Insurance Co Ltd,FY24,MAY,fire,21.24
+Tata AIG General Insurance Co Ltd,FY25,MAY,fire,675.82
+Tata AIG General Insurance Co Ltd,FY24,MAY,fire,720.43
+The New India Assurance Co Ltd,FY25,MAY,fire,1489.31
+The New India Assurance Co Ltd,FY24,MAY,fire,1120.14
+The Oriental Insurance Co Ltd,FY25,MAY,fire,522.05
+The Oriental Insurance Co Ltd,FY24,MAY,fire,457.52
+United India Insurance Co Ltd,FY25,MAY,fire,557.02
+United India Insurance Co Ltd,FY24,MAY,fire,445.64
+Universal Sompo General Insurance Co Ltd,FY25,MAY,fire,150.32
+Universal Sompo General Insurance Co Ltd,FY24,MAY,fire,106.79
+Zuno General Insurance Co Ltd,FY25,MAY,fire,16.25
+Zuno General Insurance Co Ltd,FY24,MAY,fire,15.35
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,marine_total,101.24
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,marine_total,85.79
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,marine_total,38.23
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,marine_total,35.1
+Future Generali India Insurance Co Ltd,FY25,MAY,marine_total,30.24
+Future Generali India Insurance Co Ltd,FY24,MAY,marine_total,30.24
+Go Digit General Insurance Ltd,FY25,MAY,marine_total,24.03
+Go Digit General Insurance Ltd,FY24,MAY,marine_total,22.62
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,marine_total,43.08
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,marine_total,44.55
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,marine_total,250.8
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,marine_total,261.76
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,marine_total,83.07
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,marine_total,70.09
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,marine_total,4.42
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,marine_total,3.1
+Liberty  General Insurance Co. Ltd,FY25,MAY,marine_total,5.62
+Liberty  General Insurance Co. Ltd,FY24,MAY,marine_total,6.36
+Magma General Insurance Limited,FY25,MAY,marine_total,5.93
+Magma General Insurance Limited,FY24,MAY,marine_total,6.4
+National Insurance Co Ltd,FY25,MAY,marine_total,54.55
+National Insurance Co Ltd,FY24,MAY,marine_total,55.51
+Raheja QBE General Insurance Co Ltd,FY24,MAY,marine_total,0.04
+Reliance General Insurance Co Ltd,FY25,MAY,marine_total,44.75
+Reliance General Insurance Co Ltd,FY24,MAY,marine_total,47.78
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,marine_total,17.33
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,marine_total,13.99
+SBI General Insurance Co Ltd,FY25,MAY,marine_total,28.92
+SBI General Insurance Co Ltd,FY24,MAY,marine_total,25.96
+Shriram General Insurance Co Ltd,FY25,MAY,marine_total,0.62
+Shriram General Insurance Co Ltd,FY24,MAY,marine_total,0.37
+Tata AIG General Insurance Co Ltd,FY25,MAY,marine_total,171.53
+Tata AIG General Insurance Co Ltd,FY24,MAY,marine_total,159.14
+The New India Assurance Co Ltd,FY25,MAY,marine_total,214.58
+The New India Assurance Co Ltd,FY24,MAY,marine_total,181.4
+The Oriental Insurance Co Ltd,FY25,MAY,marine_total,102.85
+The Oriental Insurance Co Ltd,FY24,MAY,marine_total,94.64
+United India Insurance Co Ltd,FY25,MAY,marine_total,65.1
+United India Insurance Co Ltd,FY24,MAY,marine_total,66.95
+Universal Sompo General Insurance Co Ltd,FY25,MAY,marine_total,16.72
+Universal Sompo General Insurance Co Ltd,FY24,MAY,marine_total,22.75
+Zuno General Insurance Co Ltd,FY25,MAY,marine_total,0.43
+Zuno General Insurance Co Ltd,FY24,MAY,marine_total,0.13
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,engineering,88.68
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,engineering,87.33
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,engineering,7.64
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,engineering,7.97
+Future Generali India Insurance Co Ltd,FY25,MAY,engineering,18.94
+Future Generali India Insurance Co Ltd,FY24,MAY,engineering,15.09
+Go Digit General Insurance Ltd,FY25,MAY,engineering,31.88
+Go Digit General Insurance Ltd,FY24,MAY,engineering,16.93
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,engineering,79.7
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,engineering,52.36
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,engineering,227.5
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,engineering,189.27
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,engineering,60.54
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,engineering,48.41
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,engineering,3.91
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,engineering,2.14
+Liberty  General Insurance Co. Ltd,FY25,MAY,engineering,7.39
+Liberty  General Insurance Co. Ltd,FY24,MAY,engineering,5.8
+Magma General Insurance Limited,FY25,MAY,engineering,6.5
+Magma General Insurance Limited,FY24,MAY,engineering,1.99
+National Insurance Co Ltd,FY25,MAY,engineering,86.57
+National Insurance Co Ltd,FY24,MAY,engineering,72.6
+Raheja QBE General Insurance Co Ltd,FY25,MAY,engineering,0.17
+Raheja QBE General Insurance Co Ltd,FY24,MAY,engineering,0.2
+Reliance General Insurance Co Ltd,FY25,MAY,engineering,121.2
+Reliance General Insurance Co Ltd,FY24,MAY,engineering,104.08
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,engineering,13.06
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,engineering,13.53
+SBI General Insurance Co Ltd,FY25,MAY,engineering,30.15
+SBI General Insurance Co Ltd,FY24,MAY,engineering,25.2
+Shriram General Insurance Co Ltd,FY25,MAY,engineering,4.15
+Shriram General Insurance Co Ltd,FY24,MAY,engineering,4.2
+Tata AIG General Insurance Co Ltd,FY25,MAY,engineering,52.8
+Tata AIG General Insurance Co Ltd,FY24,MAY,engineering,41.6
+The New India Assurance Co Ltd,FY25,MAY,engineering,202.31
+The New India Assurance Co Ltd,FY24,MAY,engineering,135.16
+The Oriental Insurance Co Ltd,FY25,MAY,engineering,83.1
+The Oriental Insurance Co Ltd,FY24,MAY,engineering,71.88
+United India Insurance Co Ltd,FY25,MAY,engineering,78.2
+United India Insurance Co Ltd,FY24,MAY,engineering,74.43
+Universal Sompo General Insurance Co Ltd,FY25,MAY,engineering,3.03
+Universal Sompo General Insurance Co Ltd,FY24,MAY,engineering,2.43
+Zuno General Insurance Co Ltd,FY25,MAY,engineering,0.3
+Zuno General Insurance Co Ltd,FY24,MAY,engineering,1.03
+Acko General Insurance Ltd,FY25,MAY,motor_total,154.27
+Acko General Insurance Ltd,FY24,MAY,motor_total,131.77
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,motor_total,1103.54
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,motor_total,975.03
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,motor_total,798.91
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,motor_total,747.34
+Future Generali India Insurance Co Ltd,FY25,MAY,motor_total,290.68
+Future Generali India Insurance Co Ltd,FY24,MAY,motor_total,316.57
+Go Digit General Insurance Ltd,FY25,MAY,motor_total,961.97
+Go Digit General Insurance Ltd,FY24,MAY,motor_total,803.92
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,motor_total,379.82
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,motor_total,607.15
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,motor_total,1643.77
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,motor_total,1551.61
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,motor_total,614.18
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,motor_total,568.72
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,motor_total,150.75
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,motor_total,143.39
+Liberty  General Insurance Co. Ltd,FY25,MAY,motor_total,249.23
+Liberty  General Insurance Co. Ltd,FY24,MAY,motor_total,259.6
+Magma General Insurance Limited,FY25,MAY,motor_total,328.99
+Magma General Insurance Limited,FY24,MAY,motor_total,328.32
+National Insurance Co Ltd,FY25,MAY,motor_total,834.66
+National Insurance Co Ltd,FY24,MAY,motor_total,694.2
+Navi General Insurance Co. Ltd,FY25,MAY,motor_total,0.22
+Navi General Insurance Co. Ltd,FY24,MAY,motor_total,0.29
+Raheja QBE General Insurance Co Ltd,FY25,MAY,motor_total,6.97
+Raheja QBE General Insurance Co Ltd,FY24,MAY,motor_total,52.93
+Reliance General Insurance Co Ltd,FY25,MAY,motor_total,620.96
+Reliance General Insurance Co Ltd,FY24,MAY,motor_total,663.56
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,motor_total,361.76
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,motor_total,370.87
+SBI General Insurance Co Ltd,FY25,MAY,motor_total,761.42
+SBI General Insurance Co Ltd,FY24,MAY,motor_total,625.39
+Shriram General Insurance Co Ltd,FY25,MAY,motor_total,551.1
+Shriram General Insurance Co Ltd,FY24,MAY,motor_total,418.86
+Tata AIG General Insurance Co Ltd,FY25,MAY,motor_total,1363.58
+Tata AIG General Insurance Co Ltd,FY24,MAY,motor_total,1188.56
+The New India Assurance Co Ltd,FY25,MAY,motor_total,1562.58
+The New India Assurance Co Ltd,FY24,MAY,motor_total,1414.95
+The Oriental Insurance Co Ltd,FY25,MAY,motor_total,673.54
+The Oriental Insurance Co Ltd,FY24,MAY,motor_total,628.72
+United India Insurance Co Ltd,FY25,MAY,motor_total,1528.8
+United India Insurance Co Ltd,FY24,MAY,motor_total,1120.39
+Universal Sompo General Insurance Co Ltd,FY25,MAY,motor_total,370.92
+Universal Sompo General Insurance Co Ltd,FY24,MAY,motor_total,348.87
+Zuno General Insurance Co Ltd,FY25,MAY,motor_total,82.35
+Zuno General Insurance Co Ltd,FY24,MAY,motor_total,74.19
+Acko General Insurance Ltd,FY25,MAY,health,194.17
+Acko General Insurance Ltd,FY24,MAY,health,188.96
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,health,938.5
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,health,992.76
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,health,195.03
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,health,209.37
+Future Generali India Insurance Co Ltd,FY25,MAY,health,303.16
+Future Generali India Insurance Co Ltd,FY24,MAY,health,467.84
+Go Digit General Insurance Ltd,FY25,MAY,health,257.87
+Go Digit General Insurance Ltd,FY24,MAY,health,305.97
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,health,1022.85
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,health,999.86
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,health,1914.19
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,health,1842.35
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,health,150.96
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,health,150.3
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,health,224.84
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,health,105.88
+Liberty  General Insurance Co. Ltd,FY25,MAY,health,119.35
+Liberty  General Insurance Co. Ltd,FY24,MAY,health,59.45
+Magma General Insurance Limited,FY25,MAY,health,174.42
+Magma General Insurance Limited,FY24,MAY,health,163.08
+National Insurance Co Ltd,FY25,MAY,health,969.34
+National Insurance Co Ltd,FY24,MAY,health,981.5
+Navi General Insurance Co. Ltd,FY25,MAY,health,27.63
+Navi General Insurance Co. Ltd,FY24,MAY,health,8.1
+Raheja QBE General Insurance Co Ltd,FY25,MAY,health,1.14
+Raheja QBE General Insurance Co Ltd,FY24,MAY,health,7.86
+Reliance General Insurance Co Ltd,FY25,MAY,health,755.04
+Reliance General Insurance Co Ltd,FY24,MAY,health,510.83
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,health,278.54
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,health,170.75
+SBI General Insurance Co Ltd,FY25,MAY,health,626.91
+SBI General Insurance Co Ltd,FY24,MAY,health,395.36
+Shriram General Insurance Co Ltd,FY25,MAY,health,1.43
+Shriram General Insurance Co Ltd,FY24,MAY,health,0.45
+Tata AIG General Insurance Co Ltd,FY25,MAY,health,723.57
+Tata AIG General Insurance Co Ltd,FY24,MAY,health,483.57
+The New India Assurance Co Ltd,FY25,MAY,health,4779.68
+The New India Assurance Co Ltd,FY24,MAY,health,4185.66
+The Oriental Insurance Co Ltd,FY25,MAY,health,1846.97
+The Oriental Insurance Co Ltd,FY24,MAY,health,1527.76
+United India Insurance Co Ltd,FY25,MAY,health,1442.67
+United India Insurance Co Ltd,FY24,MAY,health,1777.51
+Universal Sompo General Insurance Co Ltd,FY25,MAY,health,283.21
+Universal Sompo General Insurance Co Ltd,FY24,MAY,health,104.77
+Zuno General Insurance Co Ltd,FY25,MAY,health,61.92
+Zuno General Insurance Co Ltd,FY24,MAY,health,61.29
+Niva bupa health insurance company limited,FY25,MAY,health,1021.73
+Niva bupa health insurance company limited,FY24,MAY,health,932.11
+Aditya Birla Health Insurance Co Ltd,FY25,MAY,health,760.86
+Aditya Birla Health Insurance Co Ltd,FY24,MAY,health,570.81
+Care Health Insurance Ltd,FY25,MAY,health,1340.21
+Care Health Insurance Ltd,FY24,MAY,health,1250.25
+Galaxy Health Insurance Company Ltd,FY25,MAY,health,7.09
+ManipalCigna Health Insurance Co Ltd,FY25,MAY,health,347.82
+ManipalCigna Health Insurance Co Ltd,FY24,MAY,health,276.0
+Narayana Health Insurance Ltd,FY25,MAY,health,1.19
+Star Health & Allied Insurance Co Ltd,FY25,MAY,health,2237.67
+Star Health & Allied Insurance Co Ltd,FY24,MAY,health,2150.49
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,aviation,4.32
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,aviation,3.36
+Go Digit General Insurance Ltd,FY25,MAY,aviation,0.44
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,aviation,2.79
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,aviation,3.63
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,aviation,24.3
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,aviation,36.31
+National Insurance Co Ltd,FY25,MAY,aviation,9.8
+National Insurance Co Ltd,FY24,MAY,aviation,11.11
+Reliance General Insurance Co Ltd,FY25,MAY,aviation,0.3
+Reliance General Insurance Co Ltd,FY24,MAY,aviation,11.64
+SBI General Insurance Co Ltd,FY25,MAY,aviation,0.04
+SBI General Insurance Co Ltd,FY24,MAY,aviation,0.04
+Tata AIG General Insurance Co Ltd,FY25,MAY,aviation,32.81
+Tata AIG General Insurance Co Ltd,FY24,MAY,aviation,29.5
+The New India Assurance Co Ltd,FY25,MAY,aviation,74.8
+The New India Assurance Co Ltd,FY24,MAY,aviation,59.28
+The Oriental Insurance Co Ltd,FY25,MAY,aviation,12.42
+The Oriental Insurance Co Ltd,FY24,MAY,aviation,30.3
+United India Insurance Co Ltd,FY25,MAY,aviation,4.65
+United India Insurance Co Ltd,FY24,MAY,aviation,7.54
+Acko General Insurance Ltd,FY25,MAY,liability,5.58
+Acko General Insurance Ltd,FY24,MAY,liability,11.33
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,liability,198.38
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,liability,155.61
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,liability,6.41
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,liability,5.19
+Future Generali India Insurance Co Ltd,FY25,MAY,liability,16.09
+Future Generali India Insurance Co Ltd,FY24,MAY,liability,11.3
+Go Digit General Insurance Ltd,FY25,MAY,liability,61.92
+Go Digit General Insurance Ltd,FY24,MAY,liability,28.07
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,liability,170.32
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,liability,162.92
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,liability,246.89
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,liability,248.43
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,liability,55.79
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,liability,52.5
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,liability,0.49
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,liability,0.29
+Liberty  General Insurance Co. Ltd,FY25,MAY,liability,8.01
+Liberty  General Insurance Co. Ltd,FY24,MAY,liability,2.71
+Magma General Insurance Limited,FY25,MAY,liability,12.85
+Magma General Insurance Limited,FY24,MAY,liability,18.67
+National Insurance Co Ltd,FY25,MAY,liability,41.48
+National Insurance Co Ltd,FY24,MAY,liability,46.63
+Raheja QBE General Insurance Co Ltd,FY25,MAY,liability,18.41
+Raheja QBE General Insurance Co Ltd,FY24,MAY,liability,11.34
+Reliance General Insurance Co Ltd,FY25,MAY,liability,28.83
+Reliance General Insurance Co Ltd,FY24,MAY,liability,20.57
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,liability,4.09
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,liability,2.84
+SBI General Insurance Co Ltd,FY25,MAY,liability,27.23
+SBI General Insurance Co Ltd,FY24,MAY,liability,17.42
+Shriram General Insurance Co Ltd,FY25,MAY,liability,1.8
+Shriram General Insurance Co Ltd,FY24,MAY,liability,1.62
+Tata AIG General Insurance Co Ltd,FY25,MAY,liability,247.67
+Tata AIG General Insurance Co Ltd,FY24,MAY,liability,260.55
+The New India Assurance Co Ltd,FY25,MAY,liability,143.4
+The New India Assurance Co Ltd,FY24,MAY,liability,122.57
+The Oriental Insurance Co Ltd,FY25,MAY,liability,31.82
+The Oriental Insurance Co Ltd,FY24,MAY,liability,24.47
+United India Insurance Co Ltd,FY25,MAY,liability,46.3
+United India Insurance Co Ltd,FY24,MAY,liability,49.89
+Universal Sompo General Insurance Co Ltd,FY25,MAY,liability,8.43
+Universal Sompo General Insurance Co Ltd,FY24,MAY,liability,5.81
+Zuno General Insurance Co Ltd,FY24,MAY,liability,0.02
+Acko General Insurance Ltd,FY25,MAY,personal_accident,2.7
+Acko General Insurance Ltd,FY24,MAY,personal_accident,1.64
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,personal_accident,35.06
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,personal_accident,40.8
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,personal_accident,32.68
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,personal_accident,65.73
+Future Generali India Insurance Co Ltd,FY25,MAY,personal_accident,15.8
+Future Generali India Insurance Co Ltd,FY24,MAY,personal_accident,18.93
+Go Digit General Insurance Ltd,FY25,MAY,personal_accident,89.13
+Go Digit General Insurance Ltd,FY24,MAY,personal_accident,240.06
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,personal_accident,113.14
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,personal_accident,76.35
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,personal_accident,89.57
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,personal_accident,127.68
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,personal_accident,19.68
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,personal_accident,20.47
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,personal_accident,10.73
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,personal_accident,10.66
+Liberty  General Insurance Co. Ltd,FY25,MAY,personal_accident,4.45
+Liberty  General Insurance Co. Ltd,FY24,MAY,personal_accident,4.57
+Magma General Insurance Limited,FY25,MAY,personal_accident,15.01
+Magma General Insurance Limited,FY24,MAY,personal_accident,6.45
+National Insurance Co Ltd,FY25,MAY,personal_accident,42.78
+National Insurance Co Ltd,FY24,MAY,personal_accident,40.73
+Navi General Insurance Co. Ltd,FY25,MAY,personal_accident,0.29
+Raheja QBE General Insurance Co Ltd,FY25,MAY,personal_accident,0.17
+Raheja QBE General Insurance Co Ltd,FY24,MAY,personal_accident,0.11
+Reliance General Insurance Co Ltd,FY25,MAY,personal_accident,67.06
+Reliance General Insurance Co Ltd,FY24,MAY,personal_accident,49.44
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,personal_accident,12.79
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,personal_accident,13.07
+SBI General Insurance Co Ltd,FY25,MAY,personal_accident,194.27
+SBI General Insurance Co Ltd,FY24,MAY,personal_accident,135.27
+Shriram General Insurance Co Ltd,FY25,MAY,personal_accident,19.64
+Shriram General Insurance Co Ltd,FY24,MAY,personal_accident,17.83
+Tata AIG General Insurance Co Ltd,FY25,MAY,personal_accident,37.3
+Tata AIG General Insurance Co Ltd,FY24,MAY,personal_accident,32.98
+The New India Assurance Co Ltd,FY25,MAY,personal_accident,99.64
+The New India Assurance Co Ltd,FY24,MAY,personal_accident,81.4
+The Oriental Insurance Co Ltd,FY25,MAY,personal_accident,750.12
+The Oriental Insurance Co Ltd,FY24,MAY,personal_accident,395.39
+United India Insurance Co Ltd,FY25,MAY,personal_accident,74.38
+United India Insurance Co Ltd,FY24,MAY,personal_accident,58.1
+Universal Sompo General Insurance Co Ltd,FY25,MAY,personal_accident,59.17
+Universal Sompo General Insurance Co Ltd,FY24,MAY,personal_accident,51.93
+Zuno General Insurance Co Ltd,FY25,MAY,personal_accident,2.21
+Zuno General Insurance Co Ltd,FY24,MAY,personal_accident,5.22
+Niva bupa health insurance company limited,FY25,MAY,personal_accident,15.88
+Niva bupa health insurance company limited,FY24,MAY,personal_accident,17.64
+Aditya Birla Health Insurance Co Ltd,FY25,MAY,personal_accident,23.77
+Aditya Birla Health Insurance Co Ltd,FY24,MAY,personal_accident,41.21
+Care Health Insurance Ltd,FY25,MAY,personal_accident,28.98
+Care Health Insurance Ltd,FY24,MAY,personal_accident,28.06
+Galaxy Health Insurance Company Ltd,FY25,MAY,personal_accident,0.62
+ManipalCigna Health Insurance Co Ltd,FY25,MAY,personal_accident,6.59
+ManipalCigna Health Insurance Co Ltd,FY24,MAY,personal_accident,4.72
+Star Health & Allied Insurance Co Ltd,FY25,MAY,personal_accident,21.53
+Star Health & Allied Insurance Co Ltd,FY24,MAY,personal_accident,23.31
+Acko General Insurance Ltd,FY25,MAY,misc,13.61
+Acko General Insurance Ltd,FY24,MAY,misc,10.93
+Bajaj Allianz General Insurance Co Ltd,FY25,MAY,misc,246.65
+Bajaj Allianz General Insurance Co Ltd,FY24,MAY,misc,258.1
+Cholamandalam MS General Insurance Co Ltd,FY25,MAY,misc,8.56
+Cholamandalam MS General Insurance Co Ltd,FY24,MAY,misc,61.36
+Future Generali India Insurance Co Ltd,FY25,MAY,misc,37.61
+Future Generali India Insurance Co Ltd,FY24,MAY,misc,64.75
+Go Digit General Insurance Ltd,FY25,MAY,misc,48.14
+Go Digit General Insurance Ltd,FY24,MAY,misc,65.59
+HDFC Ergo General Insurance Co Ltd,FY25,MAY,misc,72.58
+HDFC Ergo General Insurance Co Ltd,FY24,MAY,misc,97.83
+ICICI Lombard General Insurance Co Ltd,FY25,MAY,misc,158.59
+ICICI Lombard General Insurance Co Ltd,FY24,MAY,misc,141.23
+IFFCO-Tokio General Insurance Co Ltd,FY25,MAY,misc,124.9
+IFFCO-Tokio General Insurance Co Ltd,FY24,MAY,misc,113.65
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,MAY,misc,6.04
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,MAY,misc,7.17
+Kshema General insurance,FY25,MAY,misc,345.63
+Kshema General insurance,FY24,MAY,misc,281.5
+Liberty  General Insurance Co. Ltd,FY25,MAY,misc,15.9
+Liberty  General Insurance Co. Ltd,FY24,MAY,misc,21.26
+Magma General Insurance Limited,FY25,MAY,misc,2.76
+Magma General Insurance Limited,FY24,MAY,misc,1.3
+National Insurance Co Ltd,FY25,MAY,misc,154.22
+National Insurance Co Ltd,FY24,MAY,misc,157.19
+Raheja QBE General Insurance Co Ltd,FY25,MAY,misc,0.03
+Raheja QBE General Insurance Co Ltd,FY24,MAY,misc,0.03
+Reliance General Insurance Co Ltd,FY25,MAY,misc,94.51
+Reliance General Insurance Co Ltd,FY24,MAY,misc,261.81
+Royal Sundaram General Insurance Co Ltd,FY25,MAY,misc,4.21
+Royal Sundaram General Insurance Co Ltd,FY24,MAY,misc,4.3
+SBI General Insurance Co Ltd,FY25,MAY,misc,46.43
+SBI General Insurance Co Ltd,FY24,MAY,misc,53.76
+Shriram General Insurance Co Ltd,FY25,MAY,misc,9.66
+Shriram General Insurance Co Ltd,FY24,MAY,misc,2.96
+Tata AIG General Insurance Co Ltd,FY25,MAY,misc,185.28
+Tata AIG General Insurance Co Ltd,FY24,MAY,misc,89.33
+The New India Assurance Co Ltd,FY25,MAY,misc,404.96
+The New India Assurance Co Ltd,FY24,MAY,misc,362.79
+The Oriental Insurance Co Ltd,FY25,MAY,misc,79.88
+The Oriental Insurance Co Ltd,FY24,MAY,misc,50.47
+United India Insurance Co Ltd,FY25,MAY,misc,123.22
+United India Insurance Co Ltd,FY24,MAY,misc,119.07
+Universal Sompo General Insurance Co Ltd,FY25,MAY,misc,17.32
+Universal Sompo General Insurance Co Ltd,FY24,MAY,misc,139.55
+Zuno General Insurance Co Ltd,FY25,MAY,misc,2.94
+Zuno General Insurance Co Ltd,FY24,MAY,misc,2.31
+Star Health & Allied Insurance Co Ltd,FY25,MAY,misc,0.01
+Star Health & Allied Insurance Co Ltd,FY24,MAY,misc,0.09
+Agriculture Insurance Co Of India Ltd,FY25,MAY,misc,27.88
+Agriculture Insurance Co Of India Ltd,FY24,MAY,misc,11.65
+ECGC Ltd,FY25,MAY,misc,196.26
+ECGC Ltd,FY24,MAY,misc,190.71
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,fire,1209.5
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,fire,1040.25
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,fire,223.24
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,fire,242.24
+Future Generali India Insurance Co Ltd,FY25,JUNE,fire,289.63
+Future Generali India Insurance Co Ltd,FY24,JUNE,fire,216.04
+Go Digit General Insurance Ltd,FY25,JUNE,fire,334.9
+Go Digit General Insurance Ltd,FY24,JUNE,fire,224.98
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,fire,767.42
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,fire,774.46
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,fire,1468.16
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,fire,1331.23
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,fire,423.5
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,fire,352.54
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,fire,44.92
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,fire,28.53
+Liberty  General Insurance Co. Ltd,FY25,JUNE,fire,24.03
+Liberty  General Insurance Co. Ltd,FY24,JUNE,fire,19.68
+Magma General Insurance Limited,FY25,JUNE,fire,108.26
+Magma General Insurance Limited,FY24,JUNE,fire,104.53
+National Insurance Co Ltd,FY25,JUNE,fire,573.47
+National Insurance Co Ltd,FY24,JUNE,fire,405.93
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,fire,6.39
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,fire,6.25
+Reliance General Insurance Co Ltd,FY25,JUNE,fire,675.62
+Reliance General Insurance Co Ltd,FY24,JUNE,fire,591.82
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,fire,163.19
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,fire,130.19
+SBI General Insurance Co Ltd,FY25,JUNE,fire,597.02
+SBI General Insurance Co Ltd,FY24,JUNE,fire,551.35
+Shriram General Insurance Co Ltd,FY25,JUNE,fire,35.41
+Shriram General Insurance Co Ltd,FY24,JUNE,fire,28.27
+Tata AIG General Insurance Co Ltd,FY25,JUNE,fire,829.76
+Tata AIG General Insurance Co Ltd,FY24,JUNE,fire,847.97
+The New India Assurance Co Ltd,FY25,JUNE,fire,1857.16
+The New India Assurance Co Ltd,FY24,JUNE,fire,1388.25
+The Oriental Insurance Co Ltd,FY25,JUNE,fire,681.57
+The Oriental Insurance Co Ltd,FY24,JUNE,fire,591.5
+United India Insurance Co Ltd,FY25,JUNE,fire,746.69
+United India Insurance Co Ltd,FY24,JUNE,fire,582.21
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,fire,161.11
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,fire,120.21
+Zuno General Insurance Co Ltd,FY25,JUNE,fire,20.98
+Zuno General Insurance Co Ltd,FY24,JUNE,fire,18.87
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,marine_total,128.09
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,marine_total,104.36
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,marine_total,49.4
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,marine_total,45.05
+Future Generali India Insurance Co Ltd,FY25,JUNE,marine_total,48.32
+Future Generali India Insurance Co Ltd,FY24,JUNE,marine_total,37.27
+Go Digit General Insurance Ltd,FY25,JUNE,marine_total,26.28
+Go Digit General Insurance Ltd,FY24,JUNE,marine_total,26.37
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,marine_total,59.82
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,marine_total,60.67
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,marine_total,320.14
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,marine_total,331.53
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,marine_total,109.66
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,marine_total,87.39
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,marine_total,6.22
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,marine_total,3.86
+Liberty  General Insurance Co. Ltd,FY25,JUNE,marine_total,7.2
+Liberty  General Insurance Co. Ltd,FY24,JUNE,marine_total,7.8
+Magma General Insurance Limited,FY25,JUNE,marine_total,9.9
+Magma General Insurance Limited,FY24,JUNE,marine_total,6.92
+National Insurance Co Ltd,FY25,JUNE,marine_total,71.07
+National Insurance Co Ltd,FY24,JUNE,marine_total,85.77
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,marine_total,0.04
+Reliance General Insurance Co Ltd,FY25,JUNE,marine_total,53.02
+Reliance General Insurance Co Ltd,FY24,JUNE,marine_total,56.77
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,marine_total,22.81
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,marine_total,19.04
+SBI General Insurance Co Ltd,FY25,JUNE,marine_total,34.3
+SBI General Insurance Co Ltd,FY24,JUNE,marine_total,32.54
+Shriram General Insurance Co Ltd,FY25,JUNE,marine_total,1.36
+Shriram General Insurance Co Ltd,FY24,JUNE,marine_total,0.57
+Tata AIG General Insurance Co Ltd,FY25,JUNE,marine_total,223.67
+Tata AIG General Insurance Co Ltd,FY24,JUNE,marine_total,209.56
+The New India Assurance Co Ltd,FY25,JUNE,marine_total,280.68
+The New India Assurance Co Ltd,FY24,JUNE,marine_total,256.02
+The Oriental Insurance Co Ltd,FY25,JUNE,marine_total,172.2
+The Oriental Insurance Co Ltd,FY24,JUNE,marine_total,130.15
+United India Insurance Co Ltd,FY25,JUNE,marine_total,89.61
+United India Insurance Co Ltd,FY24,JUNE,marine_total,88.74
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,marine_total,22.95
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,marine_total,29.72
+Zuno General Insurance Co Ltd,FY25,JUNE,marine_total,0.54
+Zuno General Insurance Co Ltd,FY24,JUNE,marine_total,0.2
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,engineering,146.71
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,engineering,129.48
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,engineering,12.18
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,engineering,11.11
+Future Generali India Insurance Co Ltd,FY25,JUNE,engineering,25.93
+Future Generali India Insurance Co Ltd,FY24,JUNE,engineering,26.24
+Go Digit General Insurance Ltd,FY25,JUNE,engineering,43.88
+Go Digit General Insurance Ltd,FY24,JUNE,engineering,24.49
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,engineering,115.72
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,engineering,86.77
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,engineering,338.11
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,engineering,273.93
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,engineering,102.53
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,engineering,68.41
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,engineering,5.3
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,engineering,2.75
+Liberty  General Insurance Co. Ltd,FY25,JUNE,engineering,11.51
+Liberty  General Insurance Co. Ltd,FY24,JUNE,engineering,8.84
+Magma General Insurance Limited,FY25,JUNE,engineering,10.2
+Magma General Insurance Limited,FY24,JUNE,engineering,2.23
+National Insurance Co Ltd,FY25,JUNE,engineering,120.04
+National Insurance Co Ltd,FY24,JUNE,engineering,97.5
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,engineering,0.2
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,engineering,0.3
+Reliance General Insurance Co Ltd,FY25,JUNE,engineering,143.31
+Reliance General Insurance Co Ltd,FY24,JUNE,engineering,145.07
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,engineering,22.02
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,engineering,19.95
+SBI General Insurance Co Ltd,FY25,JUNE,engineering,47.92
+SBI General Insurance Co Ltd,FY24,JUNE,engineering,40.79
+Shriram General Insurance Co Ltd,FY25,JUNE,engineering,6.98
+Shriram General Insurance Co Ltd,FY24,JUNE,engineering,5.96
+Tata AIG General Insurance Co Ltd,FY25,JUNE,engineering,91.22
+Tata AIG General Insurance Co Ltd,FY24,JUNE,engineering,73.92
+The New India Assurance Co Ltd,FY25,JUNE,engineering,292.33
+The New India Assurance Co Ltd,FY24,JUNE,engineering,221.9
+The Oriental Insurance Co Ltd,FY25,JUNE,engineering,116.99
+The Oriental Insurance Co Ltd,FY24,JUNE,engineering,98.56
+United India Insurance Co Ltd,FY25,JUNE,engineering,118.62
+United India Insurance Co Ltd,FY24,JUNE,engineering,123.86
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,engineering,3.97
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,engineering,3.0
+Zuno General Insurance Co Ltd,FY25,JUNE,engineering,0.44
+Zuno General Insurance Co Ltd,FY24,JUNE,engineering,0.95
+Acko General Insurance Ltd,FY25,JUNE,motor_total,239.57
+Acko General Insurance Ltd,FY24,JUNE,motor_total,203.84
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,motor_total,1682.0
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,motor_total,1440.52
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,motor_total,1209.32
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,motor_total,1145.77
+Future Generali India Insurance Co Ltd,FY25,JUNE,motor_total,409.05
+Future Generali India Insurance Co Ltd,FY24,JUNE,motor_total,453.14
+Go Digit General Insurance Ltd,FY25,JUNE,motor_total,1467.92
+Go Digit General Insurance Ltd,FY24,JUNE,motor_total,1277.79
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,motor_total,572.62
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,motor_total,902.37
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,motor_total,2443.81
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,motor_total,2368.9
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,motor_total,897.55
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,motor_total,859.35
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,motor_total,216.41
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,motor_total,211.46
+Liberty  General Insurance Co. Ltd,FY25,JUNE,motor_total,368.54
+Liberty  General Insurance Co. Ltd,FY24,JUNE,motor_total,393.28
+Magma General Insurance Limited,FY25,JUNE,motor_total,483.56
+Magma General Insurance Limited,FY24,JUNE,motor_total,481.2
+National Insurance Co Ltd,FY25,JUNE,motor_total,1234.17
+National Insurance Co Ltd,FY24,JUNE,motor_total,1044.44
+Navi General Insurance Co. Ltd,FY25,JUNE,motor_total,0.26
+Navi General Insurance Co. Ltd,FY24,JUNE,motor_total,0.54
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,motor_total,10.94
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,motor_total,80.82
+Reliance General Insurance Co Ltd,FY25,JUNE,motor_total,1001.2
+Reliance General Insurance Co Ltd,FY24,JUNE,motor_total,980.88
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,motor_total,570.65
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,motor_total,582.88
+SBI General Insurance Co Ltd,FY25,JUNE,motor_total,1135.94
+SBI General Insurance Co Ltd,FY24,JUNE,motor_total,944.06
+Shriram General Insurance Co Ltd,FY25,JUNE,motor_total,866.89
+Shriram General Insurance Co Ltd,FY24,JUNE,motor_total,663.86
+Tata AIG General Insurance Co Ltd,FY25,JUNE,motor_total,2078.33
+Tata AIG General Insurance Co Ltd,FY24,JUNE,motor_total,1869.8
+The New India Assurance Co Ltd,FY25,JUNE,motor_total,2302.1
+The New India Assurance Co Ltd,FY24,JUNE,motor_total,2163.15
+The Oriental Insurance Co Ltd,FY25,JUNE,motor_total,981.01
+The Oriental Insurance Co Ltd,FY24,JUNE,motor_total,918.26
+United India Insurance Co Ltd,FY25,JUNE,motor_total,2312.43
+United India Insurance Co Ltd,FY24,JUNE,motor_total,1684.48
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,motor_total,591.0
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,motor_total,564.21
+Zuno General Insurance Co Ltd,FY25,JUNE,motor_total,125.01
+Zuno General Insurance Co Ltd,FY24,JUNE,motor_total,113.02
+Acko General Insurance Ltd,FY25,JUNE,health,255.65
+Acko General Insurance Ltd,FY24,JUNE,health,265.54
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,health,1240.24
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,health,1296.11
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,health,248.99
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,health,289.92
+Future Generali India Insurance Co Ltd,FY25,JUNE,health,351.29
+Future Generali India Insurance Co Ltd,FY24,JUNE,health,588.53
+Go Digit General Insurance Ltd,FY25,JUNE,health,356.57
+Go Digit General Insurance Ltd,FY24,JUNE,health,398.43
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,health,1447.63
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,health,1463.85
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,health,2465.99
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,health,2404.81
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,health,204.89
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,health,214.14
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,health,273.16
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,health,161.76
+Liberty  General Insurance Co. Ltd,FY25,JUNE,health,172.82
+Liberty  General Insurance Co. Ltd,FY24,JUNE,health,88.12
+Magma General Insurance Limited,FY25,JUNE,health,238.95
+Magma General Insurance Limited,FY24,JUNE,health,207.78
+National Insurance Co Ltd,FY25,JUNE,health,1414.44
+National Insurance Co Ltd,FY24,JUNE,health,1502.1
+Navi General Insurance Co. Ltd,FY25,JUNE,health,33.28
+Navi General Insurance Co. Ltd,FY24,JUNE,health,12.2
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,health,1.39
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,health,10.08
+Reliance General Insurance Co Ltd,FY25,JUNE,health,934.21
+Reliance General Insurance Co Ltd,FY24,JUNE,health,671.43
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,health,349.43
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,health,224.38
+SBI General Insurance Co Ltd,FY25,JUNE,health,842.76
+SBI General Insurance Co Ltd,FY24,JUNE,health,564.14
+Shriram General Insurance Co Ltd,FY25,JUNE,health,4.07
+Shriram General Insurance Co Ltd,FY24,JUNE,health,0.75
+Tata AIG General Insurance Co Ltd,FY25,JUNE,health,995.33
+Tata AIG General Insurance Co Ltd,FY24,JUNE,health,791.9
+The New India Assurance Co Ltd,FY25,JUNE,health,6463.23
+The New India Assurance Co Ltd,FY24,JUNE,health,5649.86
+The Oriental Insurance Co Ltd,FY25,JUNE,health,2517.86
+The Oriental Insurance Co Ltd,FY24,JUNE,health,2282.29
+United India Insurance Co Ltd,FY25,JUNE,health,2025.64
+United India Insurance Co Ltd,FY24,JUNE,health,2446.41
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,health,430.94
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,health,150.37
+Zuno General Insurance Co Ltd,FY25,JUNE,health,92.15
+Zuno General Insurance Co Ltd,FY24,JUNE,health,86.59
+Niva bupa health insurance company limited,FY25,JUNE,health,1608.85
+Niva bupa health insurance company limited,FY24,JUNE,health,1436.99
+Aditya Birla Health Insurance Co Ltd,FY25,JUNE,health,1266.2
+Aditya Birla Health Insurance Co Ltd,FY24,JUNE,health,983.96
+Care Health Insurance Ltd,FY25,JUNE,health,2008.5
+Care Health Insurance Ltd,FY24,JUNE,health,1883.82
+Galaxy Health Insurance Company Ltd,FY25,JUNE,health,11.28
+ManipalCigna Health Insurance Co Ltd,FY25,JUNE,health,523.13
+ManipalCigna Health Insurance Co Ltd,FY24,JUNE,health,403.04
+Narayana Health Insurance Ltd,FY25,JUNE,health,1.72
+Star Health & Allied Insurance Co Ltd,FY25,JUNE,health,3562.66
+Star Health & Allied Insurance Co Ltd,FY24,JUNE,health,3435.64
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,aviation,4.88
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,aviation,3.51
+Go Digit General Insurance Ltd,FY25,JUNE,aviation,0.56
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,aviation,2.79
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,aviation,4.6
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,aviation,28.06
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,aviation,45.06
+National Insurance Co Ltd,FY25,JUNE,aviation,13.0
+National Insurance Co Ltd,FY24,JUNE,aviation,11.47
+Reliance General Insurance Co Ltd,FY25,JUNE,aviation,0.57
+Reliance General Insurance Co Ltd,FY24,JUNE,aviation,11.96
+SBI General Insurance Co Ltd,FY25,JUNE,aviation,0.04
+SBI General Insurance Co Ltd,FY24,JUNE,aviation,0.04
+Tata AIG General Insurance Co Ltd,FY25,JUNE,aviation,60.1
+Tata AIG General Insurance Co Ltd,FY24,JUNE,aviation,61.23
+The New India Assurance Co Ltd,FY25,JUNE,aviation,107.7
+The New India Assurance Co Ltd,FY24,JUNE,aviation,97.18
+The Oriental Insurance Co Ltd,FY25,JUNE,aviation,22.78
+The Oriental Insurance Co Ltd,FY24,JUNE,aviation,41.74
+United India Insurance Co Ltd,FY25,JUNE,aviation,7.22
+United India Insurance Co Ltd,FY24,JUNE,aviation,10.35
+Acko General Insurance Ltd,FY25,JUNE,liability,8.66
+Acko General Insurance Ltd,FY24,JUNE,liability,16.39
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,liability,348.59
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,liability,284.65
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,liability,9.85
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,liability,8.49
+Future Generali India Insurance Co Ltd,FY25,JUNE,liability,21.47
+Future Generali India Insurance Co Ltd,FY24,JUNE,liability,16.02
+Go Digit General Insurance Ltd,FY25,JUNE,liability,78.99
+Go Digit General Insurance Ltd,FY24,JUNE,liability,40.95
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,liability,215.21
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,liability,215.48
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,liability,323.51
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,liability,336.57
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,liability,77.02
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,liability,71.09
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,liability,1.37
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,liability,0.44
+Liberty  General Insurance Co. Ltd,FY25,JUNE,liability,10.44
+Liberty  General Insurance Co. Ltd,FY24,JUNE,liability,3.51
+Magma General Insurance Limited,FY25,JUNE,liability,23.88
+Magma General Insurance Limited,FY24,JUNE,liability,20.64
+National Insurance Co Ltd,FY25,JUNE,liability,59.79
+National Insurance Co Ltd,FY24,JUNE,liability,69.56
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,liability,24.74
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,liability,17.44
+Reliance General Insurance Co Ltd,FY25,JUNE,liability,35.53
+Reliance General Insurance Co Ltd,FY24,JUNE,liability,27.26
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,liability,6.45
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,liability,4.27
+SBI General Insurance Co Ltd,FY25,JUNE,liability,33.63
+SBI General Insurance Co Ltd,FY24,JUNE,liability,25.47
+Shriram General Insurance Co Ltd,FY25,JUNE,liability,2.61
+Shriram General Insurance Co Ltd,FY24,JUNE,liability,2.38
+Tata AIG General Insurance Co Ltd,FY25,JUNE,liability,286.16
+Tata AIG General Insurance Co Ltd,FY24,JUNE,liability,295.53
+The New India Assurance Co Ltd,FY25,JUNE,liability,186.2
+The New India Assurance Co Ltd,FY24,JUNE,liability,166.51
+The Oriental Insurance Co Ltd,FY25,JUNE,liability,42.4
+The Oriental Insurance Co Ltd,FY24,JUNE,liability,39.34
+United India Insurance Co Ltd,FY25,JUNE,liability,89.73
+United India Insurance Co Ltd,FY24,JUNE,liability,91.57
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,liability,10.55
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,liability,7.79
+Zuno General Insurance Co Ltd,FY24,JUNE,liability,0.02
+Acko General Insurance Ltd,FY25,JUNE,personal_accident,3.06
+Acko General Insurance Ltd,FY24,JUNE,personal_accident,1.9
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,personal_accident,68.97
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,personal_accident,82.62
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,personal_accident,47.21
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,personal_accident,97.8
+Future Generali India Insurance Co Ltd,FY25,JUNE,personal_accident,31.42
+Future Generali India Insurance Co Ltd,FY24,JUNE,personal_accident,34.68
+Go Digit General Insurance Ltd,FY25,JUNE,personal_accident,131.1
+Go Digit General Insurance Ltd,FY24,JUNE,personal_accident,269.66
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,personal_accident,140.66
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,personal_accident,111.86
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,personal_accident,129.59
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,personal_accident,178.26
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,personal_accident,29.48
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,personal_accident,29.03
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,personal_accident,14.59
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,personal_accident,16.85
+Liberty  General Insurance Co. Ltd,FY25,JUNE,personal_accident,5.89
+Liberty  General Insurance Co. Ltd,FY24,JUNE,personal_accident,5.32
+Magma General Insurance Limited,FY25,JUNE,personal_accident,17.95
+Magma General Insurance Limited,FY24,JUNE,personal_accident,8.53
+National Insurance Co Ltd,FY25,JUNE,personal_accident,328.12
+National Insurance Co Ltd,FY24,JUNE,personal_accident,58.32
+Navi General Insurance Co. Ltd,FY25,JUNE,personal_accident,0.55
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,personal_accident,0.35
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,personal_accident,0.13
+Reliance General Insurance Co Ltd,FY25,JUNE,personal_accident,88.73
+Reliance General Insurance Co Ltd,FY24,JUNE,personal_accident,69.82
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,personal_accident,18.86
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,personal_accident,19.05
+SBI General Insurance Co Ltd,FY25,JUNE,personal_accident,349.68
+SBI General Insurance Co Ltd,FY24,JUNE,personal_accident,242.38
+Shriram General Insurance Co Ltd,FY25,JUNE,personal_accident,28.96
+Shriram General Insurance Co Ltd,FY24,JUNE,personal_accident,26.59
+Tata AIG General Insurance Co Ltd,FY25,JUNE,personal_accident,54.97
+Tata AIG General Insurance Co Ltd,FY24,JUNE,personal_accident,52.46
+The New India Assurance Co Ltd,FY25,JUNE,personal_accident,250.12
+The New India Assurance Co Ltd,FY24,JUNE,personal_accident,230.65
+The Oriental Insurance Co Ltd,FY25,JUNE,personal_accident,1124.88
+The Oriental Insurance Co Ltd,FY24,JUNE,personal_accident,467.37
+United India Insurance Co Ltd,FY25,JUNE,personal_accident,99.01
+United India Insurance Co Ltd,FY24,JUNE,personal_accident,77.19
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,personal_accident,64.03
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,personal_accident,58.46
+Zuno General Insurance Co Ltd,FY25,JUNE,personal_accident,2.97
+Zuno General Insurance Co Ltd,FY24,JUNE,personal_accident,6.1
+Niva bupa health insurance company limited,FY25,JUNE,personal_accident,23.05
+Niva bupa health insurance company limited,FY24,JUNE,personal_accident,27.18
+Aditya Birla Health Insurance Co Ltd,FY25,JUNE,personal_accident,60.45
+Aditya Birla Health Insurance Co Ltd,FY24,JUNE,personal_accident,56.64
+Care Health Insurance Ltd,FY25,JUNE,personal_accident,40.93
+Care Health Insurance Ltd,FY24,JUNE,personal_accident,45.74
+Galaxy Health Insurance Company Ltd,FY25,JUNE,personal_accident,1.0
+ManipalCigna Health Insurance Co Ltd,FY25,JUNE,personal_accident,8.87
+ManipalCigna Health Insurance Co Ltd,FY24,JUNE,personal_accident,7.01
+Star Health & Allied Insurance Co Ltd,FY25,JUNE,personal_accident,34.63
+Star Health & Allied Insurance Co Ltd,FY24,JUNE,personal_accident,40.17
+Acko General Insurance Ltd,FY25,JUNE,misc,19.71
+Acko General Insurance Ltd,FY24,JUNE,misc,17.39
+Bajaj Allianz General Insurance Co Ltd,FY25,JUNE,misc,341.55
+Bajaj Allianz General Insurance Co Ltd,FY24,JUNE,misc,334.72
+Cholamandalam MS General Insurance Co Ltd,FY25,JUNE,misc,11.96
+Cholamandalam MS General Insurance Co Ltd,FY24,JUNE,misc,80.17
+Future Generali India Insurance Co Ltd,FY25,JUNE,misc,53.25
+Future Generali India Insurance Co Ltd,FY24,JUNE,misc,86.33
+Go Digit General Insurance Ltd,FY25,JUNE,misc,67.14
+Go Digit General Insurance Ltd,FY24,JUNE,misc,74.82
+HDFC Ergo General Insurance Co Ltd,FY25,JUNE,misc,98.78
+HDFC Ergo General Insurance Co Ltd,FY24,JUNE,misc,131.68
+ICICI Lombard General Insurance Co Ltd,FY25,JUNE,misc,217.47
+ICICI Lombard General Insurance Co Ltd,FY24,JUNE,misc,417.34
+IFFCO-Tokio General Insurance Co Ltd,FY25,JUNE,misc,178.52
+IFFCO-Tokio General Insurance Co Ltd,FY24,JUNE,misc,166.42
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JUNE,misc,12.15
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JUNE,misc,10.92
+Kshema General insurance,FY25,JUNE,misc,281.05
+Kshema General insurance,FY24,JUNE,misc,296.2
+Liberty  General Insurance Co. Ltd,FY25,JUNE,misc,19.96
+Liberty  General Insurance Co. Ltd,FY24,JUNE,misc,26.12
+Magma General Insurance Limited,FY25,JUNE,misc,3.46
+Magma General Insurance Limited,FY24,JUNE,misc,1.33
+National Insurance Co Ltd,FY25,JUNE,misc,184.18
+National Insurance Co Ltd,FY24,JUNE,misc,203.76
+Raheja QBE General Insurance Co Ltd,FY25,JUNE,misc,0.02
+Raheja QBE General Insurance Co Ltd,FY24,JUNE,misc,0.04
+Reliance General Insurance Co Ltd,FY25,JUNE,misc,434.92
+Reliance General Insurance Co Ltd,FY24,JUNE,misc,759.1
+Royal Sundaram General Insurance Co Ltd,FY25,JUNE,misc,7.08
+Royal Sundaram General Insurance Co Ltd,FY24,JUNE,misc,4.91
+SBI General Insurance Co Ltd,FY25,JUNE,misc,121.78
+SBI General Insurance Co Ltd,FY24,JUNE,misc,201.92
+Shriram General Insurance Co Ltd,FY25,JUNE,misc,14.1
+Shriram General Insurance Co Ltd,FY24,JUNE,misc,4.71
+Tata AIG General Insurance Co Ltd,FY25,JUNE,misc,266.93
+Tata AIG General Insurance Co Ltd,FY24,JUNE,misc,137.31
+The New India Assurance Co Ltd,FY25,JUNE,misc,559.97
+The New India Assurance Co Ltd,FY24,JUNE,misc,496.96
+The Oriental Insurance Co Ltd,FY25,JUNE,misc,164.45
+The Oriental Insurance Co Ltd,FY24,JUNE,misc,228.37
+United India Insurance Co Ltd,FY25,JUNE,misc,176.74
+United India Insurance Co Ltd,FY24,JUNE,misc,181.89
+Universal Sompo General Insurance Co Ltd,FY25,JUNE,misc,26.88
+Universal Sompo General Insurance Co Ltd,FY24,JUNE,misc,190.04
+Zuno General Insurance Co Ltd,FY25,JUNE,misc,6.4
+Zuno General Insurance Co Ltd,FY24,JUNE,misc,0.33
+Star Health & Allied Insurance Co Ltd,FY25,JUNE,misc,0.02
+Star Health & Allied Insurance Co Ltd,FY24,JUNE,misc,0.12
+Agriculture Insurance Co Of India Ltd,FY25,JUNE,misc,67.93
+Agriculture Insurance Co Of India Ltd,FY24,JUNE,misc,181.72
+ECGC Ltd,FY25,JUNE,misc,321.66
+ECGC Ltd,FY24,JUNE,misc,308.64
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,fire,1452.11
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,fire,1243.16
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,fire,283.38
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,fire,303.13
+Generali Central Insurance Company Limited,FY25,JULY,fire,361.71
+Generali Central Insurance Company Limited,FY24,JULY,fire,271.71
+Go Digit General Insurance Ltd,FY25,JULY,fire,413.17
+Go Digit General Insurance Ltd,FY24,JULY,fire,270.15
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,fire,1023.77
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,fire,982.79
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,fire,1815.1
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,fire,1601.64
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,fire,536.77
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,fire,435.32
+Liberty  General Insurance Co. Ltd,FY25,JULY,fire,34.04
+Liberty  General Insurance Co. Ltd,FY24,JULY,fire,24.23
+Magma General Insurance Limited,FY25,JULY,fire,146.66
+Magma General Insurance Limited,FY24,JULY,fire,148.36
+National Insurance Co Ltd,FY25,JULY,fire,741.72
+National Insurance Co Ltd,FY24,JULY,fire,533.15
+Raheja QBE General Insurance Co Ltd,FY25,JULY,fire,7.22
+Raheja QBE General Insurance Co Ltd,FY24,JULY,fire,6.77
+Reliance General Insurance Co Ltd,FY25,JULY,fire,765.94
+Reliance General Insurance Co Ltd,FY24,JULY,fire,694.84
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,fire,196.51
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,fire,150.39
+SBI General Insurance Co Ltd,FY25,JULY,fire,742.12
+SBI General Insurance Co Ltd,FY24,JULY,fire,686.08
+Shriram General Insurance Co Ltd,FY25,JULY,fire,43.01
+Shriram General Insurance Co Ltd,FY24,JULY,fire,36.82
+Tata AIG General Insurance Co Ltd,FY25,JULY,fire,1122.15
+Tata AIG General Insurance Co Ltd,FY24,JULY,fire,1076.79
+The New India Assurance Co Ltd,FY25,JULY,fire,2240.63
+The New India Assurance Co Ltd,FY24,JULY,fire,1632.89
+The Oriental Insurance Co Ltd,FY25,JULY,fire,906.27
+The Oriental Insurance Co Ltd,FY24,JULY,fire,778.13
+United India Insurance Co Ltd,FY25,JULY,fire,965.34
+United India Insurance Co Ltd,FY24,JULY,fire,738.02
+Universal Sompo General Insurance Co Ltd,FY25,JULY,fire,180.94
+Universal Sompo General Insurance Co Ltd,FY24,JULY,fire,135.23
+Zuno General Insurance Co Ltd,FY25,JULY,fire,27.14
+Zuno General Insurance Co Ltd,FY24,JULY,fire,22.73
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,fire,61.36
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,fire,35.85
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,marine_total,150.48
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,marine_total,131.43
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,marine_total,65.63
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,marine_total,60.45
+Generali Central Insurance Company Limited,FY25,JULY,marine_total,59.75
+Generali Central Insurance Company Limited,FY24,JULY,marine_total,53.45
+Go Digit General Insurance Ltd,FY25,JULY,marine_total,28.52
+Go Digit General Insurance Ltd,FY24,JULY,marine_total,28.48
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,marine_total,70.45
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,marine_total,79.23
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,marine_total,386.46
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,marine_total,412.68
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,marine_total,144.63
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,marine_total,114.36
+Liberty  General Insurance Co. Ltd,FY25,JULY,marine_total,9.12
+Liberty  General Insurance Co. Ltd,FY24,JULY,marine_total,11.27
+Magma General Insurance Limited,FY25,JULY,marine_total,16.27
+Magma General Insurance Limited,FY24,JULY,marine_total,15.74
+National Insurance Co Ltd,FY25,JULY,marine_total,93.25
+National Insurance Co Ltd,FY24,JULY,marine_total,114.75
+Raheja QBE General Insurance Co Ltd,FY24,JULY,marine_total,0.04
+Reliance General Insurance Co Ltd,FY25,JULY,marine_total,61.49
+Reliance General Insurance Co Ltd,FY24,JULY,marine_total,64.8
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,marine_total,28.87
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,marine_total,24.5
+SBI General Insurance Co Ltd,FY25,JULY,marine_total,42.57
+SBI General Insurance Co Ltd,FY24,JULY,marine_total,41.27
+Shriram General Insurance Co Ltd,FY25,JULY,marine_total,1.86
+Shriram General Insurance Co Ltd,FY24,JULY,marine_total,1.0
+Tata AIG General Insurance Co Ltd,FY25,JULY,marine_total,284.98
+Tata AIG General Insurance Co Ltd,FY24,JULY,marine_total,262.77
+The New India Assurance Co Ltd,FY25,JULY,marine_total,381.52
+The New India Assurance Co Ltd,FY24,JULY,marine_total,384.94
+The Oriental Insurance Co Ltd,FY25,JULY,marine_total,216.02
+The Oriental Insurance Co Ltd,FY24,JULY,marine_total,177.83
+United India Insurance Co Ltd,FY25,JULY,marine_total,176.51
+United India Insurance Co Ltd,FY24,JULY,marine_total,153.09
+Universal Sompo General Insurance Co Ltd,FY25,JULY,marine_total,27.19
+Universal Sompo General Insurance Co Ltd,FY24,JULY,marine_total,41.72
+Zuno General Insurance Co Ltd,FY25,JULY,marine_total,0.54
+Zuno General Insurance Co Ltd,FY24,JULY,marine_total,0.38
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,marine_total,8.22
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,marine_total,4.79
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,engineering,190.64
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,engineering,163.94
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,engineering,14.88
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,engineering,15.37
+Generali Central Insurance Company Limited,FY25,JULY,engineering,36.18
+Generali Central Insurance Company Limited,FY24,JULY,engineering,38.53
+Go Digit General Insurance Ltd,FY25,JULY,engineering,63.93
+Go Digit General Insurance Ltd,FY24,JULY,engineering,40.2
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,engineering,149.26
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,engineering,124.77
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,engineering,428.01
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,engineering,383.76
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,engineering,138.85
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,engineering,92.53
+Liberty  General Insurance Co. Ltd,FY25,JULY,engineering,15.13
+Liberty  General Insurance Co. Ltd,FY24,JULY,engineering,12.57
+Magma General Insurance Limited,FY25,JULY,engineering,15.01
+Magma General Insurance Limited,FY24,JULY,engineering,5.01
+National Insurance Co Ltd,FY25,JULY,engineering,174.34
+National Insurance Co Ltd,FY24,JULY,engineering,132.93
+Raheja QBE General Insurance Co Ltd,FY25,JULY,engineering,0.32
+Raheja QBE General Insurance Co Ltd,FY24,JULY,engineering,0.36
+Reliance General Insurance Co Ltd,FY25,JULY,engineering,178.53
+Reliance General Insurance Co Ltd,FY24,JULY,engineering,178.74
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,engineering,30.73
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,engineering,26.13
+SBI General Insurance Co Ltd,FY25,JULY,engineering,65.8
+SBI General Insurance Co Ltd,FY24,JULY,engineering,57.45
+Shriram General Insurance Co Ltd,FY25,JULY,engineering,9.32
+Shriram General Insurance Co Ltd,FY24,JULY,engineering,7.53
+Tata AIG General Insurance Co Ltd,FY25,JULY,engineering,122.23
+Tata AIG General Insurance Co Ltd,FY24,JULY,engineering,102.54
+The New India Assurance Co Ltd,FY25,JULY,engineering,379.53
+The New India Assurance Co Ltd,FY24,JULY,engineering,321.68
+The Oriental Insurance Co Ltd,FY25,JULY,engineering,169.1
+The Oriental Insurance Co Ltd,FY24,JULY,engineering,148.71
+United India Insurance Co Ltd,FY25,JULY,engineering,175.73
+United India Insurance Co Ltd,FY24,JULY,engineering,167.39
+Universal Sompo General Insurance Co Ltd,FY25,JULY,engineering,5.33
+Universal Sompo General Insurance Co Ltd,FY24,JULY,engineering,3.81
+Zuno General Insurance Co Ltd,FY25,JULY,engineering,0.99
+Zuno General Insurance Co Ltd,FY24,JULY,engineering,1.11
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,engineering,6.16
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,engineering,3.62
+Acko General Insurance Ltd,FY25,JULY,motor_total,329.49
+Acko General Insurance Ltd,FY24,JULY,motor_total,280.64
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,motor_total,2266.17
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,motor_total,1936.57
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,motor_total,1643.14
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,motor_total,1552.19
+Generali Central Insurance Company Limited,FY25,JULY,motor_total,566.01
+Generali Central Insurance Company Limited,FY24,JULY,motor_total,622.32
+Go Digit General Insurance Ltd,FY25,JULY,motor_total,2020.31
+Go Digit General Insurance Ltd,FY24,JULY,motor_total,1779.54
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,motor_total,776.01
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,motor_total,1190.76
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,motor_total,3270.75
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,motor_total,3222.14
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,motor_total,1204.14
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,motor_total,1170.85
+Liberty  General Insurance Co. Ltd,FY25,JULY,motor_total,548.84
+Liberty  General Insurance Co. Ltd,FY24,JULY,motor_total,552.43
+Magma General Insurance Limited,FY25,JULY,motor_total,634.14
+Magma General Insurance Limited,FY24,JULY,motor_total,621.82
+National Insurance Co Ltd,FY25,JULY,motor_total,1640.55
+National Insurance Co Ltd,FY24,JULY,motor_total,1435.33
+Navi General Insurance Co. Ltd,FY25,JULY,motor_total,0.27
+Navi General Insurance Co. Ltd,FY24,JULY,motor_total,0.79
+Raheja QBE General Insurance Co Ltd,FY25,JULY,motor_total,16.16
+Raheja QBE General Insurance Co Ltd,FY24,JULY,motor_total,112.07
+Reliance General Insurance Co Ltd,FY25,JULY,motor_total,1385.61
+Reliance General Insurance Co Ltd,FY24,JULY,motor_total,1321.16
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,motor_total,814.6
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,motor_total,799.93
+SBI General Insurance Co Ltd,FY25,JULY,motor_total,1529.17
+SBI General Insurance Co Ltd,FY24,JULY,motor_total,1265.68
+Shriram General Insurance Co Ltd,FY25,JULY,motor_total,1201.5
+Shriram General Insurance Co Ltd,FY24,JULY,motor_total,913.24
+Tata AIG General Insurance Co Ltd,FY25,JULY,motor_total,2785.95
+Tata AIG General Insurance Co Ltd,FY24,JULY,motor_total,2578.53
+The New India Assurance Co Ltd,FY25,JULY,motor_total,3065.87
+The New India Assurance Co Ltd,FY24,JULY,motor_total,2991.24
+The Oriental Insurance Co Ltd,FY25,JULY,motor_total,1316.1
+The Oriental Insurance Co Ltd,FY24,JULY,motor_total,1236.36
+United India Insurance Co Ltd,FY25,JULY,motor_total,3098.06
+United India Insurance Co Ltd,FY24,JULY,motor_total,2295.92
+Universal Sompo General Insurance Co Ltd,FY25,JULY,motor_total,869.94
+Universal Sompo General Insurance Co Ltd,FY24,JULY,motor_total,782.65
+Zuno General Insurance Co Ltd,FY25,JULY,motor_total,170.63
+Zuno General Insurance Co Ltd,FY24,JULY,motor_total,153.1
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,motor_total,284.16
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,motor_total,282.62
+Acko General Insurance Ltd,FY25,JULY,health,349.41
+Acko General Insurance Ltd,FY24,JULY,health,345.52
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,health,2201.59
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,health,2759.46
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,health,330.59
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,health,373.39
+Generali Central Insurance Company Limited,FY25,JULY,health,569.03
+Generali Central Insurance Company Limited,FY24,JULY,health,859.61
+Go Digit General Insurance Ltd,FY25,JULY,health,494.92
+Go Digit General Insurance Ltd,FY24,JULY,health,487.53
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,health,1937.95
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,health,2030.53
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,health,3065.96
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,health,2980.79
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,health,310.09
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,health,305.87
+Liberty  General Insurance Co. Ltd,FY25,JULY,health,212.65
+Liberty  General Insurance Co. Ltd,FY24,JULY,health,111.98
+Magma General Insurance Limited,FY25,JULY,health,311.75
+Magma General Insurance Limited,FY24,JULY,health,261.23
+National Insurance Co Ltd,FY25,JULY,health,2023.43
+National Insurance Co Ltd,FY24,JULY,health,2159.03
+Navi General Insurance Co. Ltd,FY25,JULY,health,40.22
+Navi General Insurance Co. Ltd,FY24,JULY,health,16.53
+Raheja QBE General Insurance Co Ltd,FY25,JULY,health,1.84
+Raheja QBE General Insurance Co Ltd,FY24,JULY,health,17.82
+Reliance General Insurance Co Ltd,FY25,JULY,health,1128.18
+Reliance General Insurance Co Ltd,FY24,JULY,health,837.82
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,health,432.86
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,health,283.46
+SBI General Insurance Co Ltd,FY25,JULY,health,1087.69
+SBI General Insurance Co Ltd,FY24,JULY,health,762.62
+Shriram General Insurance Co Ltd,FY25,JULY,health,4.71
+Shriram General Insurance Co Ltd,FY24,JULY,health,1.02
+Tata AIG General Insurance Co Ltd,FY25,JULY,health,1300.41
+Tata AIG General Insurance Co Ltd,FY24,JULY,health,1114.25
+The New India Assurance Co Ltd,FY25,JULY,health,8889.04
+The New India Assurance Co Ltd,FY24,JULY,health,7583.52
+The Oriental Insurance Co Ltd,FY25,JULY,health,3122.11
+The Oriental Insurance Co Ltd,FY24,JULY,health,2911.29
+United India Insurance Co Ltd,FY25,JULY,health,2945.96
+United India Insurance Co Ltd,FY24,JULY,health,3330.09
+Universal Sompo General Insurance Co Ltd,FY25,JULY,health,526.5
+Universal Sompo General Insurance Co Ltd,FY24,JULY,health,240.05
+Zuno General Insurance Co Ltd,FY25,JULY,health,116.68
+Zuno General Insurance Co Ltd,FY24,JULY,health,114.41
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,health,320.68
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,health,238.13
+ Niva bupa health insurance company limited,FY25,JULY,health,2237.23
+ Niva bupa health insurance company limited,FY24,JULY,health,2009.58
+Aditya Birla Health Insurance Co Ltd,FY25,JULY,health,1720.52
+Aditya Birla Health Insurance Co Ltd,FY24,JULY,health,1325.9
+Care Health Insurance Ltd,FY25,JULY,health,2828.58
+Care Health Insurance Ltd,FY24,JULY,health,2596.94
+Galaxy Health Insurance Company Ltd,FY25,JULY,health,23.42
+ManipalCigna Health Insurance Co Ltd,FY25,JULY,health,671.21
+ManipalCigna Health Insurance Co Ltd,FY24,JULY,health,537.68
+Narayana Health Insurance Ltd,FY25,JULY,health,4.61
+Star Health & Allied Insurance Co Ltd,FY25,JULY,health,5066.24
+Star Health & Allied Insurance Co Ltd,FY24,JULY,health,4885.93
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,aviation,7.6
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,aviation,3.96
+Go Digit General Insurance Ltd,FY25,JULY,aviation,0.83
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,aviation,3.57
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,aviation,6.28
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,aviation,46.31
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,aviation,65.35
+National Insurance Co Ltd,FY25,JULY,aviation,21.51
+National Insurance Co Ltd,FY24,JULY,aviation,23.91
+Reliance General Insurance Co Ltd,FY25,JULY,aviation,0.57
+Reliance General Insurance Co Ltd,FY24,JULY,aviation,11.96
+SBI General Insurance Co Ltd,FY25,JULY,aviation,0.21
+SBI General Insurance Co Ltd,FY24,JULY,aviation,0.04
+Tata AIG General Insurance Co Ltd,FY25,JULY,aviation,64.55
+Tata AIG General Insurance Co Ltd,FY24,JULY,aviation,67.76
+The New India Assurance Co Ltd,FY25,JULY,aviation,124.97
+The New India Assurance Co Ltd,FY24,JULY,aviation,125.85
+The Oriental Insurance Co Ltd,FY25,JULY,aviation,36.83
+The Oriental Insurance Co Ltd,FY24,JULY,aviation,48.11
+United India Insurance Co Ltd,FY25,JULY,aviation,9.25
+United India Insurance Co Ltd,FY24,JULY,aviation,12.45
+Acko General Insurance Ltd,FY25,JULY,liability,12.55
+Acko General Insurance Ltd,FY24,JULY,liability,30.43
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,liability,425.99
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,liability,349.29
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,liability,14.12
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,liability,11.38
+Generali Central Insurance Company Limited,FY25,JULY,liability,28.66
+Generali Central Insurance Company Limited,FY24,JULY,liability,22.17
+Go Digit General Insurance Ltd,FY25,JULY,liability,114.89
+Go Digit General Insurance Ltd,FY24,JULY,liability,48.36
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,liability,301.16
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,liability,298.3
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,liability,409.92
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,liability,420.35
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,liability,114.52
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,liability,95.51
+Liberty  General Insurance Co. Ltd,FY25,JULY,liability,16.01
+Liberty  General Insurance Co. Ltd,FY24,JULY,liability,6.34
+Magma General Insurance Limited,FY25,JULY,liability,43.73
+Magma General Insurance Limited,FY24,JULY,liability,37.15
+National Insurance Co Ltd,FY25,JULY,liability,96.46
+National Insurance Co Ltd,FY24,JULY,liability,137.04
+Raheja QBE General Insurance Co Ltd,FY25,JULY,liability,32.05
+Raheja QBE General Insurance Co Ltd,FY24,JULY,liability,23.83
+Reliance General Insurance Co Ltd,FY25,JULY,liability,42.88
+Reliance General Insurance Co Ltd,FY24,JULY,liability,32.21
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,liability,10.06
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,liability,7.33
+SBI General Insurance Co Ltd,FY25,JULY,liability,47.31
+SBI General Insurance Co Ltd,FY24,JULY,liability,32.19
+Shriram General Insurance Co Ltd,FY25,JULY,liability,3.5
+Shriram General Insurance Co Ltd,FY24,JULY,liability,3.16
+Tata AIG General Insurance Co Ltd,FY25,JULY,liability,351.89
+Tata AIG General Insurance Co Ltd,FY24,JULY,liability,350.0
+The New India Assurance Co Ltd,FY25,JULY,liability,236.3
+The New India Assurance Co Ltd,FY24,JULY,liability,222.51
+The Oriental Insurance Co Ltd,FY25,JULY,liability,54.4
+The Oriental Insurance Co Ltd,FY24,JULY,liability,52.19
+United India Insurance Co Ltd,FY25,JULY,liability,117.5
+United India Insurance Co Ltd,FY24,JULY,liability,117.75
+Universal Sompo General Insurance Co Ltd,FY25,JULY,liability,11.97
+Universal Sompo General Insurance Co Ltd,FY24,JULY,liability,8.7
+Zuno General Insurance Co Ltd,FY25,JULY,liability,0.01
+Zuno General Insurance Co Ltd,FY24,JULY,liability,0.03
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,liability,2.28
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,liability,0.64
+Acko General Insurance Ltd,FY25,JULY,personal_accident,4.12
+Acko General Insurance Ltd,FY24,JULY,personal_accident,2.64
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,personal_accident,89.92
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,personal_accident,97.31
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,personal_accident,61.59
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,personal_accident,126.77
+Generali Central Insurance Company Limited,FY25,JULY,personal_accident,42.55
+Generali Central Insurance Company Limited,FY24,JULY,personal_accident,46.89
+Go Digit General Insurance Ltd,FY25,JULY,personal_accident,159.53
+Go Digit General Insurance Ltd,FY24,JULY,personal_accident,292.31
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,personal_accident,225.97
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,personal_accident,150.2
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,personal_accident,166.09
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,personal_accident,230.37
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,personal_accident,36.91
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,personal_accident,42.77
+Liberty  General Insurance Co. Ltd,FY25,JULY,personal_accident,7.48
+Liberty  General Insurance Co. Ltd,FY24,JULY,personal_accident,7.52
+Magma General Insurance Limited,FY25,JULY,personal_accident,20.64
+Magma General Insurance Limited,FY24,JULY,personal_accident,10.57
+National Insurance Co Ltd,FY25,JULY,personal_accident,345.01
+National Insurance Co Ltd,FY24,JULY,personal_accident,372.2
+Navi General Insurance Co. Ltd,FY25,JULY,personal_accident,0.92
+Raheja QBE General Insurance Co Ltd,FY25,JULY,personal_accident,0.55
+Raheja QBE General Insurance Co Ltd,FY24,JULY,personal_accident,0.16
+Reliance General Insurance Co Ltd,FY25,JULY,personal_accident,128.63
+Reliance General Insurance Co Ltd,FY24,JULY,personal_accident,89.13
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,personal_accident,26.52
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,personal_accident,26.62
+SBI General Insurance Co Ltd,FY25,JULY,personal_accident,516.24
+SBI General Insurance Co Ltd,FY24,JULY,personal_accident,353.06
+Shriram General Insurance Co Ltd,FY25,JULY,personal_accident,41.9
+Shriram General Insurance Co Ltd,FY24,JULY,personal_accident,36.26
+Tata AIG General Insurance Co Ltd,FY25,JULY,personal_accident,75.09
+Tata AIG General Insurance Co Ltd,FY24,JULY,personal_accident,78.75
+The New India Assurance Co Ltd,FY25,JULY,personal_accident,301.91
+The New India Assurance Co Ltd,FY24,JULY,personal_accident,281.97
+The Oriental Insurance Co Ltd,FY25,JULY,personal_accident,1856.17
+The Oriental Insurance Co Ltd,FY24,JULY,personal_accident,797.71
+United India Insurance Co Ltd,FY25,JULY,personal_accident,180.96
+United India Insurance Co Ltd,FY24,JULY,personal_accident,120.66
+Universal Sompo General Insurance Co Ltd,FY25,JULY,personal_accident,71.21
+Universal Sompo General Insurance Co Ltd,FY24,JULY,personal_accident,63.65
+Zuno General Insurance Co Ltd,FY25,JULY,personal_accident,4.28
+Zuno General Insurance Co Ltd,FY24,JULY,personal_accident,7.29
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,personal_accident,19.0
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,personal_accident,25.12
+ Niva bupa health insurance company limited,FY25,JULY,personal_accident,31.99
+ Niva bupa health insurance company limited,FY24,JULY,personal_accident,33.82
+Aditya Birla Health Insurance Co Ltd,FY25,JULY,personal_accident,68.52
+Aditya Birla Health Insurance Co Ltd,FY24,JULY,personal_accident,79.66
+Care Health Insurance Ltd,FY25,JULY,personal_accident,57.01
+Care Health Insurance Ltd,FY24,JULY,personal_accident,64.01
+Galaxy Health Insurance Company Ltd,FY25,JULY,personal_accident,1.41
+ManipalCigna Health Insurance Co Ltd,FY25,JULY,personal_accident,12.99
+ManipalCigna Health Insurance Co Ltd,FY24,JULY,personal_accident,9.6
+Star Health & Allied Insurance Co Ltd,FY25,JULY,personal_accident,49.55
+Star Health & Allied Insurance Co Ltd,FY24,JULY,personal_accident,57.94
+Acko General Insurance Ltd,FY25,JULY,misc,26.51
+Acko General Insurance Ltd,FY24,JULY,misc,22.98
+Bajaj Allianz General Insurance Co Ltd,FY25,JULY,misc,487.86
+Bajaj Allianz General Insurance Co Ltd,FY24,JULY,misc,446.62
+Cholamandalam MS General Insurance Co Ltd,FY25,JULY,misc,15.76
+Cholamandalam MS General Insurance Co Ltd,FY24,JULY,misc,171.57
+Generali Central Insurance Company Limited,FY25,JULY,misc,77.04
+Generali Central Insurance Company Limited,FY24,JULY,misc,128.74
+Go Digit General Insurance Ltd,FY25,JULY,misc,91.81
+Go Digit General Insurance Ltd,FY24,JULY,misc,85.91
+HDFC Ergo General Insurance Co Ltd,FY25,JULY,misc,148.72
+HDFC Ergo General Insurance Co Ltd,FY24,JULY,misc,540.47
+ICICI Lombard General Insurance Co Ltd,FY25,JULY,misc,629.18
+ICICI Lombard General Insurance Co Ltd,FY24,JULY,misc,1136.0
+IFFCO-Tokio General Insurance Co Ltd,FY25,JULY,misc,379.63
+IFFCO-Tokio General Insurance Co Ltd,FY24,JULY,misc,344.68
+Kshema General insurance,FY25,JULY,misc,288.79
+Kshema General insurance,FY24,JULY,misc,306.44
+Liberty  General Insurance Co. Ltd,FY25,JULY,misc,24.74
+Liberty  General Insurance Co. Ltd,FY24,JULY,misc,29.44
+Magma General Insurance Limited,FY25,JULY,misc,4.56
+Magma General Insurance Limited,FY24,JULY,misc,1.52
+National Insurance Co Ltd,FY25,JULY,misc,234.12
+National Insurance Co Ltd,FY24,JULY,misc,227.48
+Raheja QBE General Insurance Co Ltd,FY25,JULY,misc,0.09
+Raheja QBE General Insurance Co Ltd,FY24,JULY,misc,0.05
+Reliance General Insurance Co Ltd,FY25,JULY,misc,619.71
+Reliance General Insurance Co Ltd,FY24,JULY,misc,1076.11
+Royal Sundaram General Insurance Co Ltd,FY25,JULY,misc,8.63
+Royal Sundaram General Insurance Co Ltd,FY24,JULY,misc,5.49
+SBI General Insurance Co Ltd,FY25,JULY,misc,481.19
+SBI General Insurance Co Ltd,FY24,JULY,misc,650.92
+Shriram General Insurance Co Ltd,FY25,JULY,misc,18.09
+Shriram General Insurance Co Ltd,FY24,JULY,misc,6.35
+Tata AIG General Insurance Co Ltd,FY25,JULY,misc,335.44
+Tata AIG General Insurance Co Ltd,FY24,JULY,misc,178.29
+The New India Assurance Co Ltd,FY25,JULY,misc,815.92
+The New India Assurance Co Ltd,FY24,JULY,misc,683.45
+The Oriental Insurance Co Ltd,FY25,JULY,misc,205.95
+The Oriental Insurance Co Ltd,FY24,JULY,misc,729.98
+United India Insurance Co Ltd,FY25,JULY,misc,218.04
+United India Insurance Co Ltd,FY24,JULY,misc,420.27
+Universal Sompo General Insurance Co Ltd,FY25,JULY,misc,59.06
+Universal Sompo General Insurance Co Ltd,FY24,JULY,misc,224.79
+Zuno General Insurance Co Ltd,FY25,JULY,misc,9.62
+Zuno General Insurance Co Ltd,FY24,JULY,misc,0.41
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,JULY,misc,18.83
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,JULY,misc,17.54
+Star Health & Allied Insurance Co Ltd,FY25,JULY,misc,0.02
+Star Health & Allied Insurance Co Ltd,FY24,JULY,misc,0.14
+Agriculture Insurance Co Of India Ltd,FY25,JULY,misc,1573.94
+Agriculture Insurance Co Of India Ltd,FY24,JULY,misc,1051.58
+ECGC Ltd,FY25,JULY,misc,443.41
+ECGC Ltd,FY24,JULY,misc,428.24
+Acko General Insurance Ltd,FY25,AUG,fire,0.01
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,fire,1591.42
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,fire,1370.42
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,fire,329.86
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,fire,348.21
+Generali Central Insurance Company Limited,FY25,AUG,fire,392.65
+Generali Central Insurance Company Limited,FY24,AUG,fire,298.31
+Go Digit General Insurance Ltd,FY25,AUG,fire,447.27
+Go Digit General Insurance Ltd,FY24,AUG,fire,292.88
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,fire,1107.65
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,fire,1078.27
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,fire,2006.55
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,fire,1762.97
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,fire,588.48
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,fire,479.62
+Liberty  General Insurance Co. Ltd,FY25,AUG,fire,38.34
+Liberty  General Insurance Co. Ltd,FY24,AUG,fire,30.75
+Magma General Insurance Limited,FY25,AUG,fire,152.81
+Magma General Insurance Limited,FY24,AUG,fire,153.88
+National Insurance Co Ltd,FY25,AUG,fire,831.84
+National Insurance Co Ltd,FY24,AUG,fire,606.57
+Raheja QBE General Insurance Co Ltd,FY25,AUG,fire,7.92
+Raheja QBE General Insurance Co Ltd,FY24,AUG,fire,7.58
+Reliance General Insurance Co Ltd,FY25,AUG,fire,832.54
+Reliance General Insurance Co Ltd,FY24,AUG,fire,755.13
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,fire,213.68
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,fire,163.88
+SBI General Insurance Co Ltd,FY25,AUG,fire,851.74
+SBI General Insurance Co Ltd,FY24,AUG,fire,794.13
+Shriram General Insurance Co Ltd,FY25,AUG,fire,52.83
+Shriram General Insurance Co Ltd,FY24,AUG,fire,44.81
+Tata AIG General Insurance Co Ltd,FY25,AUG,fire,1266.58
+Tata AIG General Insurance Co Ltd,FY24,AUG,fire,1189.44
+The New India Assurance Co Ltd,FY25,AUG,fire,2510.87
+The New India Assurance Co Ltd,FY24,AUG,fire,1804.98
+The Oriental Insurance Co Ltd,FY25,AUG,fire,1061.39
+The Oriental Insurance Co Ltd,FY24,AUG,fire,863.49
+United India Insurance Co Ltd,FY25,AUG,fire,1108.51
+United India Insurance Co Ltd,FY24,AUG,fire,859.63
+Universal Sompo General Insurance Co Ltd,FY25,AUG,fire,183.93
+Universal Sompo General Insurance Co Ltd,FY24,AUG,fire,160.03
+Zuno General Insurance Co Ltd,FY25,AUG,fire,32.59
+Zuno General Insurance Co Ltd,FY24,AUG,fire,26.35
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,fire,70.38
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,fire,42.32
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,marine_total,181.52
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,marine_total,158.09
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,marine_total,78.32
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,marine_total,69.74
+Generali Central Insurance Company Limited,FY25,AUG,marine_total,67.73
+Generali Central Insurance Company Limited,FY24,AUG,marine_total,62.47
+Go Digit General Insurance Ltd,FY25,AUG,marine_total,31.0
+Go Digit General Insurance Ltd,FY24,AUG,marine_total,30.91
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,marine_total,77.7
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,marine_total,87.33
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,marine_total,445.39
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,marine_total,473.5
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,marine_total,183.78
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,marine_total,150.73
+Liberty  General Insurance Co. Ltd,FY25,AUG,marine_total,10.47
+Liberty  General Insurance Co. Ltd,FY24,AUG,marine_total,14.74
+Magma General Insurance Limited,FY25,AUG,marine_total,17.93
+Magma General Insurance Limited,FY24,AUG,marine_total,17.34
+National Insurance Co Ltd,FY25,AUG,marine_total,130.56
+National Insurance Co Ltd,FY24,AUG,marine_total,139.24
+Raheja QBE General Insurance Co Ltd,FY24,AUG,marine_total,0.07
+Reliance General Insurance Co Ltd,FY25,AUG,marine_total,71.66
+Reliance General Insurance Co Ltd,FY24,AUG,marine_total,73.16
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,marine_total,34.3
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,marine_total,28.54
+SBI General Insurance Co Ltd,FY25,AUG,marine_total,48.43
+SBI General Insurance Co Ltd,FY24,AUG,marine_total,48.49
+Shriram General Insurance Co Ltd,FY25,AUG,marine_total,2.14
+Shriram General Insurance Co Ltd,FY24,AUG,marine_total,1.84
+Tata AIG General Insurance Co Ltd,FY25,AUG,marine_total,344.77
+Tata AIG General Insurance Co Ltd,FY24,AUG,marine_total,313.89
+The New India Assurance Co Ltd,FY25,AUG,marine_total,452.5
+The New India Assurance Co Ltd,FY24,AUG,marine_total,439.25
+The Oriental Insurance Co Ltd,FY25,AUG,marine_total,253.51
+The Oriental Insurance Co Ltd,FY24,AUG,marine_total,208.1
+United India Insurance Co Ltd,FY25,AUG,marine_total,203.49
+United India Insurance Co Ltd,FY24,AUG,marine_total,188.48
+Universal Sompo General Insurance Co Ltd,FY25,AUG,marine_total,30.93
+Universal Sompo General Insurance Co Ltd,FY24,AUG,marine_total,46.95
+Zuno General Insurance Co Ltd,FY25,AUG,marine_total,1.01
+Zuno General Insurance Co Ltd,FY24,AUG,marine_total,0.77
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,marine_total,10.26
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,marine_total,6.0
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,engineering,231.4
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,engineering,198.1
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,engineering,17.99
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,engineering,18.89
+Generali Central Insurance Company Limited,FY25,AUG,engineering,46.03
+Generali Central Insurance Company Limited,FY24,AUG,engineering,46.55
+Go Digit General Insurance Ltd,FY25,AUG,engineering,73.33
+Go Digit General Insurance Ltd,FY24,AUG,engineering,47.44
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,engineering,174.07
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,engineering,150.43
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,engineering,501.22
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,engineering,450.16
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,engineering,158.26
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,engineering,120.66
+Liberty  General Insurance Co. Ltd,FY25,AUG,engineering,18.12
+Liberty  General Insurance Co. Ltd,FY24,AUG,engineering,16.05
+Magma General Insurance Limited,FY25,AUG,engineering,16.92
+Magma General Insurance Limited,FY24,AUG,engineering,8.2
+National Insurance Co Ltd,FY25,AUG,engineering,200.98
+National Insurance Co Ltd,FY24,AUG,engineering,175.49
+Raheja QBE General Insurance Co Ltd,FY25,AUG,engineering,0.39
+Raheja QBE General Insurance Co Ltd,FY24,AUG,engineering,0.71
+Reliance General Insurance Co Ltd,FY25,AUG,engineering,213.35
+Reliance General Insurance Co Ltd,FY24,AUG,engineering,211.18
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,engineering,37.12
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,engineering,30.81
+SBI General Insurance Co Ltd,FY25,AUG,engineering,80.91
+SBI General Insurance Co Ltd,FY24,AUG,engineering,71.52
+Shriram General Insurance Co Ltd,FY25,AUG,engineering,11.18
+Shriram General Insurance Co Ltd,FY24,AUG,engineering,9.54
+Tata AIG General Insurance Co Ltd,FY25,AUG,engineering,151.4
+Tata AIG General Insurance Co Ltd,FY24,AUG,engineering,130.2
+The New India Assurance Co Ltd,FY25,AUG,engineering,461.57
+The New India Assurance Co Ltd,FY24,AUG,engineering,390.5
+The Oriental Insurance Co Ltd,FY25,AUG,engineering,194.34
+The Oriental Insurance Co Ltd,FY24,AUG,engineering,171.61
+United India Insurance Co Ltd,FY25,AUG,engineering,216.22
+United India Insurance Co Ltd,FY24,AUG,engineering,238.59
+Universal Sompo General Insurance Co Ltd,FY25,AUG,engineering,7.13
+Universal Sompo General Insurance Co Ltd,FY24,AUG,engineering,6.54
+Zuno General Insurance Co Ltd,FY25,AUG,engineering,1.42
+Zuno General Insurance Co Ltd,FY24,AUG,engineering,1.44
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,engineering,8.28
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,engineering,4.96
+Acko General Insurance Ltd,FY25,AUG,motor_total,424.99
+Acko General Insurance Ltd,FY24,AUG,motor_total,361.67
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,motor_total,2838.6
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,motor_total,2431.68
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,motor_total,2086.37
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,motor_total,1987.07
+Generali Central Insurance Company Limited,FY25,AUG,motor_total,722.9
+Generali Central Insurance Company Limited,FY24,AUG,motor_total,779.66
+Go Digit General Insurance Ltd,FY25,AUG,motor_total,2558.78
+Go Digit General Insurance Ltd,FY24,AUG,motor_total,2261.61
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,motor_total,992.06
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,motor_total,1475.09
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,motor_total,4129.16
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,motor_total,4074.83
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,motor_total,1514.58
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,motor_total,1484.11
+Liberty  General Insurance Co. Ltd,FY25,AUG,motor_total,730.23
+Liberty  General Insurance Co. Ltd,FY24,AUG,motor_total,704.09
+Magma General Insurance Limited,FY25,AUG,motor_total,779.58
+Magma General Insurance Limited,FY24,AUG,motor_total,765.59
+National Insurance Co Ltd,FY25,AUG,motor_total,2032.56
+National Insurance Co Ltd,FY24,AUG,motor_total,1858.5
+Navi General Insurance Co. Ltd,FY25,AUG,motor_total,0.36
+Navi General Insurance Co. Ltd,FY24,AUG,motor_total,1.17
+Raheja QBE General Insurance Co Ltd,FY25,AUG,motor_total,25.22
+Raheja QBE General Insurance Co Ltd,FY24,AUG,motor_total,147.51
+Reliance General Insurance Co Ltd,FY25,AUG,motor_total,1780.47
+Reliance General Insurance Co Ltd,FY24,AUG,motor_total,1669.69
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,motor_total,1049.64
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,motor_total,1016.33
+SBI General Insurance Co Ltd,FY25,AUG,motor_total,1912.55
+SBI General Insurance Co Ltd,FY24,AUG,motor_total,1609.56
+Shriram General Insurance Co Ltd,FY25,AUG,motor_total,1531.09
+Shriram General Insurance Co Ltd,FY24,AUG,motor_total,1171.47
+Tata AIG General Insurance Co Ltd,FY25,AUG,motor_total,3504.25
+Tata AIG General Insurance Co Ltd,FY24,AUG,motor_total,3309.52
+The New India Assurance Co Ltd,FY25,AUG,motor_total,3820.12
+The New India Assurance Co Ltd,FY24,AUG,motor_total,3812.06
+The Oriental Insurance Co Ltd,FY25,AUG,motor_total,1638.78
+The Oriental Insurance Co Ltd,FY24,AUG,motor_total,1548.48
+United India Insurance Co Ltd,FY25,AUG,motor_total,3845.15
+United India Insurance Co Ltd,FY24,AUG,motor_total,2910.58
+Universal Sompo General Insurance Co Ltd,FY25,AUG,motor_total,1157.39
+Universal Sompo General Insurance Co Ltd,FY24,AUG,motor_total,949.31
+Zuno General Insurance Co Ltd,FY25,AUG,motor_total,216.51
+Zuno General Insurance Co Ltd,FY24,AUG,motor_total,197.62
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,motor_total,363.37
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,motor_total,360.51
+Acko General Insurance Ltd,FY25,AUG,health,442.19
+Acko General Insurance Ltd,FY24,AUG,health,432.76
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,health,2775.69
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,health,3088.99
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,health,400.43
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,health,452.95
+Generali Central Insurance Company Limited,FY25,AUG,health,668.2
+Generali Central Insurance Company Limited,FY24,AUG,health,978.91
+Go Digit General Insurance Ltd,FY25,AUG,health,598.47
+Go Digit General Insurance Ltd,FY24,AUG,health,579.25
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,health,2391.13
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,health,2536.43
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,health,3640.89
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,health,3528.03
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,health,397.0
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,health,391.34
+Liberty  General Insurance Co. Ltd,FY25,AUG,health,247.35
+Liberty  General Insurance Co. Ltd,FY24,AUG,health,132.15
+Magma General Insurance Limited,FY25,AUG,health,380.95
+Magma General Insurance Limited,FY24,AUG,health,300.08
+National Insurance Co Ltd,FY25,AUG,health,3030.56
+National Insurance Co Ltd,FY24,AUG,health,2645.67
+Navi General Insurance Co. Ltd,FY25,AUG,health,45.94
+Navi General Insurance Co. Ltd,FY24,AUG,health,20.98
+Raheja QBE General Insurance Co Ltd,FY25,AUG,health,2.3
+Raheja QBE General Insurance Co Ltd,FY24,AUG,health,20.96
+Reliance General Insurance Co Ltd,FY25,AUG,health,1256.66
+Reliance General Insurance Co Ltd,FY24,AUG,health,951.19
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,health,497.0
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,health,345.28
+SBI General Insurance Co Ltd,FY25,AUG,health,1367.47
+SBI General Insurance Co Ltd,FY24,AUG,health,990.91
+Shriram General Insurance Co Ltd,FY25,AUG,health,5.57
+Shriram General Insurance Co Ltd,FY24,AUG,health,1.25
+Tata AIG General Insurance Co Ltd,FY25,AUG,health,1654.35
+Tata AIG General Insurance Co Ltd,FY24,AUG,health,1458.45
+The New India Assurance Co Ltd,FY25,AUG,health,9680.69
+The New India Assurance Co Ltd,FY24,AUG,health,8289.19
+The Oriental Insurance Co Ltd,FY25,AUG,health,3648.53
+The Oriental Insurance Co Ltd,FY24,AUG,health,3373.97
+United India Insurance Co Ltd,FY25,AUG,health,3275.39
+United India Insurance Co Ltd,FY24,AUG,health,3730.58
+Universal Sompo General Insurance Co Ltd,FY25,AUG,health,675.21
+Universal Sompo General Insurance Co Ltd,FY24,AUG,health,302.28
+Zuno General Insurance Co Ltd,FY25,AUG,health,153.23
+Zuno General Insurance Co Ltd,FY24,AUG,health,154.99
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,health,373.77
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,health,303.82
+Niva bupa health insurance company limited,FY25,AUG,health,2842.76
+Niva bupa health insurance company limited,FY24,AUG,health,2587.97
+Aditya Birla Health Insurance Co Ltd,FY25,AUG,health,2122.99
+Aditya Birla Health Insurance Co Ltd,FY24,AUG,health,1608.93
+Care Health Insurance Ltd,FY25,AUG,health,3558.67
+Care Health Insurance Ltd,FY24,AUG,health,3369.17
+Galaxy Health Insurance Company Ltd,FY25,AUG,health,30.58
+ManipalCigna Health Insurance Co Ltd,FY25,AUG,health,809.06
+ManipalCigna Health Insurance Co Ltd,FY24,AUG,health,673.28
+Narayana Health Insurance Ltd,FY25,AUG,health,7.83
+Star Health & Allied Insurance Co Ltd,FY25,AUG,health,6478.86
+Star Health & Allied Insurance Co Ltd,FY24,AUG,health,6270.28
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,aviation,8.26
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,aviation,6.33
+Go Digit General Insurance Ltd,FY25,AUG,aviation,0.93
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,aviation,3.62
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,aviation,8.3
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,aviation,49.79
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,aviation,69.64
+National Insurance Co Ltd,FY25,AUG,aviation,24.51
+National Insurance Co Ltd,FY24,AUG,aviation,24.31
+Reliance General Insurance Co Ltd,FY25,AUG,aviation,1.09
+Reliance General Insurance Co Ltd,FY24,AUG,aviation,12.47
+SBI General Insurance Co Ltd,FY25,AUG,aviation,0.21
+SBI General Insurance Co Ltd,FY24,AUG,aviation,0.04
+Tata AIG General Insurance Co Ltd,FY25,AUG,aviation,69.77
+Tata AIG General Insurance Co Ltd,FY24,AUG,aviation,71.69
+The New India Assurance Co Ltd,FY25,AUG,aviation,146.0
+The New India Assurance Co Ltd,FY24,AUG,aviation,139.38
+The Oriental Insurance Co Ltd,FY25,AUG,aviation,71.68
+The Oriental Insurance Co Ltd,FY24,AUG,aviation,68.58
+United India Insurance Co Ltd,FY25,AUG,aviation,12.14
+United India Insurance Co Ltd,FY24,AUG,aviation,14.55
+Acko General Insurance Ltd,FY25,AUG,liability,15.26
+Acko General Insurance Ltd,FY24,AUG,liability,36.76
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,liability,461.82
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,liability,377.39
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,liability,15.51
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,liability,13.89
+Generali Central Insurance Company Limited,FY25,AUG,liability,33.47
+Generali Central Insurance Company Limited,FY24,AUG,liability,28.57
+Go Digit General Insurance Ltd,FY25,AUG,liability,123.98
+Go Digit General Insurance Ltd,FY24,AUG,liability,57.73
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,liability,347.76
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,liability,345.37
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,liability,485.39
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,liability,486.09
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,liability,138.15
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,liability,117.78
+Liberty  General Insurance Co. Ltd,FY25,AUG,liability,18.71
+Liberty  General Insurance Co. Ltd,FY24,AUG,liability,8.44
+Magma General Insurance Limited,FY25,AUG,liability,47.56
+Magma General Insurance Limited,FY24,AUG,liability,39.76
+National Insurance Co Ltd,FY25,AUG,liability,125.25
+National Insurance Co Ltd,FY24,AUG,liability,154.42
+Raheja QBE General Insurance Co Ltd,FY25,AUG,liability,35.12
+Raheja QBE General Insurance Co Ltd,FY24,AUG,liability,27.48
+Reliance General Insurance Co Ltd,FY25,AUG,liability,46.82
+Reliance General Insurance Co Ltd,FY24,AUG,liability,40.78
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,liability,11.69
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,liability,8.63
+SBI General Insurance Co Ltd,FY25,AUG,liability,56.73
+SBI General Insurance Co Ltd,FY24,AUG,liability,42.22
+Shriram General Insurance Co Ltd,FY25,AUG,liability,4.5
+Shriram General Insurance Co Ltd,FY24,AUG,liability,4.01
+Tata AIG General Insurance Co Ltd,FY25,AUG,liability,394.62
+Tata AIG General Insurance Co Ltd,FY24,AUG,liability,386.11
+The New India Assurance Co Ltd,FY25,AUG,liability,277.74
+The New India Assurance Co Ltd,FY24,AUG,liability,270.68
+The Oriental Insurance Co Ltd,FY25,AUG,liability,65.3
+The Oriental Insurance Co Ltd,FY24,AUG,liability,63.56
+United India Insurance Co Ltd,FY25,AUG,liability,138.89
+United India Insurance Co Ltd,FY24,AUG,liability,139.96
+Universal Sompo General Insurance Co Ltd,FY25,AUG,liability,14.09
+Universal Sompo General Insurance Co Ltd,FY24,AUG,liability,11.8
+Zuno General Insurance Co Ltd,FY25,AUG,liability,0.02
+Zuno General Insurance Co Ltd,FY24,AUG,liability,0.03
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,liability,3.16
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,liability,0.89
+Acko General Insurance Ltd,FY25,AUG,personal_accident,5.15
+Acko General Insurance Ltd,FY24,AUG,personal_accident,4.2
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,personal_accident,101.17
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,personal_accident,115.25
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,personal_accident,81.04
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,personal_accident,157.79
+Generali Central Insurance Company Limited,FY25,AUG,personal_accident,50.39
+Generali Central Insurance Company Limited,FY24,AUG,personal_accident,55.07
+Go Digit General Insurance Ltd,FY25,AUG,personal_accident,182.88
+Go Digit General Insurance Ltd,FY24,AUG,personal_accident,317.68
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,personal_accident,243.94
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,personal_accident,189.5
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,personal_accident,206.43
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,personal_accident,284.15
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,personal_accident,47.95
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,personal_accident,55.12
+Liberty  General Insurance Co. Ltd,FY25,AUG,personal_accident,9.61
+Liberty  General Insurance Co. Ltd,FY24,AUG,personal_accident,11.97
+Magma General Insurance Limited,FY25,AUG,personal_accident,22.78
+Magma General Insurance Limited,FY24,AUG,personal_accident,12.43
+National Insurance Co Ltd,FY25,AUG,personal_accident,400.49
+National Insurance Co Ltd,FY24,AUG,personal_accident,423.94
+Navi General Insurance Co. Ltd,FY25,AUG,personal_accident,1.3
+Raheja QBE General Insurance Co Ltd,FY25,AUG,personal_accident,0.63
+Raheja QBE General Insurance Co Ltd,FY24,AUG,personal_accident,0.17
+Reliance General Insurance Co Ltd,FY25,AUG,personal_accident,159.92
+Reliance General Insurance Co Ltd,FY24,AUG,personal_accident,109.84
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,personal_accident,31.03
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,personal_accident,31.86
+SBI General Insurance Co Ltd,FY25,AUG,personal_accident,672.19
+SBI General Insurance Co Ltd,FY24,AUG,personal_accident,465.97
+Shriram General Insurance Co Ltd,FY25,AUG,personal_accident,54.07
+Shriram General Insurance Co Ltd,FY24,AUG,personal_accident,44.77
+Tata AIG General Insurance Co Ltd,FY25,AUG,personal_accident,99.31
+Tata AIG General Insurance Co Ltd,FY24,AUG,personal_accident,100.58
+The New India Assurance Co Ltd,FY25,AUG,personal_accident,329.87
+The New India Assurance Co Ltd,FY24,AUG,personal_accident,311.45
+The Oriental Insurance Co Ltd,FY25,AUG,personal_accident,1928.34
+The Oriental Insurance Co Ltd,FY24,AUG,personal_accident,820.81
+United India Insurance Co Ltd,FY25,AUG,personal_accident,193.72
+United India Insurance Co Ltd,FY24,AUG,personal_accident,204.71
+Universal Sompo General Insurance Co Ltd,FY25,AUG,personal_accident,77.48
+Universal Sompo General Insurance Co Ltd,FY24,AUG,personal_accident,68.9
+Zuno General Insurance Co Ltd,FY25,AUG,personal_accident,5.96
+Zuno General Insurance Co Ltd,FY24,AUG,personal_accident,10.82
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,personal_accident,23.35
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,personal_accident,31.3
+Niva bupa health insurance company limited,FY25,AUG,personal_accident,39.41
+Niva bupa health insurance company limited,FY24,AUG,personal_accident,52.02
+Aditya Birla Health Insurance Co Ltd,FY25,AUG,personal_accident,83.39
+Aditya Birla Health Insurance Co Ltd,FY24,AUG,personal_accident,101.08
+Care Health Insurance Ltd,FY25,AUG,personal_accident,77.43
+Care Health Insurance Ltd,FY24,AUG,personal_accident,80.21
+Galaxy Health Insurance Company Ltd,FY25,AUG,personal_accident,1.88
+ManipalCigna Health Insurance Co Ltd,FY25,AUG,personal_accident,21.02
+ManipalCigna Health Insurance Co Ltd,FY24,AUG,personal_accident,12.93
+Star Health & Allied Insurance Co Ltd,FY25,AUG,personal_accident,62.45
+Star Health & Allied Insurance Co Ltd,FY24,AUG,personal_accident,73.36
+Acko General Insurance Ltd,FY25,AUG,misc,33.88
+Acko General Insurance Ltd,FY24,AUG,misc,28.93
+Bajaj Allianz General Insurance Co Ltd,FY25,AUG,misc,1145.69
+Bajaj Allianz General Insurance Co Ltd,FY24,AUG,misc,1121.72
+Cholamandalam MS General Insurance Co Ltd,FY25,AUG,misc,19.69
+Cholamandalam MS General Insurance Co Ltd,FY24,AUG,misc,286.02
+Generali Central Insurance Company Limited,FY25,AUG,misc,224.68
+Generali Central Insurance Company Limited,FY24,AUG,misc,163.53
+Go Digit General Insurance Ltd,FY25,AUG,misc,109.12
+Go Digit General Insurance Ltd,FY24,AUG,misc,94.76
+HDFC Ergo General Insurance Co Ltd,FY25,AUG,misc,378.35
+HDFC Ergo General Insurance Co Ltd,FY24,AUG,misc,1277.82
+ICICI Lombard General Insurance Co Ltd,FY25,AUG,misc,935.15
+ICICI Lombard General Insurance Co Ltd,FY24,AUG,misc,1461.0
+IFFCO-Tokio General Insurance Co Ltd,FY25,AUG,misc,614.92
+IFFCO-Tokio General Insurance Co Ltd,FY24,AUG,misc,543.09
+Kshema General insurance,FY25,AUG,misc,293.12
+Kshema General insurance,FY24,AUG,misc,377.21
+Liberty  General Insurance Co. Ltd,FY25,AUG,misc,30.89
+Liberty  General Insurance Co. Ltd,FY24,AUG,misc,31.76
+Magma General Insurance Limited,FY25,AUG,misc,6.28
+Magma General Insurance Limited,FY24,AUG,misc,2.72
+National Insurance Co Ltd,FY25,AUG,misc,253.67
+National Insurance Co Ltd,FY24,AUG,misc,259.15
+Raheja QBE General Insurance Co Ltd,FY25,AUG,misc,0.1
+Raheja QBE General Insurance Co Ltd,FY24,AUG,misc,0.07
+Reliance General Insurance Co Ltd,FY25,AUG,misc,867.4
+Reliance General Insurance Co Ltd,FY24,AUG,misc,1494.13
+Royal Sundaram General Insurance Co Ltd,FY25,AUG,misc,10.61
+Royal Sundaram General Insurance Co Ltd,FY24,AUG,misc,6.94
+SBI General Insurance Co Ltd,FY25,AUG,misc,990.81
+SBI General Insurance Co Ltd,FY24,AUG,misc,1173.54
+Shriram General Insurance Co Ltd,FY25,AUG,misc,22.09
+Shriram General Insurance Co Ltd,FY24,AUG,misc,7.91
+Tata AIG General Insurance Co Ltd,FY25,AUG,misc,394.24
+Tata AIG General Insurance Co Ltd,FY24,AUG,misc,231.21
+The New India Assurance Co Ltd,FY25,AUG,misc,953.12
+The New India Assurance Co Ltd,FY24,AUG,misc,792.14
+The Oriental Insurance Co Ltd,FY25,AUG,misc,239.61
+The Oriental Insurance Co Ltd,FY24,AUG,misc,844.89
+United India Insurance Co Ltd,FY25,AUG,misc,313.92
+United India Insurance Co Ltd,FY24,AUG,misc,461.75
+Universal Sompo General Insurance Co Ltd,FY25,AUG,misc,232.05
+Universal Sompo General Insurance Co Ltd,FY24,AUG,misc,579.87
+Zuno General Insurance Co Ltd,FY25,AUG,misc,12.26
+Zuno General Insurance Co Ltd,FY24,AUG,misc,0.69
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,AUG,misc,25.72
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,AUG,misc,21.38
+Star Health & Allied Insurance Co Ltd,FY25,AUG,misc,0.03
+Star Health & Allied Insurance Co Ltd,FY24,AUG,misc,0.14
+Agriculture Insurance Co Of India Ltd,FY25,AUG,misc,2584.91
+Agriculture Insurance Co Of India Ltd,FY24,AUG,misc,2651.21
+ECGC Ltd,FY25,AUG,misc,539.41
+ECGC Ltd,FY24,AUG,misc,482.05
+Acko General Insurance Ltd,FY25,SEP,fire,0.01
+Bajaj General Insurance Limited ,FY25,SEP,fire,1743.03
+Bajaj General Insurance Limited ,FY24,SEP,fire,1493.02
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,fire,398.48
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,fire,410.41
+Generali Central Insurance Company Limited,FY25,SEP,fire,424.63
+Generali Central Insurance Company Limited,FY24,SEP,fire,318.64
+Go Digit General Insurance Ltd,FY25,SEP,fire,479.07
+Go Digit General Insurance Ltd,FY24,SEP,fire,314.75
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,fire,1219.91
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,fire,1187.08
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,fire,2172.08
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,fire,1884.33
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,fire,669.54
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,fire,551.64
+Liberty  General Insurance Co. Ltd,FY25,SEP,fire,42.97
+Liberty  General Insurance Co. Ltd,FY24,SEP,fire,36.05
+Magma General Insurance Limited,FY25,SEP,fire,159.89
+Magma General Insurance Limited,FY24,SEP,fire,158.83
+National Insurance Co Ltd,FY25,SEP,fire,960.41
+National Insurance Co Ltd,FY24,SEP,fire,682.94
+Raheja QBE General Insurance Co Ltd,FY25,SEP,fire,9.3
+Raheja QBE General Insurance Co Ltd,FY24,SEP,fire,9.0
+Reliance General Insurance Co Ltd,FY25,SEP,fire,908.55
+Reliance General Insurance Co Ltd,FY24,SEP,fire,806.72
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,fire,236.01
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,fire,175.6
+SBI General Insurance Co Ltd,FY25,SEP,fire,964.08
+SBI General Insurance Co Ltd,FY24,SEP,fire,913.06
+Shriram General Insurance Co Ltd,FY25,SEP,fire,60.35
+Shriram General Insurance Co Ltd,FY24,SEP,fire,51.63
+Tata AIG General Insurance Co Ltd,FY25,SEP,fire,1375.34
+Tata AIG General Insurance Co Ltd,FY24,SEP,fire,1283.23
+The New India Assurance Co Ltd,FY25,SEP,fire,2856.39
+The New India Assurance Co Ltd,FY24,SEP,fire,2005.5
+The Oriental Insurance Co Ltd,FY25,SEP,fire,1172.23
+The Oriental Insurance Co Ltd,FY24,SEP,fire,946.28
+United India Insurance Co Ltd,FY25,SEP,fire,1252.73
+United India Insurance Co Ltd,FY24,SEP,fire,970.99
+Universal Sompo General Insurance Co Ltd,FY25,SEP,fire,196.99
+Universal Sompo General Insurance Co Ltd,FY24,SEP,fire,170.06
+Zuno General Insurance Co Ltd,FY25,SEP,fire,36.87
+Zuno General Insurance Co Ltd,FY24,SEP,fire,29.79
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,fire,77.0
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,fire,48.24
+Bajaj General Insurance Limited ,FY25,SEP,marine_total,209.78
+Bajaj General Insurance Limited ,FY24,SEP,marine_total,182.45
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,marine_total,98.64
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,marine_total,85.87
+Generali Central Insurance Company Limited,FY25,SEP,marine_total,77.19
+Generali Central Insurance Company Limited,FY24,SEP,marine_total,69.65
+Go Digit General Insurance Ltd,FY25,SEP,marine_total,33.82
+Go Digit General Insurance Ltd,FY24,SEP,marine_total,33.46
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,marine_total,87.95
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,marine_total,97.76
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,marine_total,498.82
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,marine_total,528.07
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,marine_total,206.21
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,marine_total,167.91
+Liberty  General Insurance Co. Ltd,FY25,SEP,marine_total,11.18
+Liberty  General Insurance Co. Ltd,FY24,SEP,marine_total,16.3
+Magma General Insurance Limited,FY25,SEP,marine_total,20.17
+Magma General Insurance Limited,FY24,SEP,marine_total,21.4
+National Insurance Co Ltd,FY25,SEP,marine_total,149.3
+National Insurance Co Ltd,FY24,SEP,marine_total,169.03
+Raheja QBE General Insurance Co Ltd,FY24,SEP,marine_total,0.07
+Reliance General Insurance Co Ltd,FY25,SEP,marine_total,85.93
+Reliance General Insurance Co Ltd,FY24,SEP,marine_total,86.42
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,marine_total,39.9
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,marine_total,32.91
+SBI General Insurance Co Ltd,FY25,SEP,marine_total,55.42
+SBI General Insurance Co Ltd,FY24,SEP,marine_total,55.05
+Shriram General Insurance Co Ltd,FY25,SEP,marine_total,2.42
+Shriram General Insurance Co Ltd,FY24,SEP,marine_total,2.13
+Tata AIG General Insurance Co Ltd,FY25,SEP,marine_total,408.89
+Tata AIG General Insurance Co Ltd,FY24,SEP,marine_total,365.34
+The New India Assurance Co Ltd,FY25,SEP,marine_total,535.19
+The New India Assurance Co Ltd,FY24,SEP,marine_total,524.5
+The Oriental Insurance Co Ltd,FY25,SEP,marine_total,286.94
+The Oriental Insurance Co Ltd,FY24,SEP,marine_total,244.22
+United India Insurance Co Ltd,FY25,SEP,marine_total,231.51
+United India Insurance Co Ltd,FY24,SEP,marine_total,223.39
+Universal Sompo General Insurance Co Ltd,FY25,SEP,marine_total,38.53
+Universal Sompo General Insurance Co Ltd,FY24,SEP,marine_total,54.97
+Zuno General Insurance Co Ltd,FY25,SEP,marine_total,1.04
+Zuno General Insurance Co Ltd,FY24,SEP,marine_total,0.78
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,marine_total,12.44
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,marine_total,7.03
+Bajaj General Insurance Limited ,FY25,SEP,engineering,272.29
+Bajaj General Insurance Limited ,FY24,SEP,engineering,232.64
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,engineering,22.81
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,engineering,20.95
+Generali Central Insurance Company Limited,FY25,SEP,engineering,52.45
+Generali Central Insurance Company Limited,FY24,SEP,engineering,54.03
+Go Digit General Insurance Ltd,FY25,SEP,engineering,86.24
+Go Digit General Insurance Ltd,FY24,SEP,engineering,58.72
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,engineering,203.65
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,engineering,172.35
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,engineering,590.92
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,engineering,526.04
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,engineering,179.02
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,engineering,141.9
+Liberty  General Insurance Co. Ltd,FY25,SEP,engineering,22.28
+Liberty  General Insurance Co. Ltd,FY24,SEP,engineering,19.49
+Magma General Insurance Limited,FY25,SEP,engineering,19.69
+Magma General Insurance Limited,FY24,SEP,engineering,9.78
+National Insurance Co Ltd,FY25,SEP,engineering,247.85
+National Insurance Co Ltd,FY24,SEP,engineering,209.78
+Raheja QBE General Insurance Co Ltd,FY25,SEP,engineering,0.62
+Raheja QBE General Insurance Co Ltd,FY24,SEP,engineering,0.73
+Reliance General Insurance Co Ltd,FY25,SEP,engineering,246.82
+Reliance General Insurance Co Ltd,FY24,SEP,engineering,242.21
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,engineering,42.22
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,engineering,36.36
+SBI General Insurance Co Ltd,FY25,SEP,engineering,102.66
+SBI General Insurance Co Ltd,FY24,SEP,engineering,83.25
+Shriram General Insurance Co Ltd,FY25,SEP,engineering,13.56
+Shriram General Insurance Co Ltd,FY24,SEP,engineering,11.88
+Tata AIG General Insurance Co Ltd,FY25,SEP,engineering,199.09
+Tata AIG General Insurance Co Ltd,FY24,SEP,engineering,165.22
+The New India Assurance Co Ltd,FY25,SEP,engineering,578.16
+The New India Assurance Co Ltd,FY24,SEP,engineering,481.82
+The Oriental Insurance Co Ltd,FY25,SEP,engineering,229.02
+The Oriental Insurance Co Ltd,FY24,SEP,engineering,207.03
+United India Insurance Co Ltd,FY25,SEP,engineering,263.52
+United India Insurance Co Ltd,FY24,SEP,engineering,293.06
+Universal Sompo General Insurance Co Ltd,FY25,SEP,engineering,8.24
+Universal Sompo General Insurance Co Ltd,FY24,SEP,engineering,9.12
+Zuno General Insurance Co Ltd,FY25,SEP,engineering,1.83
+Zuno General Insurance Co Ltd,FY24,SEP,engineering,1.88
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,engineering,9.48
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,engineering,6.05
+Acko General Insurance Ltd,FY25,SEP,motor_total,512.31
+Acko General Insurance Ltd,FY24,SEP,motor_total,440.28
+Bajaj General Insurance Limited ,FY25,SEP,motor_total,3403.99
+Bajaj General Insurance Limited ,FY24,SEP,motor_total,2924.95
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,motor_total,2526.18
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,motor_total,2421.79
+Generali Central Insurance Company Limited,FY25,SEP,motor_total,876.0
+Generali Central Insurance Company Limited,FY24,SEP,motor_total,908.78
+Go Digit General Insurance Ltd,FY25,SEP,motor_total,3109.82
+Go Digit General Insurance Ltd,FY24,SEP,motor_total,2769.04
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,motor_total,1199.28
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,motor_total,1695.28
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,motor_total,4955.05
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,motor_total,4850.53
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,motor_total,1812.44
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,motor_total,1751.93
+Liberty  General Insurance Co. Ltd,FY25,SEP,motor_total,879.76
+Liberty  General Insurance Co. Ltd,FY24,SEP,motor_total,821.91
+Magma General Insurance Limited,FY25,SEP,motor_total,926.01
+Magma General Insurance Limited,FY24,SEP,motor_total,910.77
+National Insurance Co Ltd,FY25,SEP,motor_total,2448.76
+National Insurance Co Ltd,FY24,SEP,motor_total,2304.93
+Navi General Insurance Co. Ltd,FY25,SEP,motor_total,0.54
+Navi General Insurance Co. Ltd,FY24,SEP,motor_total,1.55
+Raheja QBE General Insurance Co Ltd,FY25,SEP,motor_total,38.93
+Raheja QBE General Insurance Co Ltd,FY24,SEP,motor_total,178.3
+Reliance General Insurance Co Ltd,FY25,SEP,motor_total,2146.75
+Reliance General Insurance Co Ltd,FY24,SEP,motor_total,2026.8
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,motor_total,1263.8
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,motor_total,1228.25
+SBI General Insurance Co Ltd,FY25,SEP,motor_total,2304.26
+SBI General Insurance Co Ltd,FY24,SEP,motor_total,1962.5
+Shriram General Insurance Co Ltd,FY25,SEP,motor_total,1869.19
+Shriram General Insurance Co Ltd,FY24,SEP,motor_total,1458.74
+Tata AIG General Insurance Co Ltd,FY25,SEP,motor_total,4252.18
+Tata AIG General Insurance Co Ltd,FY24,SEP,motor_total,4004.88
+The New India Assurance Co Ltd,FY25,SEP,motor_total,4611.01
+The New India Assurance Co Ltd,FY24,SEP,motor_total,4605.33
+The Oriental Insurance Co Ltd,FY25,SEP,motor_total,1991.46
+The Oriental Insurance Co Ltd,FY24,SEP,motor_total,1902.91
+United India Insurance Co Ltd,FY25,SEP,motor_total,4596.71
+United India Insurance Co Ltd,FY24,SEP,motor_total,3524.05
+Universal Sompo General Insurance Co Ltd,FY25,SEP,motor_total,1430.06
+Universal Sompo General Insurance Co Ltd,FY24,SEP,motor_total,1097.72
+Zuno General Insurance Co Ltd,FY25,SEP,motor_total,257.69
+Zuno General Insurance Co Ltd,FY24,SEP,motor_total,238.07
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,motor_total,438.61
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,motor_total,430.52
+Acko General Insurance Ltd,FY25,SEP,health,617.85
+Acko General Insurance Ltd,FY24,SEP,health,520.14
+Bajaj General Insurance Limited ,FY25,SEP,health,3712.69
+Bajaj General Insurance Limited ,FY24,SEP,health,3696.28
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,health,465.95
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,health,530.92
+Generali Central Insurance Company Limited,FY25,SEP,health,702.83
+Generali Central Insurance Company Limited,FY24,SEP,health,1084.57
+Go Digit General Insurance Ltd,FY25,SEP,health,709.59
+Go Digit General Insurance Ltd,FY24,SEP,health,670.64
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,health,2844.68
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,health,3042.95
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,health,4193.42
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,health,4012.19
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,health,458.0
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,health,431.92
+Kshema General insurance,FY25,SEP,health,0.01
+Liberty  General Insurance Co. Ltd,FY25,SEP,health,299.81
+Liberty  General Insurance Co. Ltd,FY24,SEP,health,182.12
+Magma General Insurance Limited,FY25,SEP,health,451.54
+Magma General Insurance Limited,FY24,SEP,health,347.97
+National Insurance Co Ltd,FY25,SEP,health,3560.11
+National Insurance Co Ltd,FY24,SEP,health,3523.3
+Navi General Insurance Co. Ltd,FY25,SEP,health,52.05
+Navi General Insurance Co. Ltd,FY24,SEP,health,25.45
+Raheja QBE General Insurance Co Ltd,FY25,SEP,health,3.06
+Raheja QBE General Insurance Co Ltd,FY24,SEP,health,23.8
+Reliance General Insurance Co Ltd,FY25,SEP,health,1593.09
+Reliance General Insurance Co Ltd,FY24,SEP,health,1136.48
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,health,549.91
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,health,390.04
+SBI General Insurance Co Ltd,FY25,SEP,health,1700.21
+SBI General Insurance Co Ltd,FY24,SEP,health,1253.95
+Shriram General Insurance Co Ltd,FY25,SEP,health,6.04
+Shriram General Insurance Co Ltd,FY24,SEP,health,1.49
+Tata AIG General Insurance Co Ltd,FY25,SEP,health,1997.6
+Tata AIG General Insurance Co Ltd,FY24,SEP,health,1775.0
+The New India Assurance Co Ltd,FY25,SEP,health,11342.68
+The New India Assurance Co Ltd,FY24,SEP,health,10068.08
+The Oriental Insurance Co Ltd,FY25,SEP,health,4504.31
+The Oriental Insurance Co Ltd,FY24,SEP,health,4439.12
+United India Insurance Co Ltd,FY25,SEP,health,3821.36
+United India Insurance Co Ltd,FY24,SEP,health,3730.57
+Universal Sompo General Insurance Co Ltd,FY25,SEP,health,780.01
+Universal Sompo General Insurance Co Ltd,FY24,SEP,health,335.31
+Zuno General Insurance Co Ltd,FY25,SEP,health,184.54
+Zuno General Insurance Co Ltd,FY24,SEP,health,183.05
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,health,418.5
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,health,378.42
+ Niva bupa health insurance company limited,FY25,SEP,health,3428.75
+ Niva bupa health insurance company limited,FY24,SEP,health,3176.24
+Aditya Birla Health Insurance Co Ltd,FY25,SEP,health,2611.84
+Aditya Birla Health Insurance Co Ltd,FY24,SEP,health,2045.73
+Care Health Insurance Ltd,FY25,SEP,health,4255.83
+Care Health Insurance Ltd,FY24,SEP,health,4063.88
+Galaxy Health Insurance Company Ltd,FY25,SEP,health,38.41
+ManipalCigna Health Insurance Co Ltd,FY25,SEP,health,942.91
+ManipalCigna Health Insurance Co Ltd,FY24,SEP,health,815.91
+Narayana Health Insurance Ltd,FY25,SEP,health,8.7
+Star Health & Allied Insurance Co Ltd,FY25,SEP,health,7984.12
+Star Health & Allied Insurance Co Ltd,FY24,SEP,health,7721.64
+Bajaj General Insurance Limited ,FY25,SEP,aviation,8.79
+Bajaj General Insurance Limited ,FY24,SEP,aviation,7.69
+Go Digit General Insurance Ltd,FY25,SEP,aviation,1.01
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,aviation,3.62
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,aviation,9.35
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,aviation,78.02
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,aviation,96.33
+National Insurance Co Ltd,FY25,SEP,aviation,25.96
+National Insurance Co Ltd,FY24,SEP,aviation,25.26
+Reliance General Insurance Co Ltd,FY25,SEP,aviation,1.13
+Reliance General Insurance Co Ltd,FY24,SEP,aviation,12.47
+SBI General Insurance Co Ltd,FY25,SEP,aviation,0.21
+SBI General Insurance Co Ltd,FY24,SEP,aviation,0.08
+Tata AIG General Insurance Co Ltd,FY25,SEP,aviation,100.17
+Tata AIG General Insurance Co Ltd,FY24,SEP,aviation,105.24
+The New India Assurance Co Ltd,FY25,SEP,aviation,185.43
+The New India Assurance Co Ltd,FY24,SEP,aviation,177.72
+The Oriental Insurance Co Ltd,FY25,SEP,aviation,90.73
+The Oriental Insurance Co Ltd,FY24,SEP,aviation,85.98
+United India Insurance Co Ltd,FY25,SEP,aviation,16.84
+United India Insurance Co Ltd,FY24,SEP,aviation,18.55
+Acko General Insurance Ltd,FY25,SEP,liability,17.67
+Acko General Insurance Ltd,FY24,SEP,liability,42.31
+Bajaj General Insurance Limited ,FY25,SEP,liability,511.52
+Bajaj General Insurance Limited ,FY24,SEP,liability,425.24
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,liability,17.63
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,liability,15.46
+Generali Central Insurance Company Limited,FY25,SEP,liability,39.54
+Generali Central Insurance Company Limited,FY24,SEP,liability,34.85
+Go Digit General Insurance Ltd,FY25,SEP,liability,139.74
+Go Digit General Insurance Ltd,FY24,SEP,liability,75.78
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,liability,398.66
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,liability,396.91
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,liability,555.25
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,liability,583.78
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,liability,182.13
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,liability,136.07
+Liberty  General Insurance Co. Ltd,FY25,SEP,liability,25.33
+Liberty  General Insurance Co. Ltd,FY24,SEP,liability,10.26
+Magma General Insurance Limited,FY25,SEP,liability,50.15
+Magma General Insurance Limited,FY24,SEP,liability,41.63
+National Insurance Co Ltd,FY25,SEP,liability,157.35
+National Insurance Co Ltd,FY24,SEP,liability,183.21
+Raheja QBE General Insurance Co Ltd,FY25,SEP,liability,39.73
+Raheja QBE General Insurance Co Ltd,FY24,SEP,liability,32.27
+Reliance General Insurance Co Ltd,FY25,SEP,liability,56.58
+Reliance General Insurance Co Ltd,FY24,SEP,liability,49.51
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,liability,14.53
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,liability,10.55
+SBI General Insurance Co Ltd,FY25,SEP,liability,69.64
+SBI General Insurance Co Ltd,FY24,SEP,liability,49.13
+Shriram General Insurance Co Ltd,FY25,SEP,liability,5.32
+Shriram General Insurance Co Ltd,FY24,SEP,liability,4.74
+Tata AIG General Insurance Co Ltd,FY25,SEP,liability,476.18
+Tata AIG General Insurance Co Ltd,FY24,SEP,liability,457.64
+The New India Assurance Co Ltd,FY25,SEP,liability,321.83
+The New India Assurance Co Ltd,FY24,SEP,liability,307.54
+The Oriental Insurance Co Ltd,FY25,SEP,liability,78.43
+The Oriental Insurance Co Ltd,FY24,SEP,liability,74.75
+United India Insurance Co Ltd,FY25,SEP,liability,161.6
+United India Insurance Co Ltd,FY24,SEP,liability,163.28
+Universal Sompo General Insurance Co Ltd,FY25,SEP,liability,15.63
+Universal Sompo General Insurance Co Ltd,FY24,SEP,liability,12.57
+Zuno General Insurance Co Ltd,FY25,SEP,liability,0.03
+Zuno General Insurance Co Ltd,FY24,SEP,liability,0.04
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,liability,4.91
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,liability,1.09
+Acko General Insurance Ltd,FY25,SEP,personal_accident,6.28
+Acko General Insurance Ltd,FY24,SEP,personal_accident,3.97
+Bajaj General Insurance Limited ,FY25,SEP,personal_accident,110.99
+Bajaj General Insurance Limited ,FY24,SEP,personal_accident,132.67
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,personal_accident,93.43
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,personal_accident,183.24
+Generali Central Insurance Company Limited,FY25,SEP,personal_accident,59.62
+Generali Central Insurance Company Limited,FY24,SEP,personal_accident,62.33
+Go Digit General Insurance Ltd,FY25,SEP,personal_accident,202.56
+Go Digit General Insurance Ltd,FY24,SEP,personal_accident,350.06
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,personal_accident,270.48
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,personal_accident,225.75
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,personal_accident,236.52
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,personal_accident,322.76
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,personal_accident,58.49
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,personal_accident,67.89
+Liberty  General Insurance Co. Ltd,FY25,SEP,personal_accident,10.91
+Liberty  General Insurance Co. Ltd,FY24,SEP,personal_accident,14.1
+Magma General Insurance Limited,FY25,SEP,personal_accident,24.8
+Magma General Insurance Limited,FY24,SEP,personal_accident,13.64
+National Insurance Co Ltd,FY25,SEP,personal_accident,445.07
+National Insurance Co Ltd,FY24,SEP,personal_accident,472.1
+Navi General Insurance Co. Ltd,FY25,SEP,personal_accident,1.73
+Raheja QBE General Insurance Co Ltd,FY25,SEP,personal_accident,0.7
+Raheja QBE General Insurance Co Ltd,FY24,SEP,personal_accident,0.28
+Reliance General Insurance Co Ltd,FY25,SEP,personal_accident,206.92
+Reliance General Insurance Co Ltd,FY24,SEP,personal_accident,133.21
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,personal_accident,37.06
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,personal_accident,39.76
+SBI General Insurance Co Ltd,FY25,SEP,personal_accident,838.43
+SBI General Insurance Co Ltd,FY24,SEP,personal_accident,565.98
+Shriram General Insurance Co Ltd,FY25,SEP,personal_accident,61.89
+Shriram General Insurance Co Ltd,FY24,SEP,personal_accident,52.84
+Tata AIG General Insurance Co Ltd,FY25,SEP,personal_accident,113.3
+Tata AIG General Insurance Co Ltd,FY24,SEP,personal_accident,117.52
+The New India Assurance Co Ltd,FY25,SEP,personal_accident,368.17
+The New India Assurance Co Ltd,FY24,SEP,personal_accident,353.09
+The Oriental Insurance Co Ltd,FY25,SEP,personal_accident,2655.65
+The Oriental Insurance Co Ltd,FY24,SEP,personal_accident,1168.66
+United India Insurance Co Ltd,FY25,SEP,personal_accident,276.95
+United India Insurance Co Ltd,FY24,SEP,personal_accident,229.68
+Universal Sompo General Insurance Co Ltd,FY25,SEP,personal_accident,87.02
+Universal Sompo General Insurance Co Ltd,FY24,SEP,personal_accident,74.03
+Zuno General Insurance Co Ltd,FY25,SEP,personal_accident,6.49
+Zuno General Insurance Co Ltd,FY24,SEP,personal_accident,11.29
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,personal_accident,27.85
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,personal_accident,38.7
+ Niva bupa health insurance company limited,FY25,SEP,personal_accident,46.22
+ Niva bupa health insurance company limited,FY24,SEP,personal_accident,65.27
+Aditya Birla Health Insurance Co Ltd,FY25,SEP,personal_accident,108.0
+Aditya Birla Health Insurance Co Ltd,FY24,SEP,personal_accident,125.07
+Care Health Insurance Ltd,FY25,SEP,personal_accident,98.21
+Care Health Insurance Ltd,FY24,SEP,personal_accident,95.97
+Galaxy Health Insurance Company Ltd,FY25,SEP,personal_accident,2.14
+ManipalCigna Health Insurance Co Ltd,FY25,SEP,personal_accident,22.77
+ManipalCigna Health Insurance Co Ltd,FY24,SEP,personal_accident,16.09
+Star Health & Allied Insurance Co Ltd,FY25,SEP,personal_accident,76.0
+Star Health & Allied Insurance Co Ltd,FY24,SEP,personal_accident,91.38
+Acko General Insurance Ltd,FY25,SEP,misc,40.75
+Acko General Insurance Ltd,FY24,SEP,misc,34.72
+Bajaj General Insurance Limited ,FY25,SEP,misc,1581.25
+Bajaj General Insurance Limited ,FY24,SEP,misc,1462.21
+Cholamandalam MS General Insurance Co Ltd,FY25,SEP,misc,24.3
+Cholamandalam MS General Insurance Co Ltd,FY24,SEP,misc,423.37
+Generali Central Insurance Company Limited,FY25,SEP,misc,260.74
+Generali Central Insurance Company Limited,FY24,SEP,misc,182.08
+Go Digit General Insurance Ltd,FY25,SEP,misc,124.71
+Go Digit General Insurance Ltd,FY24,SEP,misc,104.17
+HDFC Ergo General Insurance Co Ltd,FY25,SEP,misc,1155.27
+HDFC Ergo General Insurance Co Ltd,FY24,SEP,misc,2053.86
+ICICI Lombard General Insurance Co Ltd,FY25,SEP,misc,1051.14
+ICICI Lombard General Insurance Co Ltd,FY24,SEP,misc,1604.76
+IFFCO-Tokio General Insurance Co Ltd,FY25,SEP,misc,804.74
+IFFCO-Tokio General Insurance Co Ltd,FY24,SEP,misc,781.23
+Kshema General insurance,FY25,SEP,misc,297.51
+Kshema General insurance,FY24,SEP,misc,427.18
+Liberty  General Insurance Co. Ltd,FY25,SEP,misc,36.09
+Liberty  General Insurance Co. Ltd,FY24,SEP,misc,34.32
+Magma General Insurance Limited,FY25,SEP,misc,10.42
+Magma General Insurance Limited,FY24,SEP,misc,2.76
+National Insurance Co Ltd,FY25,SEP,misc,293.93
+National Insurance Co Ltd,FY24,SEP,misc,293.47
+Raheja QBE General Insurance Co Ltd,FY25,SEP,misc,0.11
+Raheja QBE General Insurance Co Ltd,FY24,SEP,misc,0.11
+Reliance General Insurance Co Ltd,FY25,SEP,misc,1703.97
+Reliance General Insurance Co Ltd,FY24,SEP,misc,2786.04
+Royal Sundaram General Insurance Co Ltd,FY25,SEP,misc,12.71
+Royal Sundaram General Insurance Co Ltd,FY24,SEP,misc,8.38
+SBI General Insurance Co Ltd,FY25,SEP,misc,1167.4
+SBI General Insurance Co Ltd,FY24,SEP,misc,1703.31
+Shriram General Insurance Co Ltd,FY25,SEP,misc,26.64
+Shriram General Insurance Co Ltd,FY24,SEP,misc,10.28
+Tata AIG General Insurance Co Ltd,FY25,SEP,misc,786.96
+Tata AIG General Insurance Co Ltd,FY24,SEP,misc,672.37
+The New India Assurance Co Ltd,FY25,SEP,misc,1085.66
+The New India Assurance Co Ltd,FY24,SEP,misc,867.41
+The Oriental Insurance Co Ltd,FY25,SEP,misc,274.55
+The Oriental Insurance Co Ltd,FY24,SEP,misc,983.45
+United India Insurance Co Ltd,FY25,SEP,misc,313.19
+United India Insurance Co Ltd,FY24,SEP,misc,914.13
+Universal Sompo General Insurance Co Ltd,FY25,SEP,misc,280.87
+Universal Sompo General Insurance Co Ltd,FY24,SEP,misc,943.66
+Zuno General Insurance Co Ltd,FY25,SEP,misc,18.0
+Zuno General Insurance Co Ltd,FY24,SEP,misc,0.85
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,SEP,misc,31.39
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,SEP,misc,25.19
+Star Health & Allied Insurance Co Ltd,FY25,SEP,misc,0.03
+Star Health & Allied Insurance Co Ltd,FY24,SEP,misc,0.15
+Agriculture Insurance Co Of India Ltd,FY25,SEP,misc,6704.09
+Agriculture Insurance Co Of India Ltd,FY24,SEP,misc,3832.34
+ECGC Ltd,FY25,SEP,misc,674.17
+ECGC Ltd,FY24,SEP,misc,616.52
+Acko General Insurance Ltd,FY25,OCT,fire,0.01
+Bajaj General Insurance Limited ,FY25,OCT,fire,1933.23
+Bajaj General Insurance Limited ,FY24,OCT,fire,1761.97
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,fire,432.23
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,fire,442.91
+Generali Central Insurance Company Limited,FY25,OCT,fire,475.74
+Generali Central Insurance Company Limited,FY24,OCT,fire,356.87
+Go Digit General Insurance Ltd,FY25,OCT,fire,519.4
+Go Digit General Insurance Ltd,FY24,OCT,fire,346.75
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,fire,1357.84
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,fire,1319.25
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,fire,2398.87
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,fire,2091.49
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,fire,734.88
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,fire,609.91
+Liberty  General Insurance Co. Ltd,FY25,OCT,fire,49.87
+Liberty  General Insurance Co. Ltd,FY24,OCT,fire,42.6
+Magma General Insurance Limited,FY25,OCT,fire,172.28
+Magma General Insurance Limited,FY24,OCT,fire,179.49
+National Insurance Co Ltd,FY25,OCT,fire,1038.19
+National Insurance Co Ltd,FY24,OCT,fire,736.15
+Raheja QBE General Insurance Co Ltd,FY25,OCT,fire,10.96
+Raheja QBE General Insurance Co Ltd,FY24,OCT,fire,9.64
+Reliance General Insurance Co Ltd,FY25,OCT,fire,981.53
+Reliance General Insurance Co Ltd,FY24,OCT,fire,867.81
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,fire,259.31
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,fire,190.41
+SBI General Insurance Co Ltd,FY25,OCT,fire,1093.13
+SBI General Insurance Co Ltd,FY24,OCT,fire,1017.78
+Shriram General Insurance Co Ltd,FY25,OCT,fire,70.36
+Shriram General Insurance Co Ltd,FY24,OCT,fire,60.78
+Tata AIG General Insurance Co Ltd,FY25,OCT,fire,1509.52
+Tata AIG General Insurance Co Ltd,FY24,OCT,fire,1395.76
+The New India Assurance Co Ltd,FY25,OCT,fire,3158.4
+The New India Assurance Co Ltd,FY24,OCT,fire,2251.3
+The Oriental Insurance Co Ltd,FY25,OCT,fire,1294.78
+The Oriental Insurance Co Ltd,FY24,OCT,fire,1046.13
+United India Insurance Co Ltd,FY25,OCT,fire,1390.1
+United India Insurance Co Ltd,FY24,OCT,fire,1095.22
+Universal Sompo General Insurance Co Ltd,FY25,OCT,fire,211.51
+Universal Sompo General Insurance Co Ltd,FY24,OCT,fire,182.64
+Zuno General Insurance Co Ltd,FY25,OCT,fire,40.32
+Zuno General Insurance Co Ltd,FY24,OCT,fire,32.79
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,fire,104.97
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,fire,52.75
+Bajaj General Insurance Limited ,FY25,OCT,marine_total,239.62
+Bajaj General Insurance Limited ,FY24,OCT,marine_total,214.04
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,marine_total,106.72
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,marine_total,92.92
+Generali Central Insurance Company Limited,FY25,OCT,marine_total,91.73
+Generali Central Insurance Company Limited,FY24,OCT,marine_total,81.35
+Go Digit General Insurance Ltd,FY25,OCT,marine_total,37.64
+Go Digit General Insurance Ltd,FY24,OCT,marine_total,35.66
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,marine_total,99.64
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,marine_total,113.49
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,marine_total,571.51
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,marine_total,594.72
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,marine_total,231.6
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,marine_total,194.56
+Liberty  General Insurance Co. Ltd,FY25,OCT,marine_total,12.46
+Liberty  General Insurance Co. Ltd,FY24,OCT,marine_total,18.1
+Magma General Insurance Limited,FY25,OCT,marine_total,24.06
+Magma General Insurance Limited,FY24,OCT,marine_total,26.85
+National Insurance Co Ltd,FY25,OCT,marine_total,175.97
+National Insurance Co Ltd,FY24,OCT,marine_total,191.62
+Raheja QBE General Insurance Co Ltd,FY24,OCT,marine_total,0.07
+Reliance General Insurance Co Ltd,FY25,OCT,marine_total,109.71
+Reliance General Insurance Co Ltd,FY24,OCT,marine_total,107.01
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,marine_total,46.0
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,marine_total,37.2
+SBI General Insurance Co Ltd,FY25,OCT,marine_total,63.22
+SBI General Insurance Co Ltd,FY24,OCT,marine_total,64.77
+Shriram General Insurance Co Ltd,FY25,OCT,marine_total,2.7
+Shriram General Insurance Co Ltd,FY24,OCT,marine_total,3.37
+Tata AIG General Insurance Co Ltd,FY25,OCT,marine_total,481.77
+Tata AIG General Insurance Co Ltd,FY24,OCT,marine_total,427.92
+The New India Assurance Co Ltd,FY25,OCT,marine_total,615.33
+The New India Assurance Co Ltd,FY24,OCT,marine_total,599.5
+The Oriental Insurance Co Ltd,FY25,OCT,marine_total,340.71
+The Oriental Insurance Co Ltd,FY24,OCT,marine_total,294.4
+United India Insurance Co Ltd,FY25,OCT,marine_total,256.65
+United India Insurance Co Ltd,FY24,OCT,marine_total,249.04
+Universal Sompo General Insurance Co Ltd,FY25,OCT,marine_total,41.46
+Universal Sompo General Insurance Co Ltd,FY24,OCT,marine_total,58.07
+Zuno General Insurance Co Ltd,FY25,OCT,marine_total,1.07
+Zuno General Insurance Co Ltd,FY24,OCT,marine_total,0.78
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,marine_total,16.16
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,marine_total,8.38
+Bajaj General Insurance Limited ,FY25,OCT,engineering,321.89
+Bajaj General Insurance Limited ,FY24,OCT,engineering,274.64
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,engineering,25.0
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,engineering,23.01
+Generali Central Insurance Company Limited,FY25,OCT,engineering,60.85
+Generali Central Insurance Company Limited,FY24,OCT,engineering,61.6
+Go Digit General Insurance Ltd,FY25,OCT,engineering,106.59
+Go Digit General Insurance Ltd,FY24,OCT,engineering,72.75
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,engineering,236.16
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,engineering,205.28
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,engineering,685.94
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,engineering,589.87
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,engineering,207.15
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,engineering,163.22
+Liberty  General Insurance Co. Ltd,FY25,OCT,engineering,25.3
+Liberty  General Insurance Co. Ltd,FY24,OCT,engineering,23.02
+Magma General Insurance Limited,FY25,OCT,engineering,22.6
+Magma General Insurance Limited,FY24,OCT,engineering,12.37
+National Insurance Co Ltd,FY25,OCT,engineering,288.37
+National Insurance Co Ltd,FY24,OCT,engineering,255.13
+Raheja QBE General Insurance Co Ltd,FY25,OCT,engineering,0.67
+Raheja QBE General Insurance Co Ltd,FY24,OCT,engineering,0.79
+Reliance General Insurance Co Ltd,FY25,OCT,engineering,285.77
+Reliance General Insurance Co Ltd,FY24,OCT,engineering,268.94
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,engineering,47.85
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,engineering,41.3
+SBI General Insurance Co Ltd,FY25,OCT,engineering,115.12
+SBI General Insurance Co Ltd,FY24,OCT,engineering,94.89
+Shriram General Insurance Co Ltd,FY25,OCT,engineering,15.65
+Shriram General Insurance Co Ltd,FY24,OCT,engineering,13.99
+Tata AIG General Insurance Co Ltd,FY25,OCT,engineering,238.57
+Tata AIG General Insurance Co Ltd,FY24,OCT,engineering,197.38
+The New India Assurance Co Ltd,FY25,OCT,engineering,683.39
+The New India Assurance Co Ltd,FY24,OCT,engineering,588.13
+The Oriental Insurance Co Ltd,FY25,OCT,engineering,267.89
+The Oriental Insurance Co Ltd,FY24,OCT,engineering,260.21
+United India Insurance Co Ltd,FY25,OCT,engineering,301.34
+United India Insurance Co Ltd,FY24,OCT,engineering,337.94
+Universal Sompo General Insurance Co Ltd,FY25,OCT,engineering,9.34
+Universal Sompo General Insurance Co Ltd,FY24,OCT,engineering,10.91
+Zuno General Insurance Co Ltd,FY25,OCT,engineering,2.53
+Zuno General Insurance Co Ltd,FY24,OCT,engineering,2.14
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,engineering,15.93
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,engineering,6.63
+Acko General Insurance Ltd,FY25,OCT,motor_total,633.47
+Acko General Insurance Ltd,FY24,OCT,motor_total,536.96
+Bajaj General Insurance Limited ,FY25,OCT,motor_total,4204.11
+Bajaj General Insurance Limited ,FY24,OCT,motor_total,3540.99
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,motor_total,3096.74
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,motor_total,2970.77
+Generali Central Insurance Company Limited,FY25,OCT,motor_total,1097.21
+Generali Central Insurance Company Limited,FY24,OCT,motor_total,1088.61
+Go Digit General Insurance Ltd,FY25,OCT,motor_total,3868.62
+Go Digit General Insurance Ltd,FY24,OCT,motor_total,3407.16
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,motor_total,1502.29
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,motor_total,1971.79
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,motor_total,6255.95
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,motor_total,6028.37
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,motor_total,2289.84
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,motor_total,2241.83
+Liberty  General Insurance Co. Ltd,FY25,OCT,motor_total,1130.14
+Liberty  General Insurance Co. Ltd,FY24,OCT,motor_total,1013.14
+Magma General Insurance Limited,FY25,OCT,motor_total,1120.11
+Magma General Insurance Limited,FY24,OCT,motor_total,1099.4
+National Insurance Co Ltd,FY25,OCT,motor_total,3022.45
+National Insurance Co Ltd,FY24,OCT,motor_total,2811.15
+Navi General Insurance Co. Ltd,FY25,OCT,motor_total,0.79
+Navi General Insurance Co. Ltd,FY24,OCT,motor_total,2.12
+Raheja QBE General Insurance Co Ltd,FY25,OCT,motor_total,58.16
+Raheja QBE General Insurance Co Ltd,FY24,OCT,motor_total,208.35
+Reliance General Insurance Co Ltd,FY25,OCT,motor_total,2713.76
+Reliance General Insurance Co Ltd,FY24,OCT,motor_total,2512.15
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,motor_total,1513.53
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,motor_total,1479.86
+SBI General Insurance Co Ltd,FY25,OCT,motor_total,2824.94
+SBI General Insurance Co Ltd,FY24,OCT,motor_total,2412.43
+Shriram General Insurance Co Ltd,FY25,OCT,motor_total,2268.14
+Shriram General Insurance Co Ltd,FY24,OCT,motor_total,1791.46
+Tata AIG General Insurance Co Ltd,FY25,OCT,motor_total,5323.65
+Tata AIG General Insurance Co Ltd,FY24,OCT,motor_total,4912.4
+The New India Assurance Co Ltd,FY25,OCT,motor_total,5599.36
+The New India Assurance Co Ltd,FY24,OCT,motor_total,5628.4
+The Oriental Insurance Co Ltd,FY25,OCT,motor_total,2410.01
+The Oriental Insurance Co Ltd,FY24,OCT,motor_total,2319.17
+United India Insurance Co Ltd,FY25,OCT,motor_total,5376.49
+United India Insurance Co Ltd,FY24,OCT,motor_total,4280.87
+Universal Sompo General Insurance Co Ltd,FY25,OCT,motor_total,1833.83
+Universal Sompo General Insurance Co Ltd,FY24,OCT,motor_total,1332.18
+Zuno General Insurance Co Ltd,FY25,OCT,motor_total,320.2
+Zuno General Insurance Co Ltd,FY24,OCT,motor_total,298.8
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,motor_total,529.04
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,motor_total,530.29
+Acko General Insurance Ltd,FY25,OCT,health,690.26
+Acko General Insurance Ltd,FY24,OCT,health,578.83
+Bajaj General Insurance Limited ,FY25,OCT,health,4362.67
+Bajaj General Insurance Limited ,FY24,OCT,health,6417.88
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,health,591.04
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,health,622.14
+Generali Central Insurance Company Limited,FY25,OCT,health,884.44
+Generali Central Insurance Company Limited,FY24,OCT,health,1114.85
+Go Digit General Insurance Ltd,FY25,OCT,health,841.65
+Go Digit General Insurance Ltd,FY24,OCT,health,777.57
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,health,3377.15
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,health,3401.08
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,health,4838.19
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,health,4442.32
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,health,543.69
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,health,505.86
+Kshema General insurance,FY25,OCT,health,0.03
+Liberty  General Insurance Co. Ltd,FY25,OCT,health,329.15
+Liberty  General Insurance Co. Ltd,FY24,OCT,health,213.04
+Magma General Insurance Limited,FY25,OCT,health,528.75
+Magma General Insurance Limited,FY24,OCT,health,400.06
+National Insurance Co Ltd,FY25,OCT,health,5614.49
+National Insurance Co Ltd,FY24,OCT,health,5279.02
+Navi General Insurance Co. Ltd,FY25,OCT,health,58.04
+Navi General Insurance Co. Ltd,FY24,OCT,health,30.11
+Raheja QBE General Insurance Co Ltd,FY25,OCT,health,3.68
+Raheja QBE General Insurance Co Ltd,FY24,OCT,health,25.14
+Reliance General Insurance Co Ltd,FY25,OCT,health,1766.93
+Reliance General Insurance Co Ltd,FY24,OCT,health,1415.05
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,health,594.99
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,health,424.79
+SBI General Insurance Co Ltd,FY25,OCT,health,1972.51
+SBI General Insurance Co Ltd,FY24,OCT,health,1448.87
+Shriram General Insurance Co Ltd,FY25,OCT,health,6.66
+Shriram General Insurance Co Ltd,FY24,OCT,health,1.69
+Tata AIG General Insurance Co Ltd,FY25,OCT,health,2363.82
+Tata AIG General Insurance Co Ltd,FY24,OCT,health,2047.7
+The New India Assurance Co Ltd,FY25,OCT,health,13413.36
+The New India Assurance Co Ltd,FY24,OCT,health,11647.1
+The Oriental Insurance Co Ltd,FY25,OCT,health,5182.63
+The Oriental Insurance Co Ltd,FY24,OCT,health,4937.36
+United India Insurance Co Ltd,FY25,OCT,health,4174.48
+United India Insurance Co Ltd,FY24,OCT,health,4165.68
+Universal Sompo General Insurance Co Ltd,FY25,OCT,health,893.05
+Universal Sompo General Insurance Co Ltd,FY24,OCT,health,580.29
+Zuno General Insurance Co Ltd,FY25,OCT,health,220.27
+Zuno General Insurance Co Ltd,FY24,OCT,health,211.49
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,health,461.38
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,health,426.02
+ Niva bupa health insurance company limited,FY25,OCT,health,4107.51
+ Niva bupa health insurance company limited,FY24,OCT,health,3582.92
+Aditya Birla Health Insurance Co Ltd,FY25,OCT,health,3090.94
+Aditya Birla Health Insurance Co Ltd,FY24,OCT,health,2328.26
+Care Health Insurance Ltd,FY25,OCT,health,5066.14
+Care Health Insurance Ltd,FY24,OCT,health,4675.87
+Galaxy Health Insurance Company Ltd,FY25,OCT,health,47.8
+ManipalCigna Health Insurance Co Ltd,FY25,OCT,health,1151.93
+ManipalCigna Health Insurance Co Ltd,FY24,OCT,health,945.42
+Narayana Health Insurance Ltd,FY25,OCT,health,10.35
+Star Health & Allied Insurance Co Ltd,FY25,OCT,health,9376.09
+Star Health & Allied Insurance Co Ltd,FY24,OCT,health,8891.98
+Bajaj General Insurance Limited ,FY25,OCT,aviation,9.46
+Bajaj General Insurance Limited ,FY24,OCT,aviation,8.63
+Go Digit General Insurance Ltd,FY25,OCT,aviation,1.02
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,aviation,5.39
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,aviation,17.72
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,aviation,99.77
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,aviation,113.97
+National Insurance Co Ltd,FY25,OCT,aviation,29.14
+National Insurance Co Ltd,FY24,OCT,aviation,28.59
+Reliance General Insurance Co Ltd,FY25,OCT,aviation,1.13
+Reliance General Insurance Co Ltd,FY24,OCT,aviation,12.82
+SBI General Insurance Co Ltd,FY25,OCT,aviation,0.21
+SBI General Insurance Co Ltd,FY24,OCT,aviation,0.08
+Tata AIG General Insurance Co Ltd,FY25,OCT,aviation,110.3
+Tata AIG General Insurance Co Ltd,FY24,OCT,aviation,112.9
+The New India Assurance Co Ltd,FY25,OCT,aviation,239.5
+The New India Assurance Co Ltd,FY24,OCT,aviation,211.32
+The Oriental Insurance Co Ltd,FY25,OCT,aviation,103.64
+The Oriental Insurance Co Ltd,FY24,OCT,aviation,100.46
+United India Insurance Co Ltd,FY25,OCT,aviation,17.72
+United India Insurance Co Ltd,FY24,OCT,aviation,21.23
+Acko General Insurance Ltd,FY25,OCT,liability,24.22
+Acko General Insurance Ltd,FY24,OCT,liability,44.58
+Bajaj General Insurance Limited ,FY25,OCT,liability,558.3
+Bajaj General Insurance Limited ,FY24,OCT,liability,476.7
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,liability,18.66
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,liability,16.54
+Generali Central Insurance Company Limited,FY25,OCT,liability,45.44
+Generali Central Insurance Company Limited,FY24,OCT,liability,43.04
+Go Digit General Insurance Ltd,FY25,OCT,liability,154.54
+Go Digit General Insurance Ltd,FY24,OCT,liability,81.95
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,liability,470.31
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,liability,472.18
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,liability,640.95
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,liability,683.91
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,liability,208.71
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,liability,158.16
+Liberty  General Insurance Co. Ltd,FY25,OCT,liability,30.57
+Liberty  General Insurance Co. Ltd,FY24,OCT,liability,12.86
+Magma General Insurance Limited,FY25,OCT,liability,62.71
+Magma General Insurance Limited,FY24,OCT,liability,57.67
+National Insurance Co Ltd,FY25,OCT,liability,176.79
+National Insurance Co Ltd,FY24,OCT,liability,236.23
+Raheja QBE General Insurance Co Ltd,FY25,OCT,liability,44.57
+Raheja QBE General Insurance Co Ltd,FY24,OCT,liability,35.99
+Reliance General Insurance Co Ltd,FY25,OCT,liability,69.03
+Reliance General Insurance Co Ltd,FY24,OCT,liability,64.06
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,liability,16.94
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,liability,12.38
+SBI General Insurance Co Ltd,FY25,OCT,liability,80.42
+SBI General Insurance Co Ltd,FY24,OCT,liability,58.6
+Shriram General Insurance Co Ltd,FY25,OCT,liability,6.29
+Shriram General Insurance Co Ltd,FY24,OCT,liability,5.48
+Tata AIG General Insurance Co Ltd,FY25,OCT,liability,549.91
+Tata AIG General Insurance Co Ltd,FY24,OCT,liability,512.55
+The New India Assurance Co Ltd,FY25,OCT,liability,357.56
+The New India Assurance Co Ltd,FY24,OCT,liability,339.88
+The Oriental Insurance Co Ltd,FY25,OCT,liability,88.01
+The Oriental Insurance Co Ltd,FY24,OCT,liability,86.01
+United India Insurance Co Ltd,FY25,OCT,liability,178.42
+United India Insurance Co Ltd,FY24,OCT,liability,177.97
+Universal Sompo General Insurance Co Ltd,FY25,OCT,liability,16.11
+Universal Sompo General Insurance Co Ltd,FY24,OCT,liability,13.48
+Zuno General Insurance Co Ltd,FY25,OCT,liability,0.03
+Zuno General Insurance Co Ltd,FY24,OCT,liability,0.06
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,liability,14.49
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,liability,1.26
+Acko General Insurance Ltd,FY25,OCT,personal_accident,6.99
+Acko General Insurance Ltd,FY24,OCT,personal_accident,4.34
+Bajaj General Insurance Limited ,FY25,OCT,personal_accident,122.03
+Bajaj General Insurance Limited ,FY24,OCT,personal_accident,145.38
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,personal_accident,124.81
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,personal_accident,199.49
+Generali Central Insurance Company Limited,FY25,OCT,personal_accident,69.23
+Generali Central Insurance Company Limited,FY24,OCT,personal_accident,70.86
+Go Digit General Insurance Ltd,FY25,OCT,personal_accident,215.58
+Go Digit General Insurance Ltd,FY24,OCT,personal_accident,370.11
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,personal_accident,309.09
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,personal_accident,246.5
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,personal_accident,275.73
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,personal_accident,367.69
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,personal_accident,69.44
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,personal_accident,77.29
+Liberty  General Insurance Co. Ltd,FY25,OCT,personal_accident,11.22
+Liberty  General Insurance Co. Ltd,FY24,OCT,personal_accident,15.23
+Magma General Insurance Limited,FY25,OCT,personal_accident,28.5
+Magma General Insurance Limited,FY24,OCT,personal_accident,16.46
+National Insurance Co Ltd,FY25,OCT,personal_accident,466.15
+National Insurance Co Ltd,FY24,OCT,personal_accident,499.72
+Navi General Insurance Co. Ltd,FY25,OCT,personal_accident,2.7
+Raheja QBE General Insurance Co Ltd,FY25,OCT,personal_accident,0.84
+Raheja QBE General Insurance Co Ltd,FY24,OCT,personal_accident,0.33
+Reliance General Insurance Co Ltd,FY25,OCT,personal_accident,265.04
+Reliance General Insurance Co Ltd,FY24,OCT,personal_accident,165.78
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,personal_accident,42.84
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,personal_accident,44.78
+SBI General Insurance Co Ltd,FY25,OCT,personal_accident,983.56
+SBI General Insurance Co Ltd,FY24,OCT,personal_accident,670.84
+Shriram General Insurance Co Ltd,FY25,OCT,personal_accident,79.32
+Shriram General Insurance Co Ltd,FY24,OCT,personal_accident,68.75
+Tata AIG General Insurance Co Ltd,FY25,OCT,personal_accident,134.81
+Tata AIG General Insurance Co Ltd,FY24,OCT,personal_accident,136.8
+The New India Assurance Co Ltd,FY25,OCT,personal_accident,396.21
+The New India Assurance Co Ltd,FY24,OCT,personal_accident,378.07
+The Oriental Insurance Co Ltd,FY25,OCT,personal_accident,2813.74
+The Oriental Insurance Co Ltd,FY24,OCT,personal_accident,1270.98
+United India Insurance Co Ltd,FY25,OCT,personal_accident,478.34
+United India Insurance Co Ltd,FY24,OCT,personal_accident,318.71
+Universal Sompo General Insurance Co Ltd,FY25,OCT,personal_accident,94.44
+Universal Sompo General Insurance Co Ltd,FY24,OCT,personal_accident,76.17
+Zuno General Insurance Co Ltd,FY25,OCT,personal_accident,13.21
+Zuno General Insurance Co Ltd,FY24,OCT,personal_accident,16.58
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,personal_accident,34.63
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,personal_accident,43.48
+ Niva bupa health insurance company limited,FY25,OCT,personal_accident,55.23
+ Niva bupa health insurance company limited,FY24,OCT,personal_accident,71.52
+Aditya Birla Health Insurance Co Ltd,FY25,OCT,personal_accident,165.83
+Aditya Birla Health Insurance Co Ltd,FY24,OCT,personal_accident,190.67
+Care Health Insurance Ltd,FY25,OCT,personal_accident,126.8
+Care Health Insurance Ltd,FY24,OCT,personal_accident,108.99
+Galaxy Health Insurance Company Ltd,FY25,OCT,personal_accident,2.71
+ManipalCigna Health Insurance Co Ltd,FY25,OCT,personal_accident,25.56
+ManipalCigna Health Insurance Co Ltd,FY24,OCT,personal_accident,18.53
+Star Health & Allied Insurance Co Ltd,FY25,OCT,personal_accident,90.16
+Star Health & Allied Insurance Co Ltd,FY24,OCT,personal_accident,105.82
+Acko General Insurance Ltd,FY25,OCT,misc,52.6
+Acko General Insurance Ltd,FY24,OCT,misc,42.91
+Bajaj General Insurance Limited ,FY25,OCT,misc,1713.17
+Bajaj General Insurance Limited ,FY24,OCT,misc,1576.64
+Cholamandalam MS General Insurance Co Ltd,FY25,OCT,misc,27.48
+Cholamandalam MS General Insurance Co Ltd,FY24,OCT,misc,459.6
+Generali Central Insurance Company Limited,FY25,OCT,misc,285.77
+Generali Central Insurance Company Limited,FY24,OCT,misc,392.21
+Go Digit General Insurance Ltd,FY25,OCT,misc,140.81
+Go Digit General Insurance Ltd,FY24,OCT,misc,112.48
+HDFC Ergo General Insurance Co Ltd,FY25,OCT,misc,1257.87
+HDFC Ergo General Insurance Co Ltd,FY24,OCT,misc,2583.18
+ICICI Lombard General Insurance Co Ltd,FY25,OCT,misc,1140.47
+ICICI Lombard General Insurance Co Ltd,FY24,OCT,misc,1711.52
+IFFCO-Tokio General Insurance Co Ltd,FY25,OCT,misc,910.45
+IFFCO-Tokio General Insurance Co Ltd,FY24,OCT,misc,947.6
+Kshema General insurance,FY25,OCT,misc,520.97
+Kshema General insurance,FY24,OCT,misc,700.04
+Liberty  General Insurance Co. Ltd,FY25,OCT,misc,41.08
+Liberty  General Insurance Co. Ltd,FY24,OCT,misc,38.78
+Magma General Insurance Limited,FY25,OCT,misc,14.49
+Magma General Insurance Limited,FY24,OCT,misc,2.8
+National Insurance Co Ltd,FY25,OCT,misc,315.86
+National Insurance Co Ltd,FY24,OCT,misc,314.51
+Raheja QBE General Insurance Co Ltd,FY25,OCT,misc,0.13
+Raheja QBE General Insurance Co Ltd,FY24,OCT,misc,0.11
+Reliance General Insurance Co Ltd,FY25,OCT,misc,1781.26
+Reliance General Insurance Co Ltd,FY24,OCT,misc,2823.17
+Royal Sundaram General Insurance Co Ltd,FY25,OCT,misc,13.33
+Royal Sundaram General Insurance Co Ltd,FY24,OCT,misc,9.17
+SBI General Insurance Co Ltd,FY25,OCT,misc,1243.67
+SBI General Insurance Co Ltd,FY24,OCT,misc,1780.59
+Shriram General Insurance Co Ltd,FY25,OCT,misc,30.22
+Shriram General Insurance Co Ltd,FY24,OCT,misc,12.58
+Tata AIG General Insurance Co Ltd,FY25,OCT,misc,963.13
+Tata AIG General Insurance Co Ltd,FY24,OCT,misc,705.97
+The New India Assurance Co Ltd,FY25,OCT,misc,1190.23
+The New India Assurance Co Ltd,FY24,OCT,misc,955.77
+The Oriental Insurance Co Ltd,FY25,OCT,misc,281.26
+The Oriental Insurance Co Ltd,FY24,OCT,misc,1223.2
+United India Insurance Co Ltd,FY25,OCT,misc,351.82
+United India Insurance Co Ltd,FY24,OCT,misc,946.04
+Universal Sompo General Insurance Co Ltd,FY25,OCT,misc,293.08
+Universal Sompo General Insurance Co Ltd,FY24,OCT,misc,946.74
+Zuno General Insurance Co Ltd,FY25,OCT,misc,20.44
+Zuno General Insurance Co Ltd,FY24,OCT,misc,1.34
+Zurich Kotak Mahindra General Insurance Co Ltd,FY25,OCT,misc,38.78
+Zurich Kotak Mahindra General Insurance Co Ltd,FY24,OCT,misc,26.98
+Star Health & Allied Insurance Co Ltd,FY25,OCT,misc,0.03
+Star Health & Allied Insurance Co Ltd,FY24,OCT,misc,0.15
+Agriculture Insurance Co Of India Ltd,FY25,OCT,misc,7016.1
+Agriculture Insurance Co Of India Ltd,FY24,OCT,misc,5577.54
+ECGC Ltd,FY25,OCT,misc,777.34
+ECGC Ltd,FY24,OCT,misc,698.69
