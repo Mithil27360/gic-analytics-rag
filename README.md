@@ -8,10 +8,9 @@ This system provides AI-powered analytics over General Insurance Company (GIC) p
 
 ### Key Features
 
-- ✅ **Zero Hallucinations**: All answers grounded in actual data with citations
-- ✅ **Advanced Analytics**: Growth metrics, volatility analysis, risk classifications
-- ✅ **Groq-Powered**: Ultra-fast responses using Llama 3.3 70B
-- ✅ **Persistent Storage**: ChromaDB vector database with disk persistence
+-  **Zero Hallucinations**: All answers grounded in actual data with citations
+-  **Advanced Analytics**: Growth metrics, volatility analysis, risk classifications
+-  **Persistent Storage**: ChromaDB vector database with disk persistence
 
 
 ##  Quick Start
@@ -92,7 +91,7 @@ rag star/
 └── chroma_db/                 # Vector database (auto-created)
 ```
 
-## 🏗️ Architecture
+##  Architecture
 
 ### 1. Analytics Layer (`analytics.py`)
 - Computes growth metrics at industry/segment/company levels
@@ -118,14 +117,14 @@ rag star/
 - Knowledge base management
 - System status monitoring
 
-## 🔧 System Requirements
+##  System Requirements
 
 - Python 3.8+
 - 8GB RAM minimum
 - Internet connection (for Groq API)
 - macOS, Linux, or Windows
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Basic Workflow
 
@@ -147,7 +146,7 @@ If Groq API key is missing:
 - Still functional but less sophisticated
 - Add key to `.env` and restart app
 
-## 🧪 Testing
+##  Testing
 
 ### Test Document Generation
 ```bash
@@ -173,7 +172,7 @@ python analytics.py
 
 Shows industry metrics and growth calculations.
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### "Knowledge base not found"
 Run: `cd Rag && python document_generator.py`
@@ -187,7 +186,7 @@ Some packages may show version conflicts. These are non-critical and can be igno
 ### ChromaDB errors
 Delete `chroma_db/` folder and restart app to regenerate the vector database.
 
-## 📊 Data Coverage
+##  Data Coverage
 
 **Time Period**: FY24 & FY25 (April-October)
 
@@ -211,7 +210,7 @@ Delete `chroma_db/` folder and restart app to regenerate the vector database.
 - Portfolio concentration
 - Risk classifications
 
-## 🎯 Key Insights Generated
+##  Key Insights Generated
 
 1. **Company Summaries**: Premium, top segment, volatility, risk notes
 2. **Segment Analysis**: Market share, YoY growth, characteristics, risks
@@ -219,21 +218,21 @@ Delete `chroma_db/` folder and restart app to regenerate the vector database.
 4. **Industry Overview**: Total premium, trends, strategic insights
 5. **Growth Patterns**: Momentum analysis, quality indicators
 
-## 🔐 Security
+##  Security
 
 - API keys stored in `.env` (gitignored)
 - No data sent outside Groq API
 - All data processing happens locally
 - ChromaDB runs locally (no cloud)
 
-## 🚀 Performance
+##  Performance
 
 - **Query Response**: 1-3 seconds (Groq is fast!)
 - **Knowledge Base Gen**: ~5 seconds for 49 documents
 - **Vector Ingestion**: ~10 seconds for full corpus
 - **Embedding Model**: Runs on CPU, very efficient
 
-## 📝 License
+##  License
 
 This project uses:
 - Groq API (subject to Groq's terms)
