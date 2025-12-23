@@ -1,8 +1,8 @@
-# 🛡️ GIC Insurance Analytics RAG Copilot
+#  GIC Insurance Analytics RAG Copilot
 
 Production-grade Insurance Analytics RAG Copilot powered by **Groq (Llama 3.3 70B)** and **ChromaDB**.
 
-## 📊 Overview
+##  Overview
 
 This system provides AI-powered analytics over General Insurance Company (GIC) premium data (FY24 & FY25, Apr-Oct). It uses **Retrieval-Augmented Generation (RAG)** to deliver grounded, hallucination-free insights.
 
@@ -12,9 +12,9 @@ This system provides AI-powered analytics over General Insurance Company (GIC) p
 - ✅ **Advanced Analytics**: Growth metrics, volatility analysis, risk classifications
 - ✅ **Groq-Powered**: Ultra-fast responses using Llama 3.3 70B
 - ✅ **Persistent Storage**: ChromaDB vector database with disk persistence
-- ✅ **Beautiful UI**: Professional Streamlit interface with chat history
 
-## 🚀 Quick Start
+
+##  Quick Start
 
 ### 1. Install Dependencies
 
@@ -54,7 +54,7 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501`
 
-## 💡 Sample Queries
+##  Sample Queries
 
 Try asking:
 - "Which insurers have risky growth?"
@@ -241,9 +241,7 @@ This project uses:
 - Streamlit (Apache 2.0)
 - Sentence Transformers (Apache 2.0)
 
-## 🤝 Support
 
-Built with ❤️ for Insurance Analytics
 
 For issues or questions:
 1. Check the Troubleshooting section
