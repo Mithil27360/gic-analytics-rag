@@ -31,10 +31,21 @@ class RAGDocumentGenerator:
         # Generate each document type
         self._generate_company_summaries()
         self._generate_segment_summaries()
-        self._generate_company_rankings()  # NEW
-        self._generate_health_segment_rankings()  # NEW - Fix for Top 3 Health query
-        self._generate_segment_comparison()  # NEW (with pre-calculated sums)
         self._generate_risk_summaries()
+        
+        # Generate ranking documents for all queries
+        self._generate_company_rankings()
+        self._generate_health_segment_rankings()
+        self._generate_motor_segment_rankings()
+        self._generate_misc_segment_rankings()
+        self._generate_fire_segment_rankings()
+        self._generate_pa_segment_rankings()
+        self._generate_engineering_segment_rankings()
+        self._generate_liability_segment_rankings()
+        self._generate_marine_segment_rankings()
+        self._generate_aviation_segment_rankings()
+        
+        self._generate_segment_comparison()
         self._generate_industry_overview()
         self._generate_growth_insights()
         
@@ -50,107 +61,116 @@ class RAGDocumentGenerator:
             'The Oriental Insurance Co Ltd',
             'United India Insurance Co Ltd'
         }
-        
-        # Latest month data
-        latest = self.df[
-            (self.df["financial_year"] == "FY25") & 
-            (self.df["ytd_upto_month"] == "OCT")
-        ]
-        
-        # Sep data for monthly flow calculation
-        sep_data = self.df[
-            (self.df["financial_year"] == "FY25") & 
-            (self.df["ytd_upto_month"] == "SEP")
-        ]
+        """Generate company-level summary documents with FY24/FY25 comparison"""
+        latest = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        fy24_data = self.df[(self.df["financial_year"] == "FY24") & (self.df["ytd_upto_month"] == "OCT")]
+        sep_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "SEP")]
         
         companies = latest["company"].unique()
         
         for company in companies:
             company_data = latest[latest["company"] == company]
+            total_prem_fy25 = company_data["premium_ytd"].sum()
             
-            # CRITICAL FIX: Separate total from segment-specific
-            total_prem_oct = company_data["premium_ytd"].sum()  # Oct YTD
+            # FY24 baseline for YoY comparison
+            company_fy24 = fy24_data[fy24_data["company"] == company]
+            total_prem_fy24 = company_fy24["premium_ytd"].sum() if len(company_fy24) > 0 else 0
+            
+            # Calculate YoY growth
+            if total_prem_fy24 > 0:
+                yoy_growth_pct = ((total_prem_fy25 - total_prem_fy24) / total_prem_fy24) * 100
+                absolute_growth = total_prem_fy25 - total_prem_fy24
+            else:
+                yoy_growth_pct = 0
+                absolute_growth = 0
+            
+            # Growth tier classification
+            if yoy_growth_pct > 20:
+                growth_tier = "High Growth (>20%)"
+            elif yoy_growth_pct > 10:
+                growth_tier = "Above Average Growth (10-20%)"
+            elif yoy_growth_pct > 0:
+                growth_tier = "Moderate Growth (0-10%)"
+            elif yoy_growth_pct == 0:
+                growth_tier = "No Growth Data"
+            else:
+                growth_tier = "Declining (<0%)"
             
             # Sep YTD for monthly flow
-            sep_company_data = sep_data[sep_data["company"] == company]
-            total_prem_sep = sep_company_data["premium_ytd"].sum() if len(sep_company_data) > 0 else 0
+            company_sep = sep_data[sep_data["company"] == company]
+            total_prem_sep = company_sep["premium_ytd"].sum() if len(company_sep) > 0 else 0
+            monthly_oct = total_prem_fy25 - total_prem_sep
             
-            # Monthly premium (Oct standalone)
-            monthly_prem_oct = total_prem_oct - total_prem_sep if total_prem_sep > 0 else 0
+            # Top segment analysis
+            top_segment = company_data.nlargest(1, "premium_ytd")
+            if len(top_segment) > 0:
+                top_seg_name = top_segment.iloc[0]["segment"].replace("_", " ").title()
+                top_seg_prem = top_segment.iloc[0]["premium_ytd"]
+                top_seg_pct = (top_seg_prem / total_prem_fy25 * 100) if total_prem_fy25 > 0 else 0
+            else:
+                top_seg_name = "Unknown"
+                top_seg_prem = 0
+                top_seg_pct = 0
             
-            # Find top segment
-            top_segment_row = company_data.nlargest(1, "premium_ytd").iloc[0]
-            top_segment = top_segment_row["segment"]
-            top_segment_prem = top_segment_row["premium_ytd"]
-            top_segment_pct = (top_segment_prem / total_prem_oct * 100)
+            # Sector classification (hardcoded PSU list)
+            psu_companies = [
+                "The New India Assurance Co Ltd",
+                "The Oriental Insurance Co Ltd",
+                "National Insurance Co Ltd",
+                "United India Insurance Co Ltd",
+                "Agriculture Insurance Company of India Ltd",
+                "ECGC Ltd"
+            ]
+            sector = "Public Sector (PSU)" if company in psu_companies else "Private Sector"
             
-            # Sector classification
-            sector = "Public Sector (PSU)" if company in PSU_COMPANIES else "Private Sector"
-            
-            # Compute volatility
-            company_monthly = self._get_monthly_premiums(company)
-            volatility = "Low" if len(company_monthly) < 3 else self._compute_volatility_tier(
-                company_monthly["monthly_premium"].values
-            )
-            
-            # Generate CORRECTED document
             doc = f"""Company: {company}
 
 Sector: {sector}
 
-FY25 YTD Premium (Oct): Rs.{total_prem_oct:.2f} Cr (Total across all segments)
-FY25 YTD Premium (Sep): Rs.{total_prem_sep:.2f} Cr
-Monthly Premium (Oct standalone): Rs.{monthly_prem_oct:.2f} Cr
+FY25 Performance:
+- FY25 YTD Premium (Oct): Rs.{total_prem_fy25:.2f} Cr (Total across all segments)
+- FY25 YTD Premium (Sep): Rs.{total_prem_sep:.2f} Cr
+- Monthly Premium (Oct standalone): Rs.{monthly_oct:.2f} Cr
 
-Top Segment: {top_segment} (Rs.{top_segment_prem:.2f} Cr, {top_segment_pct:.1f}% of portfolio)
-Growth Volatility: {volatility}
+FY24 Baseline:
+- FY24 YTD Premium (Oct): Rs.{total_prem_fy24:.2f} Cr
+- Absolute Growth (FY24→FY25): Rs.{absolute_growth:+.2f} Cr
+- YoY Growth Rate: {yoy_growth_pct:+.2f}%
+- Growth Classification: {growth_tier}
 
-Portfolio Insights:
-- Ownership: {sector}
-- Primary business line: {top_segment}
-- Segment concentration: {top_segment_pct:.1f}%
-- Concentration risk: {'High' if top_segment_pct > 60 else 'Medium' if top_segment_pct > 40 else 'Low'}
-- Suitable for: {'Volume-focused strategies' if top_segment_pct > 60 else 'Balanced growth'}
-
-Risk Notes:
-{self._generate_risk_note(top_segment, top_segment_pct)}"""
+Portfolio Composition:
+- Top Segment: {top_seg_name}
+- Top Segment Premium: Rs.{top_seg_prem:.2f} Cr (segment-specific, NOT total premium)
+- Portfolio Concentration: {top_seg_pct:.1f}% in {top_seg_name}"""
+            
+            company_id = company.lower().replace(" ", "_").replace(".", "").replace("&", "").replace(",", "")
             
             self.documents.append(doc)
             self.metadata.append({
                 "doc_type": "company_summary",
                 "company": company,
                 "sector": sector,
-                "total_premium": float(total_prem_oct),
-                "top_segment": top_segment,
-                "top_segment_premium": float(top_segment_prem),
-                "doc_id": f"company_{company.replace(' ', '_').lower()}"
+                "total_premium_fy25": float(total_prem_fy25),
+                "total_premium_fy24": float(total_prem_fy24),
+                "yoy_growth_pct": float(yoy_growth_pct),
+                "doc_id": f"company_{company_id}"
             })
     
     def _generate_segment_summaries(self):
-        """Generate one document per segment"""
+        """Generate segment-specific documents"""
+        latest = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        fy24_data = self.df[(self.df["financial_year"] == "FY24") & (self.df["ytd_upto_month"] == "OCT")]
         
-        segments = ["health", "motor_total", "misc", "fire", "personal_accident", 
+        segments = ["health", "motor_total", "fire", "misc", "personal_accident",
                    "engineering", "liability", "marine_total", "aviation"]
         
+        # Calculate total market for share calculation
+        total_market = latest["premium_ytd"].sum()
+        
         for segment in segments:
-            segment_data = self.df[
-                (self.df["segment"] == segment) & 
-                (self.df["financial_year"] == "FY25") & 
-                (self.df["ytd_upto_month"] == "OCT")
-            ]
-            
-            if len(segment_data) == 0:
-                continue
-            
-            total_prem = segment_data["premium_ytd"].sum()
+            segment_data = latest[latest["segment"] == segment]
+            total_prem_oct = segment_data["premium_ytd"].sum()
             num_companies = segment_data["company"].nunique()
-            
-            # YoY growth
-            fy24_prem = self.df[
-                (self.df["segment"] == segment) & 
-                (self.df["financial_year"] == "FY24") & 
-                (self.df["ytd_upto_month"] == "OCT")
-            ]["premium_ytd"].sum()
             
             # Calculate YoY for semantic enrichment
             fy24_segment = fy24_data[fy24_data["segment"] == segment]
@@ -227,41 +247,184 @@ Total Market: ₹{company_totals.sum():.2f} Cr"""
         self.metadata.append({"doc_type": "company_rankings", "doc_id": "company_rankings_fy25"})
     
     def _generate_health_segment_rankings(self):
-        """Generate health segment-specific rankings for health leader queries"""
-        latest = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
-        health_companies = latest[latest["segment"] == "health"].groupby("company")["premium_ytd"].sum().sort_values(ascending=False)
+        """Generate Top 10 health segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        health_data = fy25_data[fy25_data["segment"] == "health"]
         
-        top_10_health = health_companies.head(10)
-        total_health = health_companies.sum()
+        top_10 = health_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
         
-        doc = f"""Health Segment Leaders (FY25 YTD Oct)
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Health Segment Premium (FY25 YTD Oct):
 
-Top 10 Companies by Health Segment Premium:
+{chr(10).join(ranking_lines)}
 
-1. {health_companies.index[0]}: Rs.{health_companies.iloc[0]:.2f} Cr
-2. {health_companies.index[1]}: Rs.{health_companies.iloc[1]:.2f} Cr
-3. {health_companies.index[2]}: Rs.{health_companies.iloc[2]:.2f} Cr
-4. {health_companies.index[3]}: Rs.{health_companies.iloc[3]:.2f} Cr
-5. {health_companies.index[4]}: Rs.{health_companies.iloc[4]:.2f} Cr
-6. {health_companies.index[5]}: Rs.{health_companies.iloc[5]:.2f} Cr
-7. {health_companies.index[6]}: Rs.{health_companies.iloc[6]:.2f} Cr
-8. {health_companies.index[7]}: Rs.{health_companies.iloc[7]:.2f} Cr
-9. {health_companies.index[8]}: Rs.{health_companies.iloc[8]:.2f} Cr
-10. {health_companies.index[9]}: Rs.{health_companies.iloc[9]:.2f} Cr
-
-Market Concentration:
-- Top 3 share: {(top_10_health.iloc[:3].sum() / total_health * 100):.1f}%
-- Top 5 share: {(top_10_health.iloc[:5].sum() / total_health * 100):.1f}%
-- Top 10 share: {(top_10_health.sum() / total_health * 100):.1f}%
-
-Total Health Segment: Rs.{total_health:.2f} Cr
-Active Companies: {len(health_companies)}"""
+Note: This ranking is for the Health segment only, not total company premium."""
         
         self.documents.append(doc)
-        self.metadata.append({
-            "doc_type": "health_rankings",
-            "doc_id": "health_segment_rankings_fy25"
-        })
+        self.metadata.append({"doc_type":"health_rankings", "segment": "health", "doc_id": "health_segment_rankings_fy25"})
+    
+    def _generate_motor_segment_rankings(self):
+        """Generate Top 10 motor segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        motor_data = fy25_data[fy25_data["segment"] == "motor_total"]
+        
+        top_10 = motor_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Motor Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Motor segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "motor_rankings", "segment": "motor_total", "doc_id": "motor_segment_rankings_fy25"})
+    
+    def _generate_misc_segment_rankings(self):
+        """Generate Top 10 misc segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        misc_data = fy25_data[fy25_data["segment"] == "misc"]
+        
+        top_10 = misc_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Misc (Crop/Credit) Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Misc segment only. Includes Crop and Credit insurance."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "misc_rankings", "segment": "misc", "doc_id": "misc_segment_rankings_fy25"})
+    
+    def _generate_fire_segment_rankings(self):
+        """Generate Top 10 fire segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        fire_data = fy25_data[fy25_data["segment"] == "fire"]
+        
+        top_10 = fire_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Fire Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Fire segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "fire_rankings", "segment": "fire", "doc_id": "fire_segment_rankings_fy25"})
+    
+    def _generate_pa_segment_rankings(self):
+        """Generate Top 10 personal accident segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        pa_data = fy25_data[fy25_data["segment"] == "personal_accident"]
+        
+        top_10 = pa_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Personal Accident Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Personal Accident segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "pa_rankings", "segment": "personal_accident", "doc_id": "pa_segment_rankings_fy25"})
+    
+    def _generate_engineering_segment_rankings(self):
+        """Generate Top 10 engineering segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        eng_data = fy25_data[fy25_data["segment"] == "engineering"]
+        
+        top_10 = eng_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Engineering Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Engineering segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "engineering_rankings", "segment": "engineering", "doc_id": "engineering_segment_rankings_fy25"})
+    
+    def _generate_liability_segment_rankings(self):
+        """Generate Top 10 liability segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        liability_data = fy25_data[fy25_data["segment"] == "liability"]
+        
+        top_10 = liability_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Liability Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Liability segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "liability_rankings", "segment": "liability", "doc_id": "liability_segment_rankings_fy25"})
+    
+    def _generate_marine_segment_rankings(self):
+        """Generate Top 10 marine segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        marine_data = fy25_data[fy25_data["segment"] == "marine_total"]
+        
+        top_10 = marine_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Marine Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Marine segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "marine_rankings", "segment": "marine_total", "doc_id": "marine_segment_rankings_fy25"})
+    
+    def _generate_aviation_segment_rankings(self):
+        """Generate Top 10 aviation segment ranking document"""
+        fy25_data = self.df[(self.df["financial_year"] == "FY25") & (self.df["ytd_upto_month"] == "OCT")]
+        aviation_data = fy25_data[fy25_data["segment"] == "aviation"]
+        
+        top_10 = aviation_data.nlargest(10, "premium_ytd")[["company", "premium_ytd"]]
+        
+        ranking_lines = []
+        for i, (_, row) in enumerate(top_10.iterrows(), 1):
+            ranking_lines.append(f"{i}. {row['company']}: Rs.{row['premium_ytd']:.2f} Cr")
+        
+        doc = f"""Top 10 Companies by Aviation Segment Premium (FY25 YTD Oct):
+
+{chr(10).join(ranking_lines)}
+
+Note: This ranking is for the Aviation segment only, not total company premium."""
+        
+        self.documents.append(doc)
+        self.metadata.append({"doc_type": "aviation_rankings", "segment": "aviation", "doc_id": "aviation_segment_rankings_fy25"})
     
     def _generate_segment_comparison(self):
         """Generate segment comparison document for compare queries"""
